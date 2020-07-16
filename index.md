@@ -1,4 +1,4 @@
-<h4 style="text-align:center">Stay home, Stay safe. <a href="/covid-19">Learn more about COVID-19<a/></h4>
+<center><h4>Stay home, Stay safe. <a href="/covid-19">Learn more about COVID-19<a/></h4>
 <hr>
 
 <hr>
