@@ -3,7 +3,7 @@
 
 <img src="/images/tcps_fourm_screenshot.png">
 <center><h3>Find us on the forum.<h3/><center/>
-<center><a href="/jump/fourm">Visit now></a><center/>
+<center><a href="/jump/fourm">Visit now</a><center/>
 
 <hr>
 
