@@ -6,7 +6,10 @@ p {text-align: center;}
 </style>
 <style type="text/css">
   #left{
-        text-align:center;
+        text-align:left;
+  }
+  #right{
+        text-align:right;
   }
 </style>
 <h4>Stay home, Stay safe. <a href="/covid-19">Learn more about COVID-19.</a></h4>
