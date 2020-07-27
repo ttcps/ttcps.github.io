@@ -13,7 +13,7 @@ p {text-align: center;}
   }
 </style>
 
-<h1><div id="left">如何在中国大陆地区便捷地下载于本站上载的插件。</div></h1>
+<h1><div id="left">如何在中国大陆便捷地下载于本站上载的插件</div></h1>
 <div id="right"><a href="plugins/download/cn/eng">English</a></div>
 <hr>
 <div id="left">由于网络环境原因，于本站下载内容会较为缓慢。<br>我们提供了几个解决办法：<br>
