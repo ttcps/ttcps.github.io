@@ -33,7 +33,6 @@ Since founded, tcps never stop their steps on creating plugins, Dedicated to cre
 <a href="/plugins/download">Check out</a>
 
 <hr>
-<footer>
+
 <h4><a href="/plugins/download">Plugins Download</a>&emsp;<a href="/leaderships">Leaderships</a>&emsp;<a href="/contact">Contact us</a></h4>
 Copyright © 2020 tcps all right reserved.
-</footer>
