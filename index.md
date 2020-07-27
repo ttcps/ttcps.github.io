@@ -16,7 +16,7 @@ p {text-align: center;}
 <hr>
   
 <h1>What's tcps</h1>
-Since founded, tcps never stop their steps on creating plugins, Dedicated to creating better plugins. Our member mostly located in asia, join a part of us, Contribute to tcps and the TheoTown community.
+Since founded, we never stop our steps on creating plugins, dedicated to creating better plugins. Our member mostly located in asia, join a part of us, contribute to tcps and the TheoTown community.
   
 <hr>
 
