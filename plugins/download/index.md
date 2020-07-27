@@ -15,8 +15,8 @@ p {text-align: center;}
 
 <h1><div id="left">Plugin Downloads</div></h1>
 <hr>
-<div id="left"><h4>If you lives in China Mainland, please click <a href="/plugins/download/cn">here</a>.<h4></div>
-<div id="left"><h4>如果您生活在中国大陆，请点击<a href="/plugins/download/cn">此处</a>。<h4></div>
+<h4><div id="left">If you lives in China Mainland, please click <a href="/plugins/download/cn">here</a>.</div><h4>
+<h4><div id="left">如果您生活在中国大陆，请点击<a href="/plugins/download/cn">此处</a>。</div><h4>
 <hr>
 <hr>
 <h4><a href="/plugins/download">Plugins Download</a>&emsp;<a href="/news">News</a>&emsp;<a href="/leaderships">Leaderships</a>&emsp;<a href="/contact">Contact us</a></h4>
