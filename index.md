@@ -27,7 +27,7 @@ Since founded, tcps never stop their steps on creating plugins, Dedicated to cre
 
 <hr>
 
-<img src="/images/tcps_web_plugin_download_banner.png">
+<img src="/images/tcps_web_plugin_download_banner.PNG">
 <h3>Download plugins.</h3>
 
 <a href="/plugins/download">Check out</a>
