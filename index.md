@@ -27,4 +27,15 @@ Since founded, tcps never stop their steps on creating plugins, Dedicated to cre
 
 <hr>
 
+<img src="/images/tcps_web_plugin_download_banner.png">
+<h3>Download plugins.</h3>
+
+<a href="/plugins/download">Check out</a>
+
+<hr>
+
+<hr>
+
+<hr>
+<h4>Plugins Download&nbsp;Leaderships&nbsp;Contract us<h4>
 Copyright © 2020 tcps all right reserved.
