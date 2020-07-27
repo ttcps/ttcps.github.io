@@ -18,5 +18,6 @@ p {text-align: center;}
 <div id="left"><h4>If you lives in China Mainland, please click <a href="/plugins/download/cn">here</a>.<h4></div>
 <div id="left"><h4>如果您生活在中国大陆，请点击<a href="/plugins/download/cn">此处</a>。<h4></div>
 <hr>
+<hr>
 <h4><a href="/plugins/download">Plugins Download</a>&emsp;<a href="/news">News</a>&emsp;<a href="/leaderships">Leaderships</a>&emsp;<a href="/contact">Contact us</a></h4>
 Copyright © 2020 tcps all right reserved.
