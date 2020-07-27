@@ -17,6 +17,8 @@ p {text-align: center;}
 <hr>
 <div id="left">Email: tcps0team@gmail.com<br>
 Website: htttps://ttcps.github.io/<br>
+Discord: TCPS Offical#3169
+TheoTown Fourm: <a hrer="/jump/fourm/">TCPS Team<a/>
 Tencent QQ Group: 705994440</div>
 <div id="left"><b>Besides it, we will not provide any contact information, including telephone.</b></div>
 <hr>
