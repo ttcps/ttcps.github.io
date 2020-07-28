@@ -113,7 +113,7 @@ p {text-align: center;}
 
 <div class="leadership_0">
 
-<div id="big-title" style="color:##636363;">Oriental Department</div>
+<div id="big-title" style="color:black;">Oriental Department</div>
 
 <div class="leadership_">
 <div id="title" style="color:#636363;">Orange</div>
