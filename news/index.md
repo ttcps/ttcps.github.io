@@ -16,10 +16,8 @@ p {text-align: center;}
 <hr>
 <h1>News</h1>
 <hr>
-<div>
-<img src="https://ttcps.github.io/images/tcps_1st_anniversary.png" width="80" height="60" align ="left">
-<h3>tcps 1<sup>st</sup> anniversary</h3><br>Today, 23<sup>th</sup> April, is the anniversary of tcps.<br>See what's going on.
-</div>
+<img src="https://ttcps.github.io/images/tcps_1st_anniversary.png" width="160" height="120" align ="left">
+<h3>tcps 1<sup>st</sup> anniversary<br><p>Today, 23<sup>th</sup> April, is the anniversary of tcps.<br>See what's going on.</p></h3><br>
 <hr>
 <h4><a href="/plugins/download">Plugins Download</a>&emsp;<a href="/news">News</a>&emsp;<a href="/leaderships">Leaderships</a>&emsp;<a href="/contact">Contact us</a></h4>
 Copyright © 2020 tcps all right reserved.
