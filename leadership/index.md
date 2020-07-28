@@ -13,7 +13,6 @@ p {text-align: center;}
         text-align:right;
   }
   #title{
-        font-color: black;
         font-size:20px;
         text-align:left;
         font-weight:bold;
@@ -31,17 +30,17 @@ p {text-align: center;}
 <div class="leadership_1">
 
 <div class="leadership_">
-<div id="title">Ans</div>
+<div id="title" style="color:black;">Ans</div>
 <div id="des">Technical Dep. Manager<br>Info. Dep. Member</div>
 </div>
 
 <div class="leadership_">
-<div id="title">Mayor of Bielin</div>
+<div id="title" style="color:black;">Mayor of Bielin</div>
 <div id="des">Texture Dep. Manager<br>&nbsp;</div>
 </div>
 
 <div class="leadership_">
-<div id="title">mic</div>
+<div id="title" style="color:black;">mic</div>
 <div id="des">Info. Dep. Manager<br>&nbsp;</div>
 </div>
 
