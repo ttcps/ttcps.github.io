@@ -32,7 +32,7 @@ p {text-align: center;}
   }
   .leadership_long{
                display:inline-block;
-               width: 200px;
+               width: 150px;
   }
   .leadership_0{
                 font-size: 0px;
