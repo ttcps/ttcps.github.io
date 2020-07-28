@@ -28,6 +28,7 @@ p {text-align: center;}
   }
   .leadership_{
                display:inline-block;
+               height: 50px;
   }
   .leadership_0{
                font-size: 75px;
@@ -37,8 +38,6 @@ p {text-align: center;}
 <div class="leadership_0">
 
 <div id="big-title">Technical Department</div>
-
-<hr>
 
 <div class="leadership_">
 <div id="title" style="color:black;">Anssss</div>
@@ -57,8 +56,6 @@ p {text-align: center;}
 <div class="leadership_0">
 
 <div id="big-title">Texture Department</div>
-
-<hr>
 
 <div class="leadership_">
 <div id="title" style="color:black;">Mayor of Bielin</div>
@@ -88,8 +85,6 @@ p {text-align: center;}
 
 <div id="big-title">Information Department</div>
 
-<hr>
-
 <div class="leadership_">
 <div id="title" style="color:black;">mic</div>
 <div id="des">Director</div>
@@ -112,8 +107,6 @@ p {text-align: center;}
 <div class="leadership_0">
 
 <div id="big-title">Oriental Department</div>
-
-<hr>
 
 <div class="leadership_">
 <div id="title" style="color:black;">Orange</div>
