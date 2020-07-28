@@ -24,7 +24,7 @@ a:visited { text-decoration: none;color: black}
   }
 </style>
 <hr>
-<h1>News</h1>
+<h1><div id="left">News</div></h1>
 <hr>
 <a href="/news/01">
 <img src="https://ttcps.github.io/images/tcps_1st_anniversary.png" width="160" height="120" align ="left">
