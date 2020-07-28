@@ -21,19 +21,28 @@ p {text-align: center;}
   #des{
        font-size:15px;
        text-align:left;
+  }
+  .leadership_{
+               display:inline-block
+  }
 </style>
 <h1><div id="left">Leadership</div></h1>
 <hr>
 <div class="leadership_1">
 
-<div class="leadership-ans">
+<div class="leadership_">
 <div id="title">Ans</div>
 <div id="des">Technical Dep. Manager<br>Info. Dep. Member</div>
 </div>
 
-<div class="leadership-bielin">
+<div class="leadership_">
 <div id="title">Mayor of Bielin</div>
 <div id="des">Texture Dep. Manager</div>
+</div>
+
+<div class="leadership_">
+<div id="title">mic</div>
+<div id="des">Info. Dep. Manager</div>
 </div>
 
 </div>
