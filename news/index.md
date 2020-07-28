@@ -40,7 +40,8 @@ a:visited { text-decoration: none;}
 <div id="title"><a href="/news/01" style="color:black;">tcps 1<sup>st</sup> anniversary</a></div>
 <div id="left"><a href="/news/01" style="color:#727272;">Today, 23<sup>th</sup> April, is the anniversary of tcps.<br>See what's going on.</a></div>
 <hr>
-<a href="/news/01"><div class="blank"></div></a>
+
+<a href="/news/02"><div class="blank"></div></a>
 <hr>
 
 <h4><a href="/plugins/download">Plugins Download</a>&emsp;<a href="/news">News</a>&emsp;<a href="/leaderships">Leaderships</a>&emsp;<a href="/contact">Contact us</a></h4>
