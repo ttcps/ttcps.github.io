@@ -32,7 +32,7 @@ p {text-align: center;}
 <div class="leadership_0">
 
 <div class="leadership_">
-<div id="title" style="color:black;">Ans</div>
+<div id="title" style="color:black;">Anssss</div>
 <div id="des">Technical Dep. Director<br>Info. Dep. Member</div>
 </div>
 
