@@ -18,15 +18,9 @@ p {text-align: center;}
 <hr>
 <div id="left">由于网络环境原因，于本站下载内容会较为缓慢。<br>我们提供了几个解决办法：<br>
 <ul>
-　<li>Stay home</li>
-　<li>Wear an effective surgical mask</li>
-  <li>Social distancing(1.5m or above)</li>
-  <li>Wash hands always</li>
-  <li>Cover your mouth when you cough</li>
-  <li>See an doctor when you sick, remember to wear mask</li>
+　<li><a href="jump/weiyun-download">从“腾讯微云”上下载</a></li>
+　<li>加入tcps腾讯QQ群，群编号：705994440</li>
 </ul>
-When you sick but not sure you infected COVID-19, you can use this tools to confrimed.(Only for refrence, not the final result)
-<a href="/jump/covid-19-check-tool/">Click here↗</a>
 <hr>
 <h4><a href="/plugins/download">Plugins Download</a>&emsp;<a href="/news">News</a>&emsp;<a href="/leaderships">Leaderships</a>&emsp;<a href="/contact">Contact us</a></h4>
   <p>Copyright © 2020 tcps all right reserved.</p>
