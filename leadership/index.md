@@ -75,7 +75,7 @@ p {text-align: center;}
 
 
 <div class="leadership_">
-<div id="title" style="color:black;">ARERF</div>
+<div id="title" style="color:black;">ARERSF</div>
 <div id="des">Texture Dep. Vice Director</div>
 </div>
 
