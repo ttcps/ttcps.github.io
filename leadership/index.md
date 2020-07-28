@@ -23,7 +23,6 @@ p {text-align: center;}
   }
   .leadership_{
                display:inline-block;
-               background-color: #fafafa;
   }
   .leadership_0{
                font-size: 75px;
@@ -57,7 +56,7 @@ p {text-align: center;}
 
 <div class="leadership_">
 <div id="title" style="color:black;">ORANGE</div>
-<div id="des">Oriental Dep. Director<br>&nbsp;</div>
+<div id="des">Oriental Dep. Director</div>
 </div>
 
 </div>
