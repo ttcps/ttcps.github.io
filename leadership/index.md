@@ -33,7 +33,7 @@ p {text-align: center;}
   }
   .leadership_long{
                display:inline-block;
-               width: 150px;
+               width: 175px;
                height: 65px;
   }
   .leadership_0{
