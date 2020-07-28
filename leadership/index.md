@@ -15,7 +15,7 @@ p {text-align: center;}
   #title{
         font-size:20px;
         text-align:left;
-        font-weight:600;
+        font-weight:500;
   }
   #big-title{
         font-size:25px;
