@@ -44,15 +44,15 @@ p {text-align: center;}
 <hr>
 <div class="leadership_0">
 
-<div id="big-title" style="color:#3b3b3b;">Technical Department</div>
+<div id="big-title" style="color:black;">Technical Department</div>
 
 <div class="leadership_">
-<div id="title" style="color:black;">Anssss</div>
+<div id="title" style="color:#636363;">Anssss</div>
 <div id="des">Director</div>
 </div>
 
 <div class="leadership_">
-<div id="title" style="color:black;">Rik</div>
+<div id="title" style="color:#636363;">Rik</div>
 <div id="des">Vice Director</div>
 </div>
 
@@ -62,25 +62,25 @@ p {text-align: center;}
 
 <div class="leadership_0">
 
-<div id="big-title" style="color:#3b3b3b;">Texture Department</div>
+<div id="big-title" style="color:black;">Texture Department</div>
 
 <div class="leadership_long">
-<div id="title" style="color:black;">Mayor of Bielin</div>
+<div id="title" style="color:#636363;">Mayor of Bielin</div>
 <div id="des">Director</div>
 </div>
 
 <div class="leadership_">
-<div id="title" style="color:black;">Linger</div>
+<div id="title" style="color:#636363;">Linger</div>
 <div id="des">Vice Director</div>
 </div>
 
 <div class="leadership_">
-<div id="title" style="color:black;">ARERSF</div>
+<div id="title" style="color:#636363;">ARERSF</div>
 <div id="des">Vice Director</div>
 </div>
 
 <div class="leadership_">
-<div id="title" style="color:black;">DongWu</div>
+<div id="title" style="color:#636363;">DongWu</div>
 <div id="des">Consultant</div>
 </div>
 
@@ -90,20 +90,20 @@ p {text-align: center;}
 
 <div class="leadership_0">
 
-<div id="big-title" style="color:#3b3b3b;">Information Department</div>
+<div id="big-title" style="color:black;">Information Department</div>
 
 <div class="leadership_">
-<div id="title" style="color:black;">mic</div>
+<div id="title" style="color:#636363;">mic</div>
 <div id="des">Director</div>
 </div>
 
 <div class="leadership_long">
-<div id="title" style="color:black;">Battle Rabbit</div>
+<div id="title" style="color:#636363k;">Battle Rabbit</div>
 <div id="des">Vice Director</div>
 </div>
 
 <div class="leadership_">
-<div id="title" style="color:black;">Anssss</div>
+<div id="title" style="color:#636363;">Anssss</div>
 <div id="des">Member</div>
 </div>
 
@@ -113,15 +113,15 @@ p {text-align: center;}
 
 <div class="leadership_0">
 
-<div id="big-title" style="color:#3b3b3b;">Oriental Department</div>
+<div id="big-title" style="color:##636363;">Oriental Department</div>
 
 <div class="leadership_">
-<div id="title" style="color:black;">Orange</div>
+<div id="title" style="color:#636363;">Orange</div>
 <div id="des">Director</div>
 </div>
 
 <div class="leadership_">
-<div id="title" style="color:black;">Linger</div>
+<div id="title" style="color:#636363;">Linger</div>
 <div id="des">Vice Director</div>
 </div>
 
