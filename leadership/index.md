@@ -29,12 +29,12 @@ p {text-align: center;}
   .leadership_{
                display:inline-block;
                width: 100px;
-               height: 50px;
+               height: 100px;
   }
   .leadership_long{
                display:inline-block;
                width: 150px;
-               height: 50px;
+               height: 100px;
   }
   .leadership_0{
                 font-size: 0px;
