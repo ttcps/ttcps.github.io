@@ -18,7 +18,7 @@ p {text-align: center;}
         font-weight:bold;
   }
   #big-title{
-        font-size:25px;
+        font-size:50px;
         text-align:left;
         font-weight:bold;
   }
