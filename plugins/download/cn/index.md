@@ -22,5 +22,5 @@ p {text-align: center;}
 　<li>加入tcps腾讯QQ群，群编号：705994440</li>
 </ul>
 <hr>
-<h4><a href="/plugins/download">Plugins Download</a>&emsp;<a href="/news">News</a>&emsp;<a href="/leaderships">Leaderships</a>&emsp;<a href="/contact">Contact us</a></h4>
+<h4><a href="/plugins/download">Plugins Download</a>&emsp;<a href="/news">News</a>&emsp;<a href="/leaderships">Leadership</a>&emsp;<a href="/contact">Contact us</a></h4>
   <p>Copyright © 2020 tcps all right reserved.</p>
