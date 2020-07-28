@@ -37,12 +37,12 @@ p {text-align: center;}
 
 <div class="leadership_">
 <div id="title">Mayor of Bielin</div>
-<div id="des">Texture Dep. Manager</div>
+<div id="des">Texture Dep. Manager<br></div>
 </div>
 
 <div class="leadership_">
 <div id="title">mic</div>
-<div id="des">Info. Dep. Manager</div>
+<div id="des">Info. Dep. Manager<br></div>
 </div>
 
 </div>
