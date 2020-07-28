@@ -21,18 +21,14 @@ a:visited { text-decoration: none;}
         font-size:20px;
         text-align:left;
         font-weight:bold;
-        color: black;
   }
-  #news_left
-        text-align:left;
-        color: #727272;
 </style>
 <hr>
 <h1><div id="left">News</div></h1>
 <hr>
 <a href="/news/01"><img src="https://ttcps.github.io/images/tcps_1st_anniversary.png" width="160" height="120" align ="left"></a>
-<div id="title"><a href="/news/01">tcps 1<sup>st</sup> anniversary</a></div>
-<div id="news_left"><a href="/news/01">Today, 23<sup>th</sup> April, is the anniversary of tcps.<br>See what's going on.</a></div>
+<div id="title"><a href="/news/01"style="color:#727272;">tcps 1<sup>st</sup> anniversary</a></div>
+<div id="left"><a href="/news/01"style="color:#727272;">Today, 23<sup>th</sup> April, is the anniversary of tcps.<br>See what's going on.</a></div>
 <hr>
 <hr>
 
