@@ -8,13 +8,14 @@ a:link { text-decoration: none;}
 a:active { text-decoration: none}
 a:hover { text-decoration: none;}
 a:visited { text-decoration: none;}
+</style>
+<style>
         .blank {
             width: 160px;
             height: 120px;
             background-color: #fffff;
         }
 </style>
-
 <style type="text/css">
   #left{
         text-align:left;
