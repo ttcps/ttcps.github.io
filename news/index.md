@@ -23,7 +23,7 @@ a:visited { text-decoration: none;}
         font-weight:bold;
   }
   #des{
-        font-size:15px;
+        font-size:12.5px;
         text-align:left;
   }
 </style>
