@@ -30,6 +30,10 @@ p {text-align: center;}
                display:inline-block;
                width: 100px;
   }
+  .leadership_long{
+               display:inline-block;
+               width: 200px;
+  }
   .leadership_0{
                 font-size: 0px;
   }
@@ -58,7 +62,7 @@ p {text-align: center;}
 
 <div id="big-title" style="color:black;">Texture Department</div>
 
-<div class="leadership_">
+<div class="leadership_long">
 <div id="title" style="color:black;">Mayor of Bielin</div>
 <div id="des">Director</div>
 </div>
@@ -91,7 +95,7 @@ p {text-align: center;}
 <div id="des">Director</div>
 </div>
 
-<div class="leadership_">
+<div class="leadership_long">
 <div id="title" style="color:black;">Battle Rabbit</div>
 <div id="des">Vice Director</div>
 </div>
