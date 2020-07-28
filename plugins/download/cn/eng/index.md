@@ -14,7 +14,7 @@ p {text-align: center;}
 </style>
 
 <h1><div id="left">How to download plugins on this website in Mainlad China.</div></h1>
-<div id="right"><a href="plugins/download/cn">中文</a></div>
+<div id="right"><a href="/plugins/download/cn">中文</a></div>
 <hr>
 <div id="left">Due to the network reasons, the download speed on this website is slow, we provided several solutions:<br>
 <ul>
