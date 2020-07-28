@@ -28,7 +28,7 @@ p {text-align: center;}
   }
   .leadership_{
                display:inline-block;
-               width: 20px;
+               width: 50px;
   }
   .leadership_0{
                 font-size: 0px;
