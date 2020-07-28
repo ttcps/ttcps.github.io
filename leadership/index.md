@@ -18,7 +18,7 @@ p {text-align: center;}
         font-weight:bold;
   }
   #big-title{
-        font-size:50px;
+        font-size:25px;
         text-align:left;
         font-weight:bold;
   }
@@ -29,12 +29,12 @@ p {text-align: center;}
   .leadership_{
                display:inline-block;
                width: 100px;
-               height: 25px;
+               height: 50px;
   }
   .leadership_long{
                display:inline-block;
                width: 150px;
-               height: 25px;
+               height: 50px;
   }
   .leadership_0{
                 font-size: 0px;
