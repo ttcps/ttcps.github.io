@@ -2,7 +2,7 @@
 h1 {text-align: center;}
 h2 {text-align: left;}
 h4 {text-align: center;}
-h3 {text-align: center;}
+h3 {text-align: left;}
 p {text-align: center;}
 </style>
 <style type="text/css">
@@ -17,7 +17,7 @@ p {text-align: center;}
 <h1>News</h1>
 <hr>
 <div>
-<img src="/images/tcps_1st_anniversary.png/"align="left" height="3%" width="4%">
+<img src="https://ttcps.github.io/images/tcps_1st_anniversary.png" width="50" height="50" align ="right">
 <h3>tcps 1<sup>st</sup> anniversary</h3><br>Today, 23<sup>th</sup> April, is the anniversary of tcps.<br>See what's going on.
 </div>
 <hr>
