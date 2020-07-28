@@ -26,7 +26,6 @@ a:visited { text-decoration: none;}
         text-align:right;
   }
 </style>
-<hr>
 <h1><div id="left">News</div></h1>
 <hr>
 <div>
