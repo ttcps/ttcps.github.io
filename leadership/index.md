@@ -31,7 +31,7 @@ p {text-align: center;}
                height: 50px;
   }
   .leadership_0{
-               font-size: 75px;
+               font-size: 50px;
 </style>
 <h1><div id="left">Leadership</div></h1>
 <hr>
