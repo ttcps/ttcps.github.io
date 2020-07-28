@@ -50,6 +50,8 @@ p {text-align: center;}
 
 <div class="leadership_0">
   
+<hr>
+
 <div class="leadership_">
 <div id="title" style="color:black;">Rik</div>
 <div id="des">Technical Dep. Vice Director</div>
@@ -73,6 +75,7 @@ p {text-align: center;}
 
 </div>
 
+<hr>
 
 <div class="leadership_0">
 
@@ -83,4 +86,6 @@ p {text-align: center;}
 
 </div>
 
-<div class="leadership_0">
+<hr>
+<h4><a href="/plugins/download">Plugins Download</a>&emsp;<a href="/news">News</a>&emsp;<a href="/leadership">Leadership</a>&emsp;<a href="/contact">Contact us</a></h4>
+Copyright © 2020 tcps all right reserved.
