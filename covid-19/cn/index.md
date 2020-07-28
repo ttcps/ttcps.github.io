@@ -18,7 +18,7 @@ p {text-align: center;}
 <h1><div id="left">COVID-19</div></h1>
 <div id="right"><a href="/covid-19/">English</a></div>
 <hr>
-<div id="left"><b>2019新型冠状病毒病</b>(COVID-19, Conoronavirus disease 2019)是一种由严重急性呼吸系统综合征冠状病毒2（缩写：SARS-CoV-2）引发的传染病。 直至2020年7月28日，其已造成65,4327人类死亡.</div>/di
+<div id="left"><b>2019新型冠状病毒病</b>(COVID-19, Conoronavirus disease 2019)是一种由严重急性呼吸系统综合征冠状病毒2（缩写：SARS-CoV-2）引发的传染病。 直至2020年7月28日，其已造成65,4327人类死亡.</div>
 
 
 <div id="left">为防范2019新型冠状病毒病，你应该采取以下防疫措施：</div>
