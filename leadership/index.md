@@ -13,10 +13,10 @@ p {text-align: center;}
         text-align:right;
   }
   #title{
+        font-color: black;
         font-size:20px;
         text-align:left;
         font-weight:bold;
-        font-color:black;
   }
   #des{
        font-size:15px;
