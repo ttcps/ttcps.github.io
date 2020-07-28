@@ -25,7 +25,7 @@ p {text-align: center;}
                display:inline-block
   }
   .leadership_1{
-               font-size: 30px;
+               font-size: 50px;
 </style>
 <h1><div id="left">Leadership</div></h1>
 <hr>
