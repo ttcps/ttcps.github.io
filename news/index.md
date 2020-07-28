@@ -15,6 +15,7 @@ p {text-align: center;}
   #title{
         font-size:20px;
         text-align:left;
+        font-weight:bold;
   }
 </style>
 <hr>
