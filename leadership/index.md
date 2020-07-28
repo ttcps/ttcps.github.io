@@ -28,16 +28,11 @@ p {text-align: center;}
   }
   .leadership_{
                display:inline-block;
+               width: 20px;
   }
   .leadership_0{
                 font-size: 0px;
-  
-  .square{
-          width:310px; 
-          height:1px;
-          background:#fffff;
-          display:inline-block;
-}
+  }
 </style>
 <h1><div id="left">Leadership</div></h1>
 <hr>
@@ -67,17 +62,17 @@ p {text-align: center;}
 <div id="title" style="color:black;">Mayor of Bielin</div>
 <div id="des">Director</div>
 </div>
-<div class="square"></div>
+
 <div class="leadership_">
 <div id="title" style="color:black;">Linger</div>
 <div id="des">Vice Director</div>
 </div>
-<div class="square"></div>
+
 <div class="leadership_">
 <div id="title" style="color:black;">ARERSF</div>
 <div id="des">Vice Director</div>
 </div>
-<div class="square"></div>
+
 <div class="leadership_">
 <div id="title" style="color:black;">DongWu</div>
 <div id="des">Consultant</div>
@@ -95,17 +90,17 @@ p {text-align: center;}
 <div id="title" style="color:black;">mic</div>
 <div id="des">Director</div>
 </div>
-<div class="square"></div>
+
 <div class="leadership_">
 <div id="title" style="color:black;">Battle Rabbit</div>
 <div id="des">Vice Director</div>
 </div>
-<div class="square"></div>
+
 <div class="leadership_">
 <div id="title" style="color:black;">Anssss</div>
 <div id="des">Member</div>
 </div>
-<div class="square"></div>
+
 </div>
 
 <hr>
@@ -118,7 +113,7 @@ p {text-align: center;}
 <div id="title" style="color:black;">Orange</div>
 <div id="des">Director</div>
 </div>
-<div class="square"></div>
+
 <div class="leadership_">
 <div id="title" style="color:black;">Linger</div>
 <div id="des">Vice Director</div>
