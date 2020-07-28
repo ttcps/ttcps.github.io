@@ -30,5 +30,6 @@ To in order to prevent COVID-19, you should take the solutions below:
 </ul>
 When you sick but not sure you infected COVID-19, you can use this tools to confrimed.(Only for refrence, not the final result)
 <a href="/jump/covid-19-check-tool/">Click here↗</a>
+<hr>
 <h4><a href="/plugins/download">Plugins Download</a>&emsp;<a href="/news">News</a>&emsp;<a href="/leaderships">Leaderships</a>&emsp;<a href="/contact">Contact us</a></h4>
 <div id="center">Copyright © 2020 tcps all right reserved.</div>
