@@ -33,6 +33,7 @@ p {text-align: center;}
 <div id="left">When you sick but not sure you infected COVID-19, you can use this tools to confrimed.(Only for refrence, not the final result)</div>
 
 <div id="left"><a href="/jump/covid-19-check-tool/">Click here↗</a></div>
+<p>&nbsp;<p>
 <hr>
 <h4><a href="/plugins/download">Plugins Download</a>&emsp;<a href="/news">News</a>&emsp;<a href="/leaderships">Leaderships</a>&emsp;<a href="/contact">Contact us</a></h4>
 Copyright © 2020 tcps all right reserved.
