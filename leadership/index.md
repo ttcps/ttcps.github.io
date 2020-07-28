@@ -44,7 +44,7 @@ p {text-align: center;}
 <hr>
 <div class="leadership_0">
 
-<div id="big-title" style="color:black;">Technical Department</div>
+<div id="big-title" style="color:#3b3b3b;">Technical Department</div>
 
 <div class="leadership_">
 <div id="title" style="color:black;">Anssss</div>
@@ -62,7 +62,7 @@ p {text-align: center;}
 
 <div class="leadership_0">
 
-<div id="big-title" style="color:black;">Texture Department</div>
+<div id="big-title" style="color:#3b3b3b;">Texture Department</div>
 
 <div class="leadership_long">
 <div id="title" style="color:black;">Mayor of Bielin</div>
@@ -90,7 +90,7 @@ p {text-align: center;}
 
 <div class="leadership_0">
 
-<div id="big-title" style="color:black;">Information Department</div>
+<div id="big-title" style="color:#3b3b3b;">Information Department</div>
 
 <div class="leadership_">
 <div id="title" style="color:black;">mic</div>
@@ -113,7 +113,7 @@ p {text-align: center;}
 
 <div class="leadership_0">
 
-<div id="big-title" style="color:black;">Oriental Department</div>
+<div id="big-title" style="color:#3b3b3b;">Oriental Department</div>
 
 <div class="leadership_">
 <div id="title" style="color:black;">Orange</div>
