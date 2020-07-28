@@ -17,7 +17,7 @@ p {text-align: center;}
 <h1>News</h1>
 <hr>
 <div>
-<img src="/images/tcps_1st_anniversary.png/"align="left" height="3%" weight="4%">
+<img src="/images/tcps_1st_anniversary.png/"align="left" height="3%" width="4%">
 <h3>tcps 1<sup>st</sup> anniversary</h3><br>Today, 23<sup>th</sup> April, is the anniversary of tcps.<br>See what's going on.
 </div>
 <hr>
