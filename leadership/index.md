@@ -26,13 +26,15 @@ p {text-align: center;}
 <hr>
 <div class="leadership_1">
 <div class="leadership-ans">
-<div id="title>Ans</div>
+<div id="title">Ans</div>
 <div id="des">Technical Dep. Manager<br>Info. Dep. Member</div>
 </div>
 <div class="leadership-bielin">
+<div id="title">Bielin</div>
 <div id"des">Textture Dep. Manager</div>
 </div>
 <div class="leadership-mic">
+<div id="title">mic</div>
 <div id"des">Info. Dep. Manager</div>
 </div>
 </div>
