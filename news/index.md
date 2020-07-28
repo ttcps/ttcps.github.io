@@ -30,5 +30,6 @@ a:visited { text-decoration: none;color: black}
 <div id="t"><a href="/news/01">tcps 1<sup>st</sup> anniversary</a></div>
 <div id="left"><a href="/news/01">Today, 23<sup>th</sup> April, is the anniversary of tcps.<br>See what's going on.</a></div>
 <hr>
+
 <h4><a href="/plugins/download">Plugins Download</a>&emsp;<a href="/news">News</a>&emsp;<a href="/leaderships">Leaderships</a>&emsp;<a href="/contact">Contact us</a></h4>
 Copyright © 2020 tcps all right reserved.
