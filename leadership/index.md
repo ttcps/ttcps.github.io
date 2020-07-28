@@ -22,7 +22,8 @@ p {text-align: center;}
        text-align:left;
   }
   .leadership_{
-               display:inline-block
+               display:inline-block;
+               background-color: #fafafa;
   }
   .leadership_0{
                font-size: 75px;
@@ -49,6 +50,17 @@ p {text-align: center;}
 </div>
 
 <div class="leadership_0">
+
+<hr>
+
+<div class="leadership_0">
+
+<div class="leadership_">
+<div id="title" style="color:black;">ORANGE</div>
+<div id="des">Oriental Dep. Director<br>&nbsp;</div>
+</div>
+
+</div>
   
 <hr>
 
