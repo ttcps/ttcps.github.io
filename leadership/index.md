@@ -17,6 +17,11 @@ p {text-align: center;}
         text-align:left;
         font-weight:bold;
   }
+  #big-title{
+        font-size:30px;
+        text-align:left;
+        font-weight:bold;
+  }
   #des{
        font-size:15px;
        text-align:left;
@@ -31,68 +36,79 @@ p {text-align: center;}
 <hr>
 <div class="leadership_0">
 
+<div id="big-title">Technical Department</div>
+
 <div class="leadership_">
 <div id="title" style="color:black;">Anssss</div>
-<div id="des">Technical Dep. Director<br>Info. Dep. Member</div>
+<div id="des">Director</div>
 </div>
-
-<div class="leadership_">
-<div id="title" style="color:black;">Mayor of Bielin</div>
-<div id="des">Texture Dep. Director<br>&nbsp;</div>
-</div>
-
-<div class="leadership_">
-<div id="title" style="color:black;">mic</div>
-<div id="des">Info. Dep. Director<br>&nbsp;</div>
-</div>
-
-</div>
-
-<div class="leadership_0">
-
-<hr>
-
-<div class="leadership_0">
-
-<div class="leadership_">
-<div id="title" style="color:black;">ORANGE</div>
-<div id="des">Oriental Dep. Director</div>
-</div>
-
-</div>
-  
-<hr>
 
 <div class="leadership_">
 <div id="title" style="color:black;">Rik</div>
-<div id="des">Technical Dep. Vice Director</div>
+<div id="des">Vice Director</div>
+</div>
+
+</div>
+
+<div class="leadership_0">
+
+<div id="big-title">Texture Department</div>
+
+<div class="leadership_">
+<div id="title" style="color:black;">Mayor of Bielin</div>
+<div id="des">Director</div>
 </div>
 
 <div class="leadership_">
 <div id="title" style="color:black;">Linger</div>
-<div id="des">Texture Dep. Vice Director</div>
+<div id="des">Vice Director</div>
 </div>
-
 
 <div class="leadership_">
 <div id="title" style="color:black;">ARERSF</div>
-<div id="des">Texture Dep. Vice Director</div>
+<div id="des">Vice Director</div>
+</div>
+
+<div class="leadership_">
+<div id="title" style="color:black;">DongWu</div>
+<div id="des">Consultant</div>
+</div>
+
+</div>
+
+<div class="leadership_0">
+
+<div id="big-title">Information Department</div>
+
+<div class="leadership_">
+<div id="title" style="color:black;">mic</div>
+<div id="des">Director</div>
 </div>
 
 <div class="leadership_">
 <div id="title" style="color:black;">Battle Rabbit</div>
-<div id="des">Info. Dep. Vice Director</div>
+<div id="des">Vice Director</div>
+</div>
+
+<div class="leadership_">
+<div id="title" style="color:black;">Anssss</div>
+<div id="des">Member</div>
 </div>
 
 </div>
-
-<hr>
 
 <div class="leadership_0">
 
+<div id="big-title">Oriental Department</div>
+
 <div class="leadership_">
-<div id="title" style="color:black;">DongWu</div>
-<div id="des">Texture Dep. Consultant</div>
+<div id="title" style="color:black;">Orange</div>
+<div id="des">Director</div>
+</div>
+
+<div class="leadership_">
+<div id="title" style="color:black;">Linger</div>
+<div id="des">Vice Director</div>
 </div>
 
 </div>
