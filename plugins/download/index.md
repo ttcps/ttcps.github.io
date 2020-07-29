@@ -20,6 +20,12 @@ p {text-align: center;}
 <h4><div id="left">如果您生活在中国大陆，请点击<a href="/plugins/download/cn">此处</a>。</div></h4>
 <hr>
 <h2>New release</h2>
+<a href="/f1/"><img src="//ttcps.github.io/images/48d57497ff043f19ea72e10404ee4fd.png/"></a>
+
+<h3><a href="/f1/">F1 Expansion Pack</a></h3>
+<hr>
+<a href="/tropical-hotel/"><img src="//ttcps.github.io/images/8fa981ab1bedc97d701e61c2f4cfffa.png/"></a>
+<h3><a href="/tropical-hotel/">Tropical Hotel</a></h3>
 <hr>
 <h2>View by categories</h2>
 <hr>
