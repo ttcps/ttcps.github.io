@@ -21,13 +21,8 @@ p {text-align: center;}
   .message{
            width: 100%;
            background: #e1e1e1;
-           position: relative;
-  }
-  .m_{  
-    top:0;
-    right:0;
-    bottom:0;
-    left:0;
+           justify-content: center;
+           align-items: center;
   }
 </style>
 
