@@ -15,11 +15,13 @@ p {text-align: center;}
   #m_center{
         text-align:center;
         height: 30px;
-        font-size: 15px;       
+        font-size: 15px;   
+        position: relative;
   }
   .message{
            width: 100%;
            background: #e1e1e1;
+           position: relative;
   }
   .m_{  
     top:0;
