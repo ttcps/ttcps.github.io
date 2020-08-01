@@ -12,9 +12,12 @@ p {text-align: center;}
   #right{
         text-align:right;
   }
+  #center{
+        text-align:center;
+  }
   #message{
            width: 100%;
-           height: 1%;
+           height: 2.5%;
            background: #e1e1e1;
 </style>
 
@@ -33,7 +36,7 @@ p {text-align: center;}
 <hr>
 <h2>View by categories</h2>
 <hr>
-<div id="message"><a href="/all"Download all our plugins.</a></div>
+<div id="message"><a href="/all" id="center" style="color: white">Download all our plugins.</a></div>
 <hr>
 <h4><a href="/plugins/download">Plugins Download</a>&emsp;<a href="/news">News</a>&emsp;<a href="/leadership">Leadership</a>&emsp;<a href="/contact">Contact us</a></h4>
 Copyright © 2020 tcps all right reserved.
