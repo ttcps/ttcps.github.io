@@ -12,6 +12,10 @@ p {text-align: center;}
   #right{
         text-align:right;
   }
+  #message{
+           width: 100%;
+           height: 1%;
+           background: #e1e1e1;
 </style>
 
 <h1><div id="left">Plugin Downloads</div></h1>
@@ -28,6 +32,8 @@ p {text-align: center;}
 <h3><a href="/tropical-hotel/" style="color:black;">Tropical Hotel</a></h3>
 <hr>
 <h2>View by categories</h2>
+<hr>
+<div id="message"><a href="/all"Download all our plugins.</a></div>
 <hr>
 <h4><a href="/plugins/download">Plugins Download</a>&emsp;<a href="/news">News</a>&emsp;<a href="/leadership">Leadership</a>&emsp;<a href="/contact">Contact us</a></h4>
 Copyright © 2020 tcps all right reserved.
