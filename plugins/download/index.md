@@ -14,7 +14,8 @@ p {text-align: center;}
   }
   #m_center{
         text-align:center;
-        height: 10%
+        height: 30px;
+        font-size: 15px;       
   }
   .message{
            width: 100%;
