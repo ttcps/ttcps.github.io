@@ -19,7 +19,7 @@ p {text-align: center;}
 <div id="left">Due to the network reasons, the download speed on this website is slow, we provided several solutions:<br>
 <ul>
 　<li><a href="/jump/mega-download">Download form MEGA</a></li>
-　<li>Join tcps Tencent QQ group, group number: 3085894940</li>
+　<li>Join tcps Tencent QQ group, group number: 705994440</li>
 </ul>
 <hr>
 <h4><a href="/plugins/download">Plugins Download</a>&emsp;<a href="/news">News</a>&emsp;<a href="/leadership">Leadership</a>&emsp;<a href="/contact">Contact us</a></h4>
