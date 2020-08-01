@@ -20,6 +20,13 @@ p {text-align: center;}
   .message{
            width: 100%;
            background: #e1e1e1;
+  }
+  .m_{  
+    top:0;
+    right:0;
+    bottom:0;
+    left:0;
+  }
 </style>
 
 <h1><div id="left">Plugin Downloads</div></h1>
@@ -37,7 +44,7 @@ p {text-align: center;}
 <hr>
 <h2>View by categories</h2>
 <hr>
-<div class="message" id="m_center"><a href="/all" style="color: white">Download all our plugins.</a></div>
+<div class="message" id="m_center"><div class="m_"><a href="/all" style="color: white">Download all our plugins.</a></div></div>
 <hr>
 <h4><a href="/plugins/download">Plugins Download</a>&emsp;<a href="/news">News</a>&emsp;<a href="/leadership">Leadership</a>&emsp;<a href="/contact">Contact us</a></h4>
 Copyright © 2020 tcps all right reserved.
