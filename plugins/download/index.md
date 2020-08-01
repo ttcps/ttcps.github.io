@@ -29,7 +29,7 @@ p {text-align: center;}
 <hr>
 <h2>View by categories</h2>
 <hr>
-<a href="/all" style="text-align: center;">Download all our plugins</a>
+<a href="/all" target="_blank" style="text-align: center;">Download all our plugins</a>
 <hr>
 <h4><a href="/plugins/download">Plugins Download</a>&emsp;<a href="/news">News</a>&emsp;<a href="/leadership">Leadership</a>&emsp;<a href="/contact">Contact us</a></h4>
 Copyright © 2020 tcps all right reserved.
