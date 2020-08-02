@@ -9,6 +9,10 @@ p {text-align: center;}
   #left{
         text-align:left;
   }
+  #a_left{
+        text-align:left;
+        height: 20px
+  }
   #right{
         text-align:right;
   }
@@ -28,21 +32,21 @@ p {text-align: center;}
 <h3><a href="/tropical-hotel/" style="color:black;">Tropical Hotel</a></h3>
 <hr>
 <h2>View by categories</h2>
-<div id="left"><a href="airplane/">Airplane(1)</a></div>
+<div id="a_left"><a href="airplane/">Airplane(1)</a></div>
 
-<div id="left"><a href="award/">Award(2)</a></div>
+<div id="a_left"><a href="award/">Award(2)</a></div>
 
-<div id="left"><a href="comercial/">Comercial(15)</a></div>
+<div id="a_left"><a href="comercial/">Comercial(15)</a></div>
 
-<div id="left"><a href="pack/">Pack(8)</a></div>
+<div id="a_left"><a href="pack/">Pack(8)</a></div>
 
-<div id="left"><a href="residential/">Residential(1)</a></div>
+<div id="a_left"><a href="residential/">Residential(1)</a></div>
 
-<div id="left"><a href="service/">Service(8)</a></div>
+<div id="a_left"><a href="service/">Service(8)</a></div>
 
-<div id="left"><a href="sport/">Sport(1)</a></div>
+<div id="a_left"><a href="sport/">Sport(1)</a></div>
 
-<div id="left"><a href="tree/">Tree(1)</a></div>
+<div id="a_left"><a href="tree/">Tree(1)</a></div>
 <hr>
 <a href="https://ttcps.github.io/plugins/tcps_all-plugins_20200802.zip" target="_blank" style="text-align: center;">Download all our plugins</a>
 <hr>
