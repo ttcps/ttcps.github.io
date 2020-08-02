@@ -28,21 +28,21 @@ p {text-align: center;}
 <h3><a href="/tropical-hotel/" style="color:black;">Tropical Hotel</a></h3>
 <hr>
 <h2>View by categories</h2>
-<a href="airplane/" id="left">Airplane(1)</a>
+<div id="left"><a href="airplane/">Airplane(1)</a></div>
 
-<a href="award/" style="text-align: left">Award(2)</a>
+<div id="left"><a href="award/">Award(2)</a></div>
 
-<a href="comercial/" style="text-align: left">Comercial(15)</a>
+<div id="left"><a href="comercial/">Comercial(15)</a></div>
 
-<a href="pack/" style="text-align: left">Pack(8)</a>
+<div id="left"><a href="pack/">Pack(8)</a></div>
 
-<a href="residential/" style="text-align: left">Residential(1)</a>
+<div id="left"><a href="residential/">Residential(1)</a></div>
 
-<a href="service/" style="text-align: left">Service(8)</a>
+<div id="left"><a href="service/">Service(8)</a></div>
 
-<a href="sport/" style="text-align: left">Sport(1)</a>
+<div id="left"><a href="sport/">Sport(1)</a></div>
 
-<a href="tree/" style="text-align: left">Tree(1)</a>
+<div id="left"><a href="tree/">Tree(1)</a></div>
 <hr>
 <a href="https://ttcps.github.io/plugins/tcps_all-plugins_20200802.zip" target="_blank" style="text-align: center;">Download all our plugins</a>
 <hr>
