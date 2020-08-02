@@ -26,7 +26,7 @@ a:visited { text-decoration: none;}
         text-align:right;
   }
 </style>
-<h1><div id="left">Decoration</div></h1>
+<h1><div id="left">Landmark</div></h1>
 <div id="left"><a href="/plugins/download">< Plugin Download</a></div>
 <div>&nbsp;</div>
 <hr>
