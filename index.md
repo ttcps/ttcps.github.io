@@ -21,14 +21,14 @@ Since founded, we never stop our steps on creating plugins, dedicated to creatin
 <hr>
 
 <img src="/images/tcps_fourm_screenshot.png">
-<h3>Find us on the forum.</h3>
+<h3>Find us on the forum</h3>
 
 <a href="/jump/fourm">Visit now</a>
 
 <hr>
 
 <img src="/images/tcps_web_plugin_download_banner.PNG">
-<h3>Download plugins.</h3>
+<h3>Download plugins</h3>
 
 <a href="/plugins/download">Check out</a>
 
