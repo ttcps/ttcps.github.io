@@ -11,7 +11,7 @@ p {text-align: center;}
   }
   #a_left{
         text-align:left;
-        height: 50px
+        height: 30px
   }
   #right{
         text-align:right;
