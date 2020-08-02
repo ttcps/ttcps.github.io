@@ -107,11 +107,6 @@ p {text-align: center;}
 <div id="des">Vice Director</div>
 </div>
 
-<div class="leadership_">
-<div id="title" style="color:#636363;">Anssss</div>
-<div id="des">Member</div>
-</div>
-
 </div>
 
 <hr>
