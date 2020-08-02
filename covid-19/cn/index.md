@@ -32,7 +32,7 @@ p {text-align: center;}
 </ul>
 <div id="left">当您出现了症状的时候，你却不确定是否患上2019新型冠状病毒病时，请使用此工具：（仅供参考，不代表最终结果）</div>
 
-<div id="left"><a href="/jump/covid-19-check-tool/">点击此处↗</a></div>
+<div id="left"><a href="/jump/covid-19-check-tool/cn/">点击此处↗</a></div>
 <p>&nbsp;<p>
 <hr>
 <h4><a href="/plugins/download">Plugins Download</a>&emsp;<a href="/news">News</a>&emsp;<a href="/leaderships">Leadership</a>&emsp;<a href="/contact">Contact us</a></h4>
