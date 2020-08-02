@@ -29,13 +29,21 @@ p {text-align: center;}
 <hr>
 <h2>View by categories</h2>
 <a href="airplane/">Airplane(1)</a>
+
 <a href="award/">Award(2)</a>
+
 <a href="comercial/">Comercial(15)</a>
+
 <a href="pack/">Pack(8)</a>
+
 <a href="residential/">Residential(1)</a>
+
 <a href="service/">Service(8)</a>
+
 <a href="sport/">Sport(1)</a>
+
 <a href="tree/">Tree(1)</a>
+
 <hr>
 <a href="https://ttcps.github.io/plugins/tcps_all-plugins_20200802.zip" target="_blank" style="text-align: center;">Download all our plugins</a>
 <hr>
