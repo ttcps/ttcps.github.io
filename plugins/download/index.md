@@ -34,7 +34,7 @@ p {text-align: center;}
 
 <div id="a_left"><a href="award/">Award(2)</a></div>
 
-<div id="a_left"><a href="comercial/">Comercial(15)</a></div>
+<div id="a_left"><a href="commercial/">Comercial(15)</a></div>
 
 <div id="a_left"><a href="pack/">Pack(8)</a></div>
 
