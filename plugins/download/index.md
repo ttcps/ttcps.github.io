@@ -25,11 +25,9 @@ p {text-align: center;}
 <hr>
 <h2>New release</h2>
 <a href="/f1/"><img src="//ttcps.github.io/images/48d57497ff043f19ea72e10404ee4fd.png"></a>
-
-<h3><a href="/f1/" style="color:black;">F1 Expansion Pack</a></h3>
-<hr>
-<a href="/tropical-hotel/"><img src="//ttcps.github.io/images/8fa981ab1bedc97d701e61c2f4cfffa.png"></a>
-<h3><a href="/tropical-hotel/" style="color:black;">Tropical Hotel</a></h3>
+<h3><a href="f1/" style="color:black;">F1 Expansion Pack</a></h3>
+<a href="tropical-hotel/"><img src="//ttcps.github.io/images/8fa981ab1bedc97d701e61c2f4cfffa.png"></a>
+<h3><a href="tropical-hotel/" style="color:black;">Tropical Hotel</a></h3>
 <hr>
 <h2>View by categories</h2>
 <div id="a_left"><a href="airplane/">Airplane(1)</a></div>
