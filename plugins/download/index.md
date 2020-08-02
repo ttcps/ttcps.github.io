@@ -28,8 +28,16 @@ p {text-align: center;}
 <h3><a href="/tropical-hotel/" style="color:black;">Tropical Hotel</a></h3>
 <hr>
 <h2>View by categories</h2>
+<a href="airplane/">Airplane(1)</a>
+<a href="award/">Award(2)</a>
+<a href="comercial/">Comercial(15)</a>
+<a href="pack/">Pack(8)</a>
+<a href="residential/">Residential(1)</a>
+<a href="service/">Service(8)</a>
+<a href="sport/">Sport(1)</a>
+<a href="tree/">Tree(1)</a>
 <hr>
-<a href="https://ttcps.github.io/plugins/tcps_all-plugins_20200801.zip" target="_blank" style="text-align: center;">Download all our plugins</a>
+<a href="https://ttcps.github.io/plugins/tcps_all-plugins_20200802.zip" target="_blank" style="text-align: center;">Download all our plugins</a>
 <hr>
 <h4><a href="/plugins/download">Plugins Download</a>&emsp;<a href="/news">News</a>&emsp;<a href="/leadership">Leadership</a>&emsp;<a href="/contact">Contact us</a></h4>
 Copyright © 2020 tcps all right reserved.
