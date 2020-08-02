@@ -30,19 +30,19 @@ p {text-align: center;}
 <h2>View by categories</h2>
 <a href="airplane/" id="left">Airplane(1)</a>
 
-<a href="award/" id="left">Award(2)</a>
+<a href="award/" style="text-align: left">Award(2)</a>
 
-<a href="comercial/" id="left">Comercial(15)</a>
+<a href="comercial/" style="text-align: left">Comercial(15)</a>
 
-<a href="pack/" id="left">Pack(8)</a>
+<a href="pack/" style="text-align: left">Pack(8)</a>
 
-<a href="residential/" id="left">Residential(1)</a>
+<a href="residential/" style="text-align: left">Residential(1)</a>
 
-<a href="service/" id="left">Service(8)</a>
+<a href="service/" style="text-align: left">Service(8)</a>
 
-<a href="sport/" id="left">Sport(1)</a>
+<a href="sport/" style="text-align: left">Sport(1)</a>
 
-<a href="tree/" id="left">Tree(1)</a>
+<a href="tree/" style="text-align: left">Tree(1)</a>
 <hr>
 <a href="https://ttcps.github.io/plugins/tcps_all-plugins_20200802.zip" target="_blank" style="text-align: center;">Download all our plugins</a>
 <hr>
