@@ -98,6 +98,11 @@ p {text-align: center;}
 </div>
 
 <div class="leadership_long">
+<div id="title" style="color:#636363k;">Anrurens</div>
+<div id="des">Vice Director</div>
+</div>
+
+<div class="leadership_long">
 <div id="title" style="color:#636363k;">Battle Rabbit</div>
 <div id="des">Vice Director</div>
 </div>
