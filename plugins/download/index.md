@@ -36,11 +36,15 @@ p {text-align: center;}
 
 <div id="a_left"><a href="commercial/">Comercial(15)</a></div>
 
+<div id="a_left"><a href="decoration/">Decoration(5)</a></div>
+
+<div id="a_left"><a href="landmark/">Landmark(3)</a></div>
+
 <div id="a_left"><a href="pack/">Pack(8)</a></div>
 
 <div id="a_left"><a href="residential/">Residential(1)</a></div>
 
-<div id="a_left"><a href="service/">Service(8)</a></div>
+<div id="a_left"><a href="service/">Service(1)</a></div>
 
 <div id="a_left"><a href="sport/">Sport(1)</a></div>
 
