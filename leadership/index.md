@@ -36,6 +36,11 @@ p {text-align: center;}
                width: 175px;
                height: 65px;
   }
+  .leadership_m{
+               display:inline-block;
+               width: 137.5px;
+               height: 65px;
+  }
   .leadership_0{
                 font-size: 0px;
   }
@@ -97,7 +102,7 @@ p {text-align: center;}
 <div id="des">Director</div>
 </div>
 
-<div class="leadership_">
+<div class="leadership_m">
 <div id="title" style="color:#636363k;">Anrurens</div>
 <div id="des">Vice Director</div>
 </div>
