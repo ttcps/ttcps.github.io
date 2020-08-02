@@ -28,7 +28,9 @@ a:visited { text-decoration: none;}
 </style>
 <h1><div id="left">News</div></h1>
 <hr>
+<div style="height: 50px">
 <div id="title"><a href="/plugins/Air China B747 by TCPS Team.zip" style="color:black;">Air China B747</a></div>
+</div>
 <hr>
 <h4><a href="/plugins/download">Plugins Download</a>&emsp;<a href="/news">News</a>&emsp;<a href="/leadership">Leadership</a>&emsp;<a href="/contact">Contact us</a></h4>
 Copyright © 2020 tcps all right reserved.
