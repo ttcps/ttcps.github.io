@@ -97,7 +97,7 @@ p {text-align: center;}
 <div id="des">Director</div>
 </div>
 
-<div class="leadership_long">
+<div class="leadership_">
 <div id="title" style="color:#636363k;">Anrurens</div>
 <div id="des">Vice Director</div>
 </div>
