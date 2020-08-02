@@ -29,7 +29,7 @@ p {text-align: center;}
 <a href="tropical-hotel/"><img src="//ttcps.github.io/images/8fa981ab1bedc97d701e61c2f4cfffa.png"></a>
 <h3><a href="tropical-hotel/" style="color:black;">Tropical Hotel</a></h3>
 <hr>
-<h2>View by categories</h2>
+<h2 id="c">View by categories</h2>
 <div id="a_left"><a href="airplane/">Airplane(1)</a></div>
 
 <div id="a_left"><a href="award/">Award(2)</a></div>
