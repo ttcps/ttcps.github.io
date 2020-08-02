@@ -27,8 +27,8 @@ a:visited { text-decoration: none;}
   }
 </style>
 <h1><div id="left">Airplane</div></h1>
-<a href="javascript:history.back(-1)">< Previous Page</a>
-<p>&nbsp;</p>
+<div id="left"><a href="javascript:history.back(-1)">< Previous Page</a></div>
+<div>&nbsp;</div>
 <hr>
 <div style="height: 50px">
 <div id="title"><a href="/plugins/Air China B747 by TCPS Team.zip" style="color:black;">Air China B747</a></div>
