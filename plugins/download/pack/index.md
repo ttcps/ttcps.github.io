@@ -42,7 +42,7 @@ a:visited { text-decoration: none;}
 <div id="title"><a href="/plugins/Concert Hall Pack by TCPS Team.zip" style="color:black;">Guangzhou IFC</a></div>
 </div>
 <hr>
-<div style="height: 50px">
+<div style="height: 65px">
 <div id="title"><a href="/plugins/F1 Racing Expansion pack by TCPS Team.zip" style="color:black;">F1 Racing Expansion Pack</a></div>
 <div id="des"><a href="/plugins/download/f1/">Click here to learn how to install the base plugin</a></div>
 </div>
