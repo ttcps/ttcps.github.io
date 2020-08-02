@@ -27,7 +27,7 @@ a:visited { text-decoration: none;}
   }
 </style>
 <h1><div id="left">Award</div></h1>
-<div id="left"><a href="/plugins/download">< Plugin Download</a></div
+<div id="left"><a href="/plugins/download">< Plugin Download</a></div>
 <div>&nbsp;</div>
 <hr>
 <div style="height: 50px">
