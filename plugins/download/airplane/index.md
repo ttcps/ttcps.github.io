@@ -28,7 +28,7 @@ a:visited { text-decoration: none;}
 </style>
 <h1><div id="left">Airplane</div></h1>
 <div style="height：25px">
-<a href="<a href="javascript:history.back(-1)">Previous Page</a>
+<a href="javascript:history.back(-1)">Previous Page</a>
  </div>
 <hr>
 <div style="height: 50px">
