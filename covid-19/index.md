@@ -18,7 +18,7 @@ p {text-align: center;}
 <h1><div id="left">COVID-19</div></h1>
 <div id="right"><a href="/covid-19/cn">中文</a></div>
 <hr>
-<div id="left"><b>COVID-19</b>(Conoravirus disease 2019)is an infectious disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2, also know as COVID-19 Virus). Untill June 27 2020, it made overs 654,327 human died.</div>
+<div id="left"><b>COVID-19</b>(Conoravirus disease 2019)is an infectious disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2, also known as COVID-19 Virus). Untill June 27 2020, it made overs 654,327 human died.</div>
 
 
 <div id="left">To in order to prevent COVID-19, you should take the solutions below:</div>
