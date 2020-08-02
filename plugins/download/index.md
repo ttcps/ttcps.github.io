@@ -50,7 +50,7 @@ p {text-align: center;}
 
 <div id="a_left"><a href="tree/">Tree(1)</a></div>
 <hr>
-<a href="https://ttcps.github.io/plugins/tcps_all-plugins_20200802.zip" target="_blank" style="text-align: center;">Download all our plugins</a>
+<a href="https://ttcps.github.io/plugins/tcps_all-plugins_20200802.zip" style="text-align: center;">Download all our plugins</a>
 <hr>
 <h4><a href="/plugins/download">Plugins Download</a>&emsp;<a href="/news">News</a>&emsp;<a href="/leadership">Leadership</a>&emsp;<a href="/contact">Contact us</a></h4>
 Copyright © 2020 tcps all right reserved.
