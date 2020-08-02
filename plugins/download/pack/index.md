@@ -44,7 +44,7 @@ a:visited { text-decoration: none;}
 <hr>
 <div style="height: 70px">
 <div id="title"><a href="/plugins/F1 Racing Expansion pack by TCPS Team.zip" style="color:black;">F1 Racing Expansion Pack</a></div>
-<div id="des"><a href="/plugins/download/f1/">Click here to learn how to install the base plugin</a></div>
+<div id="des"><a href="/plugins/download/f1/">Click here to learn how to install the base pack</a></div>
 </div>
 <hr>
 <div style="height: 50px">
