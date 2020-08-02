@@ -50,5 +50,7 @@ a:visited { text-decoration: none;}
 <div id="title"><a href="/plugins/Moon exploration Pack by TCPS Team.zip" style="color:black;">Moon exploration Pack</a></div>
 </div>
 <hr>
+<a href="https://ttcps.github.io/plugins/tcps_all-decoration-plugins_20200802.zip" style="text-align: center;">Download all</a>
+<hr>
 <h4><a href="/plugins/download">Plugins Download</a>&emsp;<a href="/news">News</a>&emsp;<a href="/leadership">Leadership</a>&emsp;<a href="/contact">Contact us</a></h4>
 Copyright © 2020 tcps all right reserved.
