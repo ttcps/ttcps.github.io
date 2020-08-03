@@ -30,3 +30,6 @@ a:visited { text-decoration: none;}
 <did id="left"><a href="/plugins/F1_mdk_813.zip">Click here to download F1 Pack by mdk_813(Necessary file)</a></div>
 
 <did id="left"><a href="/plugins/F1 Racing Expansion pack by TCPS Team.zip">Click here to download tcps f1 expansion pack</a></div>
+<hr>
+<h4><a href="/plugins/download">Plugins Download</a>&emsp;<a href="/news">News</a>&emsp;<a href="/leadership">Leadership</a>&emsp;<a href="/contact">Contact us</a></h4>
+Copyright © 2020 tcps all right reserved.
