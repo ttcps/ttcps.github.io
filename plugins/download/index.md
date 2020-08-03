@@ -43,6 +43,7 @@ p {text-align: center;}
 <div id="title"><a href="/plugins/China National Aquatics Center by TCPS Team.zip" style="color:black;">China National Aquatics Center</a></div>
 <div id="des"><a href="/plugins/China National Aquatics Center by TCPS Team.zip" style="color:black;">Also known as Water Cube</a></div>
 </div>
+<hr>
 <div style="height: 50px">
 <div id="title"><a href="/plugins/Guangzhou Poly Center by TCPS Team.zip" style="color:black;">Guangzhou Poly Center</a></div>
 </div>
