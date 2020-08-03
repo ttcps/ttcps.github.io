@@ -16,6 +16,15 @@ p {text-align: center;}
   #right{
         text-align:right;
   }
+  #title{
+        font-size:20px;
+        text-align:right;
+        font-weight:bold;
+  }
+  #des{
+        font-size:12.5px;
+        text-align:right;
+  }
 </style>
 
 <h1><div id="left">Plugin Downloads</div></h1>
@@ -28,6 +37,19 @@ p {text-align: center;}
 <h3><a href="f1/" style="color:black;">F1 Expansion Pack</a></h3>
 <a href="/plugins/Tropical Hotel by TCPS Team.zip"><img src="//ttcps.github.io/images/8fa981ab1bedc97d701e61c2f4cfffa.png"></a>
 <h3><a href="/plugins/Tropical Hotel by TCPS Team.zip" style="color:black;">Tropical Hotel</a></h3>
+<hr>
+<h2>Recommenced</h2>
+<div style="height: 75px">
+<div id="title"><a href="/plugins/China National Aquatics Center by TCPS Team.zip" style="color:black;">China National Aquatics Center</a></div>
+<div id="des"><a href="/plugins/China National Aquatics Center by TCPS Team.zip" style="color:black;">Also known as Water Cube</a></div>
+</div>
+<div style="height: 50px">
+<div id="title"><a href="/plugins/Guangzhou Poly Center by TCPS Team.zip" style="color:black;">Guangzhou Poly Center</a></div>
+</div>
+<hr>
+<div style="height: 50px">
+<div id="title"><a href="/plugins/HK ShunTak Center by TCPS Team.zip" style="color:black;">HK ShunTak Center</a></div>
+</div>
 <hr>
 <h2>View by categories</h2>
 <div id="a_left"><a href="airplane/">Airplane(1)</a></div>
