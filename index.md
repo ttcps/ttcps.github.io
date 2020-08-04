@@ -11,8 +11,16 @@ p {text-align: center;}
   #right{
         text-align:right;
   }
+  #banner{
+                 font-size:12.5px;
+                 line-height: 35px;
+                 background-color: #f0f0f0;
+                 weight: 100%;
+                 color: #000000;
+                 text-align: center;
 </style>
-<h4>Stay home, stay safe. <a href="/covid-19">Learn more about COVID-19</a>.</h4>
+<div id="banner">Stay home, stay safe. <a href="/covid-19">Learn more about COVID-19</a>.</div>
+<div style="height: 30px"></div>
 <hr>
   
 <h1>What's tcps</h1>
