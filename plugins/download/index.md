@@ -36,6 +36,7 @@ p {text-align: center;}
 	</style>
 </head>
 <script>
+console.log("So, you want to use inspect tool? Still those words, support tcps, download plugins from plugin store.");
 function myFunction(){
 	var r=confirm("Support tcps, download plugins from plugin store.\nClick the confrim buttton to visit plugin store.");
 	if (r==true){
