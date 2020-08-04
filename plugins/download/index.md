@@ -35,7 +35,6 @@ p {text-align: center;}
                  text-align: center;
 </style>
 <script>
-<script>
 function myFunction(){
 	var r=confirm("Support tcps, download plugins from plugin store./nClick to visit plugin store.");
 	if (r==true){
