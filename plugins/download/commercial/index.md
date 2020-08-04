@@ -47,6 +47,10 @@ a:visited { text-decoration: none;}
 </div>
 <hr>
 <div style="height: 50px">
+<div id="title"><a href="/plugins/EinsTower by TCPS Team.zip" style="color:black;">EinsTower</a></div>
+</div>
+<hr>
+<div style="height: 50px">
 <div id="title"><a href="/plugins/Guangzhou Poly Center by TCPS Team.zip" style="color:black;">Guangzhou Poly Center</a></div>
 </div>
 <hr>
