@@ -27,15 +27,15 @@ p {text-align: center;}
   }
   #banner_support{
                  font-size:12.5px;
-                 height: 30px;
-                 line-height: 30px;
+                 height: 35px;
+                 line-height: 35px;
                  background-color: #f0f0f0;
                  weight: 100%;
                  color: #000000;
                  text-align: center;
 </style>
 
-<div id="banner_support">Support tcps, download plugins from plugins store.</div>
+<div id="banner_support">Support tcps, download plugins from <a href="/jump/plugin-store/">plugin store.</a></div>
 <div style="height: 30px"></div>
 <h1><div id="left">Plugin Downloads</div></h1>
 <hr>
