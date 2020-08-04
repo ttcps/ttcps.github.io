@@ -1,4 +1,5 @@
 <head>
+<meta http-equiv="Link" content="</images/tcps_enistower_thumbnail_compressed.png>; rel=prefetch">
 <script>
 function myFunction(){
 	var r=confirm("Support tcps, download plugins from plugin store.\nClick to visit plugin store.");
