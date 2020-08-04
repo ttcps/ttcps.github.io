@@ -35,7 +35,7 @@ p {text-align: center;}
                  text-align: center;
 </style>
 
-<div id="banner_support">Support tcps, download plugins from <a href="/jump/plugin-store/">plugin store.</a></div>
+<div id="banner_support">Support tcps, download plugins from <a href="/jump/plugin-store/">plugin store</a>.</div>
 <div style="height: 30px"></div>
 <h1><div id="left">Plugin Downloads</div></h1>
 <hr>
