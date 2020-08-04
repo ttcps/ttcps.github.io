@@ -21,7 +21,6 @@ p {text-align: center;}
 </style>
 <div id="banner">Stay home, stay safe. <a href="/covid-19">Learn more about COVID-19</a>.</div>
 <div style="height: 30px"></div>
-<hr>
   
 <h1>What's tcps</h1>
 Since founded, we never stop our steps on creating plugins, dedicated to creating better plugins. Our member mostly located in asia, join a part of us, contribute to tcps and the TheoTown community.
