@@ -29,9 +29,9 @@ p {text-align: center;}
                  font-size:12.5px;
                  height: 30px;
                  line-height: 30px;
-                 background-color: #000000;
+                 background-color: #f0f0f0;
                  weight: 100%;
-                 color: white;
+                 color: #000000;
                  text-align: center;
 </style>
 
