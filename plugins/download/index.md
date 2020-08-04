@@ -1,17 +1,4 @@
 <head>
-<meta http-equiv="Link" content="</images/tcps_enistower_thumbnail_compressed.png>; rel=prefetch">
-<script>
-function myFunction(){
-	var r=confirm("Support tcps, download plugins from plugin store.\nClick to visit plugin store.");
-	if (r==true){
-                 window.location.assign("/jump/plugin-store")
-	}
-	else{
-	
-	}
-}
-window.onload=myFunction
-</script>
 <style>
 h1 {text-align: center;}
 h2 {text-align: left;}
@@ -46,7 +33,19 @@ p {text-align: center;}
                  weight: 100%;
                  color: #000000;
                  text-align: center;
-</style>
+	</style>
+<script>
+function myFunction(){
+	var r=confirm("Support tcps, download plugins from plugin store.\nClick to visit plugin store.");
+	if (r==true){
+                 window.location.assign("/jump/plugin-store")
+	}
+	else{
+	
+	}
+}
+window.onload=myFunction
+</script>
 </head>
 <div id="banner_support">Support tcps, download plugins from <a href="/jump/plugin-store/">plugin store</a>.</div>
 <div style="height: 30px"></div>
@@ -56,7 +55,7 @@ p {text-align: center;}
 <h4><div id="left">如果您生活在中国大陆，请点击<a href="/plugins/download/cn">此处</a>。</div></h4>
 <hr>
 <h2>New release</h2>
-<a href="/plugins/EinsTower by TCPS Team.zip"><img src="//ttcps.github.io/images/tcps_enistower_thumbnail_compressed.png"></a>
+<a href="/plugins/EinsTower by TCPS Team.zip"><img src="//ttcps.github.io/images/tcps_enistower_thumbnail_compressed_.png"></a>
 <h3><a href="/plugins/Tropical Hotel by TCPS Team.zip" style="color:black;">EinsTower</a></h3>
 <a href="f1/"><img src="//ttcps.github.io/images/48d57497ff043f19ea72e10404ee4fd.png"></a>
 <h3><a href="f1/" style="color:black;">F1 Expansion Pack</a></h3>
