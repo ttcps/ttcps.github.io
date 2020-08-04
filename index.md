@@ -12,7 +12,7 @@ p {text-align: center;}
         text-align:right;
   }
 </style>
-<h4>Stay home, stay safe. <a href="/covid-19">Learn more about COVID-19.</a></h4>
+<h4>Stay home, stay safe. <a href="/covid-19">Learn more about COVID-19</a>.</h4>
 <hr>
   
 <h1>What's tcps</h1>
