@@ -27,7 +27,7 @@ p {text-align: center;}
   }
   #banner_support{
                  font-size:12.5px;
-                 line-height: 35px;
+                 line-height: 40px;
                  background-color: #f0f0f0;
                  weight: 100%;
                  color: #000000;
