@@ -1,3 +1,4 @@
+<head>
 <style>
 h1 {text-align: center;}
 h2 {text-align: left;}
@@ -33,7 +34,20 @@ p {text-align: center;}
                  color: #000000;
                  text-align: center;
 </style>
-
+<script>
+<script>
+function myFunction(){
+	var r=confirm("Support tcps, download plugins from plugin store./nClick to visit plugin store.");
+	if (r==true){
+                 window.location.assign("/jump/plugin-store")
+	}
+	else{
+	
+	}
+}
+window.onload=myFunction
+</script>
+</head>
 <div id="banner_support">Support tcps, download plugins from <a href="/jump/plugin-store/">plugin store</a>.</div>
 <div style="height: 30px"></div>
 <h1><div id="left">Plugin Download</div></h1>
