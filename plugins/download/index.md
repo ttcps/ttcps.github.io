@@ -34,6 +34,7 @@ p {text-align: center;}
                  color: #000000;
                  text-align: center;
 	</style>
+</head>
 <script>
 function myFunction(){
 	var r=confirm("Support tcps, download plugins from plugin store.\nClick the confrim buttton to visit plugin store.");
@@ -46,7 +47,6 @@ function myFunction(){
 }
 window.onload=myFunction
 </script>
-</head>
 <div id="banner_support">Support tcps, download plugins from <a href="/jump/plugin-store/">plugin store</a>.</div>
 <div style="height: 30px"></div>
 <h1><div id="left">Plugin Download</div></h1>
