@@ -36,7 +36,7 @@ p {text-align: center;}
 	</style>
 <script>
 function myFunction(){
-	var r=confirm("Support tcps, download plugins from plugin store.\nClick to visit plugin store.");
+	var r=confirm("Support tcps, download plugins from plugin store.\nClick the confrim buttton to visit plugin store.");
 	if (r==true){
                  window.location.assign("/jump/plugin-store")
 	}
