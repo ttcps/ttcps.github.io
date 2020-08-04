@@ -36,6 +36,7 @@ p {text-align: center;}
 </style>
 
 <div id="banner_support">Support tcps, download plugins from plugins store.</div>
+<div style="height: 30px"></div>
 <h1><div id="left">Plugin Downloads</div></h1>
 <hr>
 <h4><div id="left">If you lives in China Mainland, please click <a href="/plugins/download/cn/eng">here</a>.</div></h4>
