@@ -20,7 +20,8 @@ Since founded, we never stop our steps on creating plugins, dedicated to creatin
   
 <hr>
 
-<img src="/images/tcps_fourm_screenshot.png">
+<div><img src="/images/tcps_fourm_screenshot.png"></div>
+
 <div style="height: 15px;line-height: 15px;font-size: 10px;text-align:center">Image only for reference.</div>
 <h3>Find us on the forum</h3>
 <a href="/jump/fourm">Visit now</a>
