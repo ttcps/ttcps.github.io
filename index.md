@@ -22,7 +22,7 @@ Since founded, we never stop our steps on creating plugins, dedicated to creatin
 
 <img src="/images/tcps_fourm_screenshot.png">
 <h3>Find us on the forum</h3>
-
+<p style="font-size: 10px">Image only for reference.</p>
 <a href="/jump/fourm">Visit now</a>
 
 <hr>
