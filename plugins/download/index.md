@@ -25,9 +25,16 @@ p {text-align: center;}
         font-size:12.5px;
         text-align:right;
   }
+  #banner_support{
+                 font-size:12.5px;
+                 height: 25px;
+                 line-height: 25px;
+                 background-color: #bfbfbf;
+                 weight: 100%;
+                 color: white;
 </style>
 
-<p style="font-size:12.5px;height: 25px;line-height: 25px; background-color: #ff3d3d;weight: 100%; color:#fffff">Support tcps, download plugins from plugins store.</p>
+<div id="banner_support">Support tcps, download plugins from plugins store.</p>
 <h1><div id="left">Plugin Downloads</div></h1>
 <hr>
 <h4><div id="left">If you lives in China Mainland, please click <a href="/plugins/download/cn/eng">here</a>.</div></h4>
