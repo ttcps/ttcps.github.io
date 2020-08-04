@@ -37,7 +37,7 @@ p {text-align: center;}
 
 <div id="banner_support">Support tcps, download plugins from <a href="/jump/plugin-store/">plugin store</a>.</div>
 <div style="height: 30px"></div>
-<h1><div id="left">Plugin Downloads</div></h1>
+<h1><div id="left">Plugin Download</div></h1>
 <hr>
 <h4><div id="left">If you lives in China Mainland, please click <a href="/plugins/download/cn/eng">here</a>.</div></h4>
 <h4><div id="left">如果您生活在中国大陆，请点击<a href="/plugins/download/cn">此处</a>。</div></h4>
