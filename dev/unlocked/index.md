@@ -26,6 +26,7 @@ p {text-align: center;}
 <a href="/int">Internal Network(Chinese)</a>
 </div>
 <hr>
+<p id="left"><a href="/404">404 Test Page</a></p>
 
 <h4><a href="/plugins/download">Plugins Download</a>&emsp;<a href="/news">News</a>&emsp;<a href="/leadership">Leadership</a>&emsp;<a href="/contact">Contact us</a></h4>
 Copyright © 2020 tcps all right reserved.
