@@ -19,7 +19,7 @@ p {text-align: center;}
                  color: #000000;
                  text-align: center;
 </style>
-<div id="banner">This page is only for Internal Staff to use. If you're visitor, please click <a href="/">here</a>.</div>
+<div id="banner">This page is only for internal staff to use. If you're visitor, please click <a href="/">here</a>.</div>
 <div style="height: 30px"></div>
 <h1 id="left">Dev Page</h1>
 <hr>
