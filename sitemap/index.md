@@ -30,7 +30,8 @@ a:visited { text-decoration: none;}
          vertical-align: top
   }
   .link{
-        line-height: 30px
+        line-height: 30px;
+        text-align: left
   }
   .blank{
             height:20px;
@@ -58,8 +59,7 @@ a:visited { text-decoration: none;}
     <a href="/plugins/download/f1/" class="link">F1</a>
     </div>
   </div>
-  <br>
-  <div class="blank"></div>
+  <br><div class="blank"></div>
   <div class="block">
     <div class="block">
     <h3>Recommenced</h3>
