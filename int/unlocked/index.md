@@ -23,9 +23,7 @@ p {text-align: center;}
 <div id="banner">This page is only for internal staff to use. If you're visitor, please click <a href="/">here</a>.</div>
 <div style="height: 30px"></div>
 <h1 id="left">tcps 内联网</h1>
-<div id="left" style="line-height: 50px;height: 50px">
-<a href="/dev" style="font-size: 12.5px;">开发者用页面（英文）</a>
-</div>
+<p id="left"><a href="/dev" style="font-size: 12.5px;">开发者用页面（英文）</a></p>
 <hr>
 <h2>tcps 内联网聊天室</h2>
 <iframe src="https://www6.cbox.ws/box/?boxid=847290&boxtag=9cYma1" width="100%" height="450" allowtransparency="yes" allow="autoplay" frameborder="0" marginheight="0" marginwidth="0" scrolling="auto"></iframe>
