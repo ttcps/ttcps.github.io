@@ -41,7 +41,7 @@ Since founded, we never stop our steps on creating plugins, dedicated to creatin
 <a href="/plugins/download">Check out</a>
 
 <hr>
-<a href="dev/">Dev Page(For Internal Staff)</a>
+<a href="dev/" style="font-size: 10px">Dev Page(For Internal Staff)</a>
 <hr>
 
 <h4><a href="/plugins/download">Plugins Download</a>&emsp;<a href="/news">News</a>&emsp;<a href="/leadership">Leadership</a>&emsp;<a href="/contact">Contact us</a></h4>
