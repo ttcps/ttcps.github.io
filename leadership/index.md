@@ -121,7 +121,7 @@ p {text-align: center;}
 <div id="big-title" style="color:black;">Oriental Department</div>
 
 <div class="leadership_">
-<div id="title" style="color:#636363;">Orange</div>
+<div id="title" style="color:#636363;">Ripple</div>
 <div id="des">Director</div>
 </div>
 
