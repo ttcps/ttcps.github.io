@@ -33,6 +33,9 @@ a:visited { text-decoration: none;}
   }
   .hr-blank{
             height:20px
+  .blank{
+         height:20px;
+         width: 20px
 </style>
 <h1 id="left">Sitemap</h1>
 <h2>Home</h2>
@@ -47,13 +50,45 @@ a:visited { text-decoration: none;}
 <h2 id="left">Plugins Download</h2>
 <div id="left">
   <div class="block">
-    <a href="/jump/plugin-store/" class="link">tcps on TheoTown plugins store</a><br>
+    <a href="/jump/plugin-store/" class="link">tcps on TheoTown Plugin Store</a><br>
     <a href="/plugins/download/cn/eng/" class="link">Download guide for Mainland China users</a>
   </div>
-  <div class="block" style="width: 20px"></div>
+  <div class="block, blank"></div>
   <div class="block">
   <h3>New release</h3>
     <a href="/plugins/EinsTower by TCPS Team.zip/" class="link">EinsTower</a><br>
     <a href="/plugins/download/f1/" class="link">F1</a>
   </div>
-  
+  <div class="block, blank"></div>
+  <div class="block">
+    <h3>Recommenced</h3>
+    <a href="/plugins/China National Aquatics Center by TCPS Team.zip">China National Auqatics Center</a>
+    <a href="/plugins/Guangzhou Poly Center by TCPS Team.zip">Guangzhou Poly Center</a>
+    <a href="/plugins/HK ShunTak Center by TCPS Team.zip">HK ShunTak Center</a>
+  </div>
+  <div class="block, blank"></div>
+  <div class="block"></div>
+  <h3>View by categories</h3>
+     <details>
+        <summary>All categories</summary>
+       <a href="/plugins/download/airplane/">Airplane(1)</a>
+
+       <a href="/plugins/download/award/">Award(2)</a>
+
+       <a href="/plugins/download/commercial/">Comercial(16)</a>
+
+       <a href="/plugins/download/decoration/">Decoration(5)</a>
+
+       <a href="/plugins/download/landmark/">Landmark(3)</a>
+
+       <a href="/plugins/download/pack/">Pack(8)</a>
+
+       <a href="/plugins/download/residential/">Residential(1)</a>
+
+       <a href="/plugins/download/service/">Service(1)</a>
+
+       <a href="/plugins/download/sport/">Sport(1)</a>
+
+       <a href="/plugins/download/tree/">Tree(1)</a>
+    </details>
+   </div>
