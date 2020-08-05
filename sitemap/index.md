@@ -3,7 +3,7 @@ h1 {text-align: center;}
 h2 {text-align: left;}
 h4 {text-align: center;}
 h3 {text-align: left;}
-p {text-align: left;}
+p {text-align: center;}
 a:link { text-decoration: none;}
 a:active { text-decoration: none}
 a:hover { text-decoration: none;}
