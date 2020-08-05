@@ -37,6 +37,7 @@ a:visited { text-decoration: none;}
          height:20px;
          width: 20px;
          display: inline-block
+  }
 </style>
 <h1 id="left">Sitemap</h1>
 <h2>Home</h2>
