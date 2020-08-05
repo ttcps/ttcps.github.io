@@ -22,6 +22,7 @@ p {text-align: center;}
 <div id="banner">This page is only for internal staff to use. If you're visitor, please click <a href="/">here</a>.</div>
 <div style="height: 30px"></div>
 <h1 id="left">Dev Page</h1>
+<a href="/int" style="font-size: 10px">Internal Network(Chinese)</a>
 <hr>
 
 <h4><a href="/plugins/download">Plugins Download</a>&emsp;<a href="/news">News</a>&emsp;<a href="/leadership">Leadership</a>&emsp;<a href="/contact">Contact us</a></h4>
