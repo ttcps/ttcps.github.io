@@ -22,9 +22,7 @@ p {text-align: center;}
 <div id="banner">This page is only for internal staff to use. If you're visitor, please click <a href="/">here</a>.</div>
 <div style="height: 30px"></div>
 <h1 id="left">Dev Page</h1>
-<div id="left" style="line-height: 50px;height: 50px">
-<a href="/int">Internal Network(Chinese)</a>
-</div>
+<p id="left"><a href="/int">Internal Network(Chinese)</a></p>
 <hr>
 <p id="left"><a href="/404">404 Test Page</a></p>
 <hr>
