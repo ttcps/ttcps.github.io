@@ -29,7 +29,10 @@ a:visited { text-decoration: none;}
          display: inline-block
   }
   .link{
-        line-height: 40px
+        line-height: 30px
+  }
+  .hr-blank{
+            height:20px
 </style>
 <h1 id="left">Sitemap</h1>
 <h2>Home</h2>
@@ -39,6 +42,7 @@ a:visited { text-decoration: none;}
   <a href="/jump/forum/" class="link">Visit us on forum</a><br>
   <a href="/plugins/download/" class="link">Download Plugins</a>
 </div>
+<div class="hr-blank"></div>
 <hr>
 <h2 id="left">Plugins Download</h2>
 <div id="left">
