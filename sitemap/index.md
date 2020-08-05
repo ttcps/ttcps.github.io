@@ -41,12 +41,12 @@ a:visited { text-decoration: none;}
 <h2 id="left">Plugins Download</h2>
 <div id="left">
   <div class="block">
-    <a href="/jump/plugin-store/">tcps on TheoTown plugins store</a>
+    <a href="/jump/plugin-store/">tcps on TheoTown plugins store</a><br>
     <a href="/plugins/download/cn/eng/">Download guide for Mainland China users</a>
   </div>
   <div class="block">
   <h3>New release</h3>
-    <a href="/plugins/EinsTower by TCPS Team.zip/">EinsTower</a>
+    <a href="/plugins/EinsTower by TCPS Team.zip/">EinsTower</a><br>
     <a href="/plugins/download/f1/">F1</a>
   </div>
   
