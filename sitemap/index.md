@@ -34,7 +34,7 @@ a:visited { text-decoration: none;}
 <hr>
 <div id="left">
   <a href="/covid-19">COVID-19 Information</a><br>
-  <a href="/jump/forum/"Visit us on forum</a><br>
+  <a href="/jump/forum/">Visit us on forum</a><br>
   <a href="/plugins/download/">Download Plugins</a>
 </div>
 <hr>
@@ -44,6 +44,7 @@ a:visited { text-decoration: none;}
     <a href="/jump/plugin-store/">tcps on TheoTown plugins store</a><br>
     <a href="/plugins/download/cn/eng/">Download guide for Mainland China users</a>
   </div>
+  <div style="width: 20px;"></div>
   <div class="block">
   <h3>New release</h3>
     <a href="/plugins/EinsTower by TCPS Team.zip/">EinsTower</a><br>
