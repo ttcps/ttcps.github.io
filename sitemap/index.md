@@ -64,7 +64,9 @@ a:visited { text-decoration: none;}
   <div class="block">
     <h3>Recommenced</h3>
     <a href="/plugins/China National Aquatics Center by TCPS Team.zip">China National Auqatics Center</a>
+    
     <a href="/plugins/Guangzhou Poly Center by TCPS Team.zip">Guangzhou Poly Center</a>
+    
     <a href="/plugins/HK ShunTak Center by TCPS Team.zip">HK ShunTak Center</a>
   </div>
   <div class="blank"></div>
@@ -72,23 +74,23 @@ a:visited { text-decoration: none;}
   <h3>View by categories</h3>
      <details>
         <summary>All categories</summary>
-       <a href="/plugins/download/airplane/">Airplane(1)</a>
+       <a href="/plugins/download/airplane/">Airplane(1)</a><br>
 
-       <a href="/plugins/download/award/">Award(2)</a>
+       <a href="/plugins/download/award/">Award(2)</a><br>
 
-       <a href="/plugins/download/commercial/">Comercial(16)</a>
+       <a href="/plugins/download/commercial/">Comercial(16)</a><br>
 
-       <a href="/plugins/download/decoration/">Decoration(5)</a>
+       <a href="/plugins/download/decoration/">Decoration(5)</a><br>
 
-       <a href="/plugins/download/landmark/">Landmark(3)</a>
+       <a href="/plugins/download/landmark/">Landmark(3)</a><br>
 
-       <a href="/plugins/download/pack/">Pack(8)</a>
+       <a href="/plugins/download/pack/">Pack(8)</a><br>
 
-       <a href="/plugins/download/residential/">Residential(1)</a>
+       <a href="/plugins/download/residential/">Residential(1)</a><br>
 
-       <a href="/plugins/download/service/">Service(1)</a>
+       <a href="/plugins/download/service/">Service(1)</a><br>
 
-       <a href="/plugins/download/sport/">Sport(1)</a>
+       <a href="/plugins/download/sport/">Sport(1)</a><br>
 
        <a href="/plugins/download/tree/">Tree(1)</a>
     </details>
