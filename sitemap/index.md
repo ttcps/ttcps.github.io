@@ -26,7 +26,8 @@ a:visited { text-decoration: none;}
         text-align:right;
   }
   .block{
-         display: inline-block
+         display: inline-block;
+         vertical-align: top
   }
   .link{
         line-height: 30px
