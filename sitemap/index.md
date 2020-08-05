@@ -44,7 +44,7 @@ a:visited { text-decoration: none;}
     <a href="/jump/plugin-store/">tcps on TheoTown plugins store</a><br>
     <a href="/plugins/download/cn/eng/">Download guide for Mainland China users</a>
   </div>
-  <div style="width: 20px;"></div>
+  <div class="block" style="width: 20px;"></div>
   <div class="block">
   <h3>New release</h3>
     <a href="/plugins/EinsTower by TCPS Team.zip/">EinsTower</a><br>
