@@ -60,11 +60,11 @@ a:visited { text-decoration: none;}
   <div class="block">
     <h3>Recommenced</h3>
     
-    <a href="/plugins/China National Aquatics Center by TCPS Team.zip">China National Auqatics Center</a><br>
+    <a href="/plugins/China National Aquatics Center by TCPS Team.zip" class="link">China National Auqatics Center</a><br>
     
-    <a href="/plugins/Guangzhou Poly Center by TCPS Team.zip">Guangzhou Poly Center</a><br>
+    <a href="/plugins/Guangzhou Poly Center by TCPS Team.zip" class="link">Guangzhou Poly Center</a><br>
     
-    <a href="/plugins/HK ShunTak Center by TCPS Team.zip">HK ShunTak Center</a><br>
+    <a href="/plugins/HK ShunTak Center by TCPS Team.zip" class="link">HK ShunTak Center</a><br>
   </div>
   <div class="block" style="height: 20px; width 20px;"></div>
   <div class="block"></div>
