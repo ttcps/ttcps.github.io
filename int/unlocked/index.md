@@ -22,7 +22,7 @@ p {text-align: center;}
 <div id="banner">This page is only for internal staff to use. If you're visitor, please click <a href="/">here</a>.</div>
 <div style="height: 30px"></div>
 <h1 id="left">tcps 内联网</h1>
-<div id="left">
+<div id="left" style="line-height: 50px;height: 50px">
 <a href="/dev" style="font-size: 12.5px;">开发者用页面（英文）</a>
 </div>
 <hr>
