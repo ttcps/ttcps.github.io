@@ -25,11 +25,28 @@ a:visited { text-decoration: none;}
         font-size:12.5px;
         text-align:right;
   }
+  .block{
+         display: inline-block
+  }
 </style>
 <h1 id="left">Sitemap</h1>
 <h2>Home</h2>
+<hr>
 <div id="left">
-COVID-19 Information<br>
-Visit us on forum<br>
-Download Plugins
+  <a href="/covid-19">COVID-19 Information</a><br>
+  <a href="/jump/forum/"Visit us on forum</a><br>
+  <a href="/plugins/download/">Download Plugins</a>
 </div>
+<hr>
+<h2 id="left">Plugins Download</h2>
+<div id="left">
+  <div class="block">
+    <a href="/jump/plugin-store/">tcps on TheoTown plugins store</a>
+    <a href="/plugins/download/cn/eng/">Download guide for Mainland China users</a>
+  </div>
+  <div class="block">
+  <h3>New release</h3>
+    <a href="/plugins/EinsTower by TCPS Team.zip/">EinsTower</a>
+    <a href="/plugins/download/f1/">F1</a>
+  </div>
+  
