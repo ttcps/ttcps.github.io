@@ -1,6 +1,6 @@
 <style>
 h1 {text-align: center;}
-h2 {text-align: center;}
+h2 {text-align: left;}
 h4 {text-align: center;}
 h3 {text-align: center;}
 p {text-align: center;}
