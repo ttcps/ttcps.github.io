@@ -33,11 +33,6 @@ a:visited { text-decoration: none;}
   }
   .hr-blank{
             height:20px
-  .blank{
-         height:20px;
-         width: 20px;
-         display: inline-block
-  }
 </style>
 <h1 id="left">Sitemap</h1>
 <h2>Home</h2>
@@ -55,13 +50,13 @@ a:visited { text-decoration: none;}
     <a href="/jump/plugin-store/" class="link">tcps on TheoTown Plugin Store</a><br>
     <a href="/plugins/download/cn/eng/" class="link">Download guide for Mainland China users</a>
   </div>
-  <div class="blank"></div>
+  <div class="block" style="height: 20px; width 20px;"></div>
   <div class="block">
   <h3>New release</h3>
     <a href="/plugins/EinsTower by TCPS Team.zip/" class="link">EinsTower</a><br>
     <a href="/plugins/download/f1/" class="link">F1</a>
   </div>
-  <div class="blank"></div>
+  <div class="block" style="height: 20px; width 20px;"></div>
   <div class="block">
     <h3>Recommenced</h3>
     <a href="/plugins/China National Aquatics Center by TCPS Team.zip">China National Auqatics Center</a>
@@ -70,7 +65,7 @@ a:visited { text-decoration: none;}
     
     <a href="/plugins/HK ShunTak Center by TCPS Team.zip">HK ShunTak Center</a>
   </div>
-  <div class="blank"></div>
+  <div class="block" style="height: 20px; width 20px;"></div>
   <div class="block"></div>
   <h3>View by categories</h3>
      <details>
