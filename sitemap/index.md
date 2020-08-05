@@ -58,8 +58,9 @@ a:visited { text-decoration: none;}
     <a href="/plugins/download/f1/" class="link">F1</a>
     </div>
   </div>
+  <br>
+  <div class="blank"></div>
   <div class="block">
-    <div class="blank"></div>
     <div class="block">
     <h3>Recommenced</h3>
     <a href="/plugins/China National Aquatics Center by TCPS Team.zip" class="link">China National Auqatics Center</a><br>
