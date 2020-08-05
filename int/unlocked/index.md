@@ -1,5 +1,6 @@
 <style>
 h1 {text-align: center;}
+h2 {text-align: center;}
 h4 {text-align: center;}
 h3 {text-align: center;}
 p {text-align: center;}
@@ -26,6 +27,8 @@ p {text-align: center;}
 <a href="/dev" style="font-size: 12.5px;">开发者用页面（英文）</a>
 </div>
 <hr>
+<h2>tcps 内联网聊天室</h2>
+<iframe src="https://www6.cbox.ws/box/?boxid=847290&boxtag=9cYma1" width="100%" height="450" allowtransparency="yes" allow="autoplay" frameborder="0" marginheight="0" marginwidth="0" scrolling="auto"></iframe>	
 
 <h4><a href="/plugins/download">Plugins Download</a>&emsp;<a href="/news">News</a>&emsp;<a href="/leadership">Leadership</a>&emsp;<a href="/contact">Contact us</a></h4>
 Copyright © 2020 tcps all right reserved.
