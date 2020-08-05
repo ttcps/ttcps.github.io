@@ -59,35 +59,37 @@ a:visited { text-decoration: none;}
   <div class="block" style="height: 20px; width 20px;"></div>
   <div class="block">
     <h3>Recommenced</h3>
-    <a href="/plugins/China National Aquatics Center by TCPS Team.zip">China National Auqatics Center</a>
     
-    <a href="/plugins/Guangzhou Poly Center by TCPS Team.zip">Guangzhou Poly Center</a>
+    <a href="/plugins/China National Aquatics Center by TCPS Team.zip">China National Auqatics Center</a><br>
     
-    <a href="/plugins/HK ShunTak Center by TCPS Team.zip">HK ShunTak Center</a>
+    <a href="/plugins/Guangzhou Poly Center by TCPS Team.zip">Guangzhou Poly Center</a><br>
+    
+    <a href="/plugins/HK ShunTak Center by TCPS Team.zip">HK ShunTak Center</a><br>
   </div>
   <div class="block" style="height: 20px; width 20px;"></div>
   <div class="block"></div>
   <h3>View by categories</h3>
      <details>
         <summary>All categories</summary>
-       <a href="/plugins/download/airplane/">Airplane(1)</a><br>
+       
+       <a href="/plugins/download/airplane/" class="link">Airplane(1)</a><br>
 
-       <a href="/plugins/download/award/">Award(2)</a><br>
+       <a href="/plugins/download/award/" class="link">Award(2)</a><br>
 
-       <a href="/plugins/download/commercial/">Comercial(16)</a><br>
+       <a href="/plugins/download/commercial/" class="link">Comercial(16)</a><br>
 
-       <a href="/plugins/download/decoration/">Decoration(5)</a><br>
+       <a href="/plugins/download/decoration/" class="link">Decoration(5)</a><br>
 
-       <a href="/plugins/download/landmark/">Landmark(3)</a><br>
+       <a href="/plugins/download/landmark/" class="link">Landmark(3)</a><br>
 
-       <a href="/plugins/download/pack/">Pack(8)</a><br>
+       <a href="/plugins/download/pack/" class="link">Pack(8)</a><br>
 
-       <a href="/plugins/download/residential/">Residential(1)</a><br>
+       <a href="/plugins/download/residential/" class="link">Residential(1)</a><br>
 
-       <a href="/plugins/download/service/">Service(1)</a><br>
+       <a href="/plugins/download/service/" class="link">Service(1)</a><br>
 
-       <a href="/plugins/download/sport/">Sport(1)</a><br>
+       <a href="/plugins/download/sport/" class="link">Sport(1)</a><br>
 
-       <a href="/plugins/download/tree/">Tree(1)</a>
+       <a href="/plugins/download/tree/" class="link">Tree(1)</a>
     </details>
    </div>
