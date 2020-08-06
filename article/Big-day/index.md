@@ -22,6 +22,8 @@ p {text-align: center;}
                  color: #000000;
                  text-align: center;
 </style>
-<div class="banner">❕ This page is under construction</div>
+<div class="banner">(!) This page is under construction</div>
+<hr>
+<hr>
 <h4><a href="/plugins/download">Plugins Download</a>&emsp;<a href="/news">News</a>&emsp;<a href="/leadership">Leadership</a>&emsp;<a href="/contact">Contact us</a></h4>
 Copyright © 2020 tcps all right reserved.
