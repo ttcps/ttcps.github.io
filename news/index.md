@@ -40,7 +40,7 @@ a:visited { text-decoration: none;}
     <img src="/images/tcps_1st_anniversary_.png"></div>
             <div class="blank"></div>
               <p id="des" style="color:#727272;">April 23, 2020</p>
-              <p id="title">tcps 1<sup>st<sup> Anniversary</p>
+              <p id="title">tcps 1<sup>st</sup> Anniversary</p>
               <p id="left">Today, 23th April, is the anniversary of tcps. See what's going on.</p>
             </div>
             </a>
