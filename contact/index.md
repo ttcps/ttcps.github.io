@@ -23,7 +23,8 @@ p {text-align: center;}
 <div id="left">Discord: TCPS Offical#3169</div>
 <div id="left">TheoTown Fourm: <a href="/jump/fourm/">TCPS Team</a></div>
 <div id="left">Tencent QQ Group: 705994440</div>
+<br>
 <div id="left"><b>Besides it, we will not provide any contact information, including telephone.</b></div>
 <hr>
-<h4><a href="/plugins/download">Plugins Download</a>&emsp;<a href="/news">News</a>&emsp;<a href="/leaderships">Leadership</a>&emsp;<a href="/contact">Contact us</a></h4>
+<h4><a href="/plugins/download">Plugins Download</a>&emsp;<a href="/news">News</a>&emsp;<a href="/leadership">Leadership</a>&emsp;<a href="/contact">Contact us</a></h4>
 <div id="center">Copyright © 2020 tcps all right reserved.</div>
