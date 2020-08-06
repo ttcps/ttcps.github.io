@@ -42,11 +42,14 @@ a:visited { text-decoration: none;}
 <hr>
 <div>
   <a href="01/">
-    <div  style="width: 100%; height: 125px;">
-    <img src="/images/tcps_1st_anniversary_.png/">
+    <div style="width: 100%; ling-height: 125px;">
+    <img src="/images/tcps_1st_anniversary_.png" style="width: 25%">
       <div class="blank"></div>
-      <p id="des" style="color:#727272;">April 23, 2020</p>
-      <p id="title">tcps 1<sup>st</sup> Anniversary</p>
+    <div style="vertical-align:top;display: inline-block">  
+    <div class="block" style="height:20px"><p id="des" style="color:#727272;">April 23, 2020</p></div>
+    <br>
+      <div class="block" style="height:20px;color: black"><p id="title">tcps 1<sup>st</sup> Anniversary</p></div>
+    </div>
     </div>
   </a>
 </div>
