@@ -49,7 +49,7 @@ a:visited { text-decoration: none;}
  window.location.assign("mobile/")
  }
  else{
- 
+ window.location.assign("desktop/")
  }
 }
 window.onload=isMobile
