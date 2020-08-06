@@ -44,7 +44,6 @@ a:visited { text-decoration: none;}
                  color: #000000;
                  text-align: center;
 	</style>
-</style>
 <script>
 function detectmob() { 
  if( navigator.userAgent.match(/Android/i)
