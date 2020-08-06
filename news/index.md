@@ -37,6 +37,22 @@ a:visited { text-decoration: none;}
      margin: 20px auto;
   }
 </style>
+<script>
+  function isMobile() {
+
+  try{ document.createEvent("TouchEvent"); return true; }
+
+  catch(e){ return false;}
+
+}
+ if(isMobile()){
+ window.location.assign("mobile/")
+ }
+ else{
+ 
+ }
+}
+window.onload=isMobile
 <h1><div id="left">News</div></h1>
 <hr>
 <div>
