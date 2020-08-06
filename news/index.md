@@ -43,7 +43,6 @@ a:visited { text-decoration: none;}
                  weight: 100%;
                  color: #000000;
                  text-align: center;
-	</style>
 </style>
 <script>
 function detectmob() { 
@@ -58,10 +57,9 @@ function detectmob() {
     window.location.assign("mobile/")
   }
  else {
-
-  }
+ 
+ }
 }
-
 window.onload=detectmob
 </script>
 
