@@ -38,21 +38,23 @@ a:visited { text-decoration: none;}
   }
 </style>
 <script>
-  function isMobile() {
+function detectmob() { 
+ if( navigator.userAgent.match(/Android/i)
+ || navigator.userAgent.match(/webOS/i)
+ || navigator.userAgent.match(/iPhone/i)
+ || navigator.userAgent.match(/iPad/i)
+ || navigator.userAgent.match(/iPod/i)
+ || navigator.userAgent.match(/BlackBerry/i)
+ || navigator.userAgent.match(/Windows Phone/i)
+ ){
+    window.location.assign("mobile/")
+  }
+ else {
 
-  try{ document.createEvent("TouchEvent"); return true; }
-
-  catch(e){ return false;}
-
+  }
 }
- if(isMobile()){
- window.location.assign("mobile/")
- }
- else{
- 
- }
-}
-window.onload=isMobile
+
+window.onload=detectmob
 </script>
 <h1><div id="left">News</div></h1>
 <hr>
