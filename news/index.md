@@ -49,10 +49,11 @@ a:visited { text-decoration: none;}
  window.location.assign("mobile/")
  }
  else{
- window.location.assign("desktop/")
+ 
  }
 }
 window.onload=isMobile
+</script>
 <h1><div id="left">News</div></h1>
 <hr>
 <div>
