@@ -4,7 +4,6 @@ h2 {text-align: left;}
 h4 {text-align: center;}
 h3 {text-align: left;}
 p {text-align: center;}
-p { word-wrap:break-word; }
 a:link { text-decoration: none;}
 a:active { text-decoration: none}
 a:hover { text-decoration: none;}
@@ -46,11 +45,11 @@ a:visited { text-decoration: none;}
     <img src="/images/tcps_1st_anniversary_.png" style="width: 25%">
       <div class="blank"></div>
     <div style="vertical-align:top;display: inline-block">  
-    <div class="block" style="height:20px"><p id="des" style="color:#727272;">April 23, 2020</p></div>
+    <div class="block" style="height:20px"><p id="des" style="color:#727272;">April 29, 2020</p></div>
     <br>
       <div class="block" style="height:20px;color: black"><p id="title">tcps 1<sup>st</sup> Anniversary</p></div>
     <br>
-      <p style="color:#727272;">Today, 23th April, is the anniversary of tcps. See what's going on.</p>
+      <p style="color:#727272;" id="left">Today, 23th April, is the anniversary of tcps.<br>See what's going on.</p>
     </div>
     </div>
   </a>
