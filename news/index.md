@@ -27,10 +27,15 @@ a:visited { text-decoration: none;}
   }
   .block{
          display: inline-block
+  }
   .blank{
          display: inline-block;
          width: 20px;
          height: 20px;
+  }
+  hr{
+     margin: 20px auto;
+  }
 </style>
 <h1><div id="left">News</div></h1>
 0
