@@ -29,7 +29,7 @@ Since founded, we never stop our steps on creating plugins, dedicated to creatin
   
 <hr>
 
-<img src="/images/tcps_html-style_member.png">
+<img src="/images/tcps_html-style_member_.png">
 <h3>Big day, big news.</h3>
 <a href="/article/Big-day">Learn more</a>
 
