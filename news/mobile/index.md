@@ -46,3 +46,23 @@ a:visited { text-decoration: none;}
 </style>
 <div class="banner">If you're desktop users, please click <a href="/news">here</a>.</div>
 <div style="height: 30px"></div>
+<h1 id="left">News</h1>
+<hr>
+<div>
+  <a href="01/">
+    <div style="width: 100%; ling-height: 125px;">
+    <img src="/images/tcps_1st_anniversary_.png" style="width: 100%">
+      <div class="blank"></div>
+    <div style="text-align: center">  
+    <div class="block" style="height:20px"><p id="des" style="color:#727272;">April 29, 2020</p></div>
+    <br>
+      <div class="block" style="height:20px;color: black"><p id="title">tcps 1<sup>st</sup> Anniversary</p></div>
+    <br>
+      <p style="color:#727272;"Today, 23th April, is the anniversary of tcps.<br>See what's going on.</p>
+    </div>
+    </div>
+  </a>
+</div>
+<hr>
+<h4><a href="/plugins/download">Plugins Download</a>&emsp;<a href="/news">News</a>&emsp;<a href="/leadership">Leadership</a>&emsp;<a href="/contact">Contact us</a></h4>
+Copyright © 2020 tcps all right reserved.
