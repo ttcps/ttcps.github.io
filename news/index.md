@@ -4,6 +4,7 @@ h2 {text-align: left;}
 h4 {text-align: center;}
 h3 {text-align: left;}
 p {text-align: center;}
+p { word-wrap:break-word; }
 a:link { text-decoration: none;}
 a:active { text-decoration: none}
 a:hover { text-decoration: none;}
