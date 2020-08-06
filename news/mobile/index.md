@@ -58,7 +58,7 @@ a:visited { text-decoration: none;}
     <br>
       <div class="block" style="height:20px;color: black"><p id="title">tcps 1<sup>st</sup> Anniversary</p></div>
     <br>
-      <p style="color:#727272;"Today, 23th April, is the anniversary of tcps.<br>See what's going on.</p>
+      <p style="color:#727272;">Today, 23th April, is the anniversary of tcps.<br>See what's going on.</p>
     </div>
     </div>
   </a>
