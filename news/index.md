@@ -57,12 +57,10 @@ function detectmob() {
     window.location.assign("mobile/")
   }
  else {
-
   }
  
  }
 }
-
 window.onload=detectmob
 </script>
 <div class="banner">If you're mobile users, please click <a href="mobile/">here</a>.</div>
