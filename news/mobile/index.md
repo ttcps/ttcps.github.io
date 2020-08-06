@@ -49,6 +49,7 @@ a:visited { text-decoration: none;}
 <div style="height: 30px"></div>
 <h1 id="left">News</h1>
 <hr>
+<h2>April, 2020</h2>
 <div>
   <a href="01/">
     <div style="width: 100%; ling-height: 125px;">
@@ -73,7 +74,7 @@ a:visited { text-decoration: none;}
     <div style="text-align: center">
     <div class="block" style="height:20px"><p id="des" style="color:#727272;">April 29, 2020</p></div>
     <br>
-      <div class="block" style="height:20px;color: black"><p id="title">tcps whole new website</p></div>
+      <div class="block" style="height:20px;color: black"><p id="title">tcps Whole New Website</p></div>
     <br>
       <p style="color:#727272;">Check out and explore our new website with us.</p>
     </div>
