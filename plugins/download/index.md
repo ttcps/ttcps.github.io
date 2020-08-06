@@ -48,6 +48,12 @@ function myFunction(){
 }
 window.onload=myFunction
 </script>
+<script language="javascript">
+         function kk100() {
+              document.getElementById("kk100-1").style.width="100%";
+	      document.getElementById("kk100-2").style.width="100%";
+         }
+     </script>
 <div id="banner_support">Support tcps, download plugins from <a href="/jump/plugin-store/">plugin store</a>.</div>
 <div style="height: 30px"></div>
 <h1><div id="left">Plugin Download</div></h1>
@@ -56,7 +62,8 @@ window.onload=myFunction
 <h4><div id="left">如果您生活在中国大陆，请点击<a href="/plugins/download/cn">此处</a>。</div></h4>
 <hr>
 <h2>New release</h2>
-<a href="/plugins/KK100.zip"><img src="//ttcps.github.io/images/tcps_kk100-day_.png" style="width:50%;"></a><a href="/plugins/KK100.zip"><img src="//ttcps.github.io/images/tcps_kk100-night_.png" style="width:50%;"></a>
+<a href="/plugins/KK100.zip"><img src="//ttcps.github.io/images/tcps_kk100-day_.png" style="width:50%;" id="kk100-1"></a><a href="/plugins/KK100.zip"><img src="//ttcps.github.io/images/tcps_kk100-night_.png" style="width:50%;" id="kk100-2"></a>
+<a href="javascript:kk100();">Full size image</a>
 <h3><a href="/plugins/KK100.zip" style="color:black;">KK100 Tower</a></h3>
 <a href="/plugins/EinsTower by TCPS Team.zip"><img src="//ttcps.github.io/images/tcps_enistower_thumbnail_compressed_.jpg"></a>
 <h3><a href="/plugins/Tropical Hotel by TCPS Team.zip" style="color:black;">EinsTower</a></h3>
