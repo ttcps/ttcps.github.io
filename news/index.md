@@ -35,8 +35,8 @@ a:visited { text-decoration: none;}
 <h1><div id="left">News</div></h1>
 <hr>
 <a href="01/">
-<div  style="width: 100%; height: 400px; background-color: #fafafa">
-</div>
+  <div  style="width: 100%; height: 400px; background-color: #fafafa">
+  </div>
 </a>
 <div class="blank"></div>
 <hr>
