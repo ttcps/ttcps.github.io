@@ -55,7 +55,7 @@ window.onload=myFunction
          }
 </script>
 <script language="javascript">
-         function kk100-re() {
+         function kk100re() {
               document.getElementById("kk100-1").style.width="50%";
 	      document.getElementById("kk100-2").style.width="50%";
          }
@@ -69,7 +69,7 @@ window.onload=myFunction
 <hr>
 <h2>New release</h2>
 <a href="/plugins/KK100.zip"><img src="//ttcps.github.io/images/tcps_kk100-day_.png" style="width:50%;" id="kk100-1"></a><a href="/plugins/KK100.zip"><img src="//ttcps.github.io/images/tcps_kk100-night_.png" style="width:50%;" id="kk100-2"></a>
-<a href="javascript:kk100();">Full size image</a>&emsp;<a href="javascript:kk100-re();">Original size image</a>
+<a href="javascript:kk100();">Full size image</a>&emsp;<a href="javascript:kk100re();">Original size image</a>
 <h3><a href="/plugins/KK100.zip" style="color:black;">KK100 Tower</a></h3>
 <a href="/plugins/EinsTower by TCPS Team.zip"><img src="//ttcps.github.io/images/tcps_enistower_thumbnail_compressed_.jpg"></a>
 <h3><a href="/plugins/Tropical Hotel by TCPS Team.zip" style="color:black;">EinsTower</a></h3>
