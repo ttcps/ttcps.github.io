@@ -43,7 +43,7 @@ a:visited { text-decoration: none;}
                  weight: 100%;
                  color: #000000;
                  text-align: center;
-	</style>
+</style>
 <script>
 function detectmob() { 
  if( navigator.userAgent.match(/Android/i)
@@ -57,8 +57,6 @@ function detectmob() {
     window.location.assign("mobile/")
   }
  else {
-  }
- 
  }
 }
 window.onload=detectmob
