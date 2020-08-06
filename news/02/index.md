@@ -20,7 +20,7 @@ p {text-align: center;}
 <p id="left" style="line-height: 35px;font-size: 15px;color:black">
 Hi, here's tcps Information Department.<br><br>
 There's a exiciting news to announce to you at here, after the hard-working, our new website show up finally.<br><br>
-tcps Info. Dep. update our offfical website, everythings new. Brand new visual experience, and new functions. We hope that you enjoy our new website, <a href="tour/">take a tour</a>.
+tcps Info. Dep. update our offfical website, everythings new. Brand new visual experience, and new functions. We hope that you enjoy our new website, <a href="/website-tour/">take a tour</a>.
 </p>
 <hr>
 <p id="left">Posted on April, 2020<br>Author: mic, Director of Info. Dep.</p>
