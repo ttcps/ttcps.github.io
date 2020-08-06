@@ -51,7 +51,7 @@ a:visited { text-decoration: none;}
 <hr>
 <h2>April, 2020</h2>
 <div>
-  <a href="01/">
+  <a href="/news/01/">
     <div style="width: 100%; ling-height: 125px;">
     <img src="/images/tcps_1st_anniversary_.png" style="width: 100%">
       <div class="blank"></div>
@@ -66,7 +66,7 @@ a:visited { text-decoration: none;}
   </a>
 </div>
 <div>
-  <a href="02/">
+  <a href="/news/02/">
     <div style="width: 100%; ling-height: 125px;">
       <img src="/images/blank_img.png" style="width: 100%">
       <div class="blank"></div>
