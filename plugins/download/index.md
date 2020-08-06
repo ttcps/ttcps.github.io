@@ -47,6 +47,7 @@ function myFunction(){
 }
 window.onload=myFunction
 </script>
+</head>
 <div id="banner_support">Support tcps, download plugins from <a href="/jump/plugin-store/">plugin store</a>.</div>
 <div style="height: 30px"></div>
 <h1><div id="left">Plugin Download</div></h1>
@@ -95,7 +96,10 @@ window.onload=myFunction
 
 <div id="a_left"><a href="tree/">Tree(1)</a></div>
 <hr>
-<a href="https://ttcps.github.io/plugins/tcps_all-plugins_20200804.zip" style="text-align: center;">Download all our plugins</a>
+
+<div id="left">
+<a href="https://ttcps.github.io/plugins/tcps_all-plugins_20200804.zip" >Download all our plugins</a>
 <hr>
 <h4><a href="/plugins/download">Plugins Download</a>&emsp;<a href="/news">News</a>&emsp;<a href="/leadership">Leadership</a>&emsp;<a href="/contact">Contact us</a></h4>
 Copyright © 2020 tcps all right reserved.
+</div>
