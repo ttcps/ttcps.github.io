@@ -80,6 +80,21 @@ window.onload=detectmob
     </div>
   </a>
 </div>
+<div>
+  <a href="02/">
+    <div style="width: 100%; ling-height: 125px;">
+    <img src="/images/blank_img.png" style="width: 25%">
+      <div class="blank"></div>
+    <div style="vertical-align:top;display: inline-block">  
+    <div class="block" style="height:20px"><p id="des" style="color:#727272;">April 29, 2020</p></div>
+    <br>
+      <div class="block" style="height:20px;color: black"><p id="title">tcps Whole New Website</div>
+    <br>
+      <p style="color:#727272;" id="left">Check out and explore our new website with us.</p>
+    </div>
+    </div>
+  </a>
+</div>
 <hr>
 <h4><a href="/plugins/download">Plugins Download</a>&emsp;<a href="/news">News</a>&emsp;<a href="/leadership">Leadership</a>&emsp;<a href="/contact">Contact us</a></h4>
 Copyright © 2020 tcps all right reserved.
