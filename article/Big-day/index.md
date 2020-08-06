@@ -23,6 +23,7 @@ p {text-align: center;}
                  text-align: center;
 </style>
 <div class="banner">(!) This page is under construction</div>
+<div style="height: 30px"></div>
 <hr>
 <hr>
 <h4><a href="/plugins/download">Plugins Download</a>&emsp;<a href="/news">News</a>&emsp;<a href="/leadership">Leadership</a>&emsp;<a href="/contact">Contact us</a></h4>
