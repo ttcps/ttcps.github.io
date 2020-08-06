@@ -59,6 +59,10 @@ a:visited { text-decoration: none;}
 </div>
 <hr>
 <div style="height: 50px">
+<div id="title"><a href="/plugins/KK100.zip" style="color:black;">KK100 Tower</a></div>
+</div>
+<hr>
+<div style="height: 50px">
 <div id="title"><a href="/plugins/Logistics Company by TCPS Team.zip" style="color:black;">Logistics Company</a></div>
 </div>
 <hr>
@@ -94,7 +98,7 @@ a:visited { text-decoration: none;}
 <div id="title"><a href="/plugins/V-Singer Tower by TCPS Team.zip" style="color:black;">V-Singer Tower</a></div>
 </div>
 <hr>
-<a href="https://ttcps.github.io/plugins/tcps_all-commercial-plugins_20200804.zip" style="text-align: center;">Download all</a>
+<a href="https://ttcps.github.io/plugins/tcps_all-commercial-plugins_20200806.zip" style="text-align: center;">Download all</a>
 <hr>
 <h4><a href="/plugins/download">Plugins Download</a>&emsp;<a href="/news">News</a>&emsp;<a href="/leadership">Leadership</a>&emsp;<a href="/contact">Contact us</a></h4>
 Copyright © 2020 tcps all right reserved.
