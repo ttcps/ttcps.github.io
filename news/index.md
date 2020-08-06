@@ -80,10 +80,11 @@ window.onload=detectmob
     </div>
   </a>
 </div>
+<hr>
 <div>
   <a href="01/">
     <div style="width: 100%; ling-height: 125px;">
-    <img src="/images/tcps_1st_anniversary_.png" style="width: 25%">
+    <img src="/images/blank_img.png" style="width: 25%">
       <div class="blank"></div>
     <div style="vertical-align:top;display: inline-block">  
     <div class="block" style="height:20px"><p id="des" style="color:#727272;">April 29, 2020</p></div>
