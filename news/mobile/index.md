@@ -65,7 +65,6 @@ a:visited { text-decoration: none;}
     </div>
   </a>
 </div>
-<hr>
 <div>
   <a href="02/">
     <div style="width: 100%; ling-height: 125px;">
