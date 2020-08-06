@@ -43,6 +43,10 @@ a:visited { text-decoration: none;}
                  weight: 100%;
                  color: #000000;
                  text-align: center;
+  }
+  .blank_img{
+             width:100%
+             height: 75%
 </style>
 <div class="banner">If you're desktop users, please click <a href="/news">here</a>.</div>
 <div style="height: 30px"></div>
@@ -58,7 +62,23 @@ a:visited { text-decoration: none;}
     <br>
       <div class="block" style="height:20px;color: black"><p id="title">tcps 1<sup>st</sup> Anniversary</p></div>
     <br>
-      <p style="color:#727272;">Today, 23th April, is the anniversary of tcps.<br>See what's going on.</p>
+      <p style="color:#727272;">Today, 29th April, is the anniversary of tcps.<br>See what's going on.</p>
+    </div>
+    </div>
+  </a>
+</div>
+<hr>
+<div>
+  <a href="02/">
+    <div style="width: 100%; ling-height: 125px;">
+      <div class="blank_img"></div>
+      <div class="blank"></div>
+    <div style="text-align: center">
+    <div class="block" style="height:20px"><p id="des" style="color:#727272;">April 29, 2020</p></div>
+    <br>
+      <div class="block" style="height:20px;color: black"><p id="title">tcps whole new website</p></div>
+    <br>
+      <p style="color:#727272;">Check out and explore our new website with us.</p>
     </div>
     </div>
   </a>
