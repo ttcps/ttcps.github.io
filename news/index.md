@@ -72,12 +72,12 @@ window.onload=detectmob
     <div style="width: 100%; ling-height: 125px;">
     <img src="/images/tcps_1st_anniversary_.png" style="width: 25%">
       <div class="blank"></div>
-    <div style="vertical-align:top;display: inline-block">  
+    <div style="text-align: center">  
     <div class="block" style="height:20px"><p id="des" style="color:#727272;">April 29, 2020</p></div>
     <br>
       <div class="block" style="height:20px;color: black"><p id="title">tcps 1<sup>st</sup> Anniversary</p></div>
     <br>
-      <p style="color:#727272;" id="left">Today, 23th April, is the anniversary of tcps.<br>See what's going on.</p>
+      <p style="color:#727272;">Today, 23th April, is the anniversary of tcps.<br>See what's going on.</p>
     </div>
     </div>
   </a>
