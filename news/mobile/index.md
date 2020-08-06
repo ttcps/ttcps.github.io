@@ -68,7 +68,7 @@ a:visited { text-decoration: none;}
 <div>
   <a href="02/">
     <div style="width: 100%; ling-height: 125px;">
-      <img src="/images/blank_img.png/" style="width: 100%">
+      <img src="/images/blank_img.png" style="width: 100%">
       <div class="blank"></div>
     <div style="text-align: center">
     <div class="block" style="height:20px"><p id="des" style="color:#727272;">April 29, 2020</p></div>
