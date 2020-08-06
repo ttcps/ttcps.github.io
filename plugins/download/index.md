@@ -34,6 +34,7 @@ p {text-align: center;}
                  color: #000000;
                  text-align: center;
 	</style>
+</head>
 <script>
 console.log("So, you want to use inspect tool? Still those words, support tcps, download plugins from plugin store.");
 function myFunction(){
@@ -47,7 +48,6 @@ function myFunction(){
 }
 window.onload=myFunction
 </script>
-</head>
 <div id="banner_support">Support tcps, download plugins from <a href="/jump/plugin-store/">plugin store</a>.</div>
 <div style="height: 30px"></div>
 <h1><div id="left">Plugin Download</div></h1>
@@ -77,29 +77,17 @@ window.onload=myFunction
 <hr>
 <h2>View by categories</h2>
 <div id="a_left"><a href="airplane/">Airplane(1)</a></div>
-
 <div id="a_left"><a href="award/">Award(2)</a></div>
-
 <div id="a_left"><a href="commercial/">Comercial(16)</a></div>
-
 <div id="a_left"><a href="decoration/">Decoration(5)</a></div>
-
 <div id="a_left"><a href="landmark/">Landmark(3)</a></div>
-
 <div id="a_left"><a href="pack/">Pack(8)</a></div>
-
 <div id="a_left"><a href="residential/">Residential(1)</a></div>
-
 <div id="a_left"><a href="service/">Service(1)</a></div>
-
 <div id="a_left"><a href="sport/">Sport(1)</a></div>
-
 <div id="a_left"><a href="tree/">Tree(1)</a></div>
 <hr>
-
-<div id="left">
-<a href="https://ttcps.github.io/plugins/tcps_all-plugins_20200804.zip" >Download all our plugins</a>
+<a href="https://ttcps.github.io/plugins/tcps_all-plugins_20200804.zip" style="text-align: center;">Download all our plugins</a>
 <hr>
 <h4><a href="/plugins/download">Plugins Download</a>&emsp;<a href="/news">News</a>&emsp;<a href="/leadership">Leadership</a>&emsp;<a href="/contact">Contact us</a></h4>
 Copyright © 2020 tcps all right reserved.
-</div>
