@@ -28,14 +28,17 @@ a:visited { text-decoration: none;}
   .block{
          display: inline-block
   .blank{
-         display: inline-block
-         width: 20px
-         height: 20px
+         display: inline-block;
+         width: 20px;
+         height: 20px;
 </style>
 <h1><div id="left">News</div></h1>
 <hr>
-<a href="01/" style="width: 100%; height: 100px; background-color: #fafafa">
+<a href="01/">
+<div  style="width: 100%; height: 400px; background-color: #fafafa">
+</div>
 </a>
+<div class="blank"></div>
 <hr>
 <h4><a href="/plugins/download">Plugins Download</a>&emsp;<a href="/news">News</a>&emsp;<a href="/leadership">Leadership</a>&emsp;<a href="/contact">Contact us</a></h4>
 Copyright © 2020 tcps all right reserved.
