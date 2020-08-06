@@ -56,11 +56,11 @@ window.onload=myFunction
 <h4><div id="left">如果您生活在中国大陆，请点击<a href="/plugins/download/cn">此处</a>。</div></h4>
 <hr>
 <h2>New release</h2>
+<a href="/plugins/KK100.zip"><img src="//ttcps.github.io/images/tcps_kk100-day.png" style="width:50%;display:inline-block;"></a>
+<a href="/plugins/KK100.zip"><img src="//ttcps.github.io/images/tcps_kk100-night.png" style="width:50%;display:inline-block;"></a>
+<h3><a href="/plugins/KK100.zip" style="color:black;">KK100 Tower</a></h3>
 <a href="/plugins/EinsTower by TCPS Team.zip"><img src="//ttcps.github.io/images/tcps_enistower_thumbnail_compressed_.jpg"></a>
 <h3><a href="/plugins/Tropical Hotel by TCPS Team.zip" style="color:black;">EinsTower</a></h3>
-<a href="f1/"><img src="//ttcps.github.io/images/48d57497ff043f19ea72e10404ee4fd.png"></a>
-<h3><a href="f1/" style="color:black;">F1 Expansion Pack</a></h3>
-<hr>
 <h2>Recommenced</h2>
 <div style="height: 75px">
 <div id="title"><a href="/plugins/China National Aquatics Center by TCPS Team.zip" style="color:black;">China National Aquatics Center</a></div>
