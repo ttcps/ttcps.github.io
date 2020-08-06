@@ -53,8 +53,8 @@ window.onload=myFunction
               document.getElementById("kk100-1").style.width="100%";
 	      document.getElementById("kk100-2").style.width="100%";
          }
-     </script>
-script language="javascript">
+</script>
+<script language="javascript">
          function kk100-re() {
               document.getElementById("kk100-1").style.width="50%";
 	      document.getElementById("kk100-2").style.width="50%";
