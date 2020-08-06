@@ -18,7 +18,7 @@ p {text-align: center;}
 <h1>tcps 1<sup>st</sup> anniversary</h1>
 <hr>
 <img src="/images/tcps_1st_anniversary_.png" style="width: 100%">
-Hi, this is tcps. On this day last year, we were founded. We have brought many unprecedented plugins in this year. No matter how many ups and downs we have encountered in this year, we still update the plugin without change. Last year, our best plugin was Water Cube, which was excellent in practicality and beauty. This year, we will bring more excellent plugins, please wait and see.
+<p id="left" style="line-height: 40px;font-size: 15px">Hi, this is tcps. On this day last year, we were founded. We have brought many unprecedented plugins in this year. No matter how many ups and downs we have encountered in this year, we still update the plugin without change. Last year, our best plugin was Water Cube, which was excellent in practicality and beauty. This year, we will bring more excellent plugins, please wait and see.</p>
 <hr>
 <p id="left">Posted on April, 2020<br>Author: Anrurens, Vice Director of Info. Dep.</p>
 <h4><a href="/plugins/download">Plugins Download</a>&emsp;<a href="/news">News</a>&emsp;<a href="/leadership">Leadership</a>&emsp;<a href="/contact">Contact us</a></h4>
