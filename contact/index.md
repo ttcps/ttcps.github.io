@@ -14,6 +14,8 @@ p {text-align: center;}
   #center{
           text-align:Center
   }
+  hr{
+     margin: 20px auto
 </style>
 
 <h1><div id="left">Contact</div></h1>
