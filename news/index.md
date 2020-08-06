@@ -33,9 +33,9 @@ a:visited { text-decoration: none;}
          height: 20px;
 </style>
 <h1><div id="left">News</div></h1>
+0
 <hr>
-<a href="01/"><div  style="width: 100%; height: 400px; background-color: #fafafa"></div>
-</a>
+<a href="01/"><div  style="width: 100%; height: 400px; background-color: #fafafa"></div></a>
 <div class="blank"></div>
 <hr>
 <h4><a href="/plugins/download">Plugins Download</a>&emsp;<a href="/news">News</a>&emsp;<a href="/leadership">Leadership</a>&emsp;<a href="/contact">Contact us</a></h4>
