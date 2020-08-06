@@ -30,8 +30,8 @@ a:visited { text-decoration: none;}
   }
   .blank{
          display: inline-block;
-         width: 20px;
-         height: 20px;
+         width: 10px;
+         height: 10px;
   }
   hr{
      margin: 20px auto;
