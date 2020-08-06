@@ -19,7 +19,7 @@ p {text-align: center;}
                  color: #000000;
                  text-align: center;
 </style>
-<div style="border:2px #000000 solid;border-radius:100px;height:30px;width: 90px;text-align: center;line-height:30px;margin: 0 auto;">Preview</div>
+<div style="border:2px #000000 solid;border-radius:100px;height:30px;width: 90px;text-align: center;line-height:30px;margin: 0 auto;color: black">Preview</div>
 <div style="height: 30px"></div>
 <div id="banner">Stay home, stay safe. <a href="/covid-19">Learn more about COVID-19</a>.</div>
 <div style="height: 30px"></div>
