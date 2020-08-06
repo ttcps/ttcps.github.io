@@ -65,6 +65,7 @@ window.onload=detectmob
 <div style="height: 30px"></div>
 <h1><div id="left">News</div></h1>
 <hr>
+<h2>April, 2020</h2>
 <div>
   <a href="01/">
     <div style="width: 100%; ling-height: 125px;">
@@ -80,7 +81,6 @@ window.onload=detectmob
     </div>
   </a>
 </div>
-<hr>
 <div>
   <a href="01/">
     <div style="width: 100%; ling-height: 125px;">
