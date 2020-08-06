@@ -64,6 +64,7 @@ function detectmob() {
 
 window.onload=detectmob
 </script>
+
 <div class="banner">If you're mobile users, please click <a href="mobile/">here</a>.</div>
 <div style="height: 30px"></div>
 <h1><div id="left">News</div></h1>
