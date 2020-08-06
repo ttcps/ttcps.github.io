@@ -38,7 +38,6 @@ a:visited { text-decoration: none;}
   }
 </style>
 <h1><div id="left">News</div></h1>
-0
 <hr>
 <div>
   <a href="01/">
@@ -49,6 +48,8 @@ a:visited { text-decoration: none;}
     <div class="block" style="height:20px"><p id="des" style="color:#727272;">April 23, 2020</p></div>
     <br>
       <div class="block" style="height:20px;color: black"><p id="title">tcps 1<sup>st</sup> Anniversary</p></div>
+    <br>
+      <p style="color:#727272;">Today, 23th April, is the anniversary of tcps. See what's going on.</p>
     </div>
     </div>
   </a>
