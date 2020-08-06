@@ -82,7 +82,7 @@ window.onload=detectmob
   </a>
 </div>
 <div>
-  <a href="01/">
+  <a href="02/">
     <div style="width: 100%; ling-height: 125px;">
     <img src="/images/blank_img.png" style="width: 25%">
       <div class="blank"></div>
