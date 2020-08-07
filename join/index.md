@@ -19,17 +19,16 @@ p {text-align: center;}
                  color: #000000;
                  text-align: center;
   }
-  .head_title{
-              font-size: 25px;
-              color: black;
-              text-align:center;
-              height: 60px;
-              line-height: 60px;
-              width: 100%;
   hr{
      margin: 20px auto
 </style>
-<h1 class="head_title">Jobs<br>which love</h1>
+<h1 id="left">Jobs which love</h1>
+<hr>
+<img src="/images/blank_img.png" style="width: 100%">
+<h2 id="left">Be a part of us</h2>
+<p id="left">You can be a part of us. As part of tcps, you will have free diamond offer every month^. Beside it, you can learn a lot of things with us, nothing is better than joining us.</p>
+<hr>
+<p style="font-size: 10px">^ Offers effected by preformance, tcps reserves the right of final interpretation.</p>
 <hr>
 <h4><a href="/plugins/download">Plugins Download</a>&emsp;<a href="/news">News</a>&emsp;<a href="/leadership">Leadership</a>&emsp;<a href="/contact">Contact us</a></h4>
 Copyright © 2020 tcps all right reserved.
