@@ -21,20 +21,26 @@ p {text-align: center;}
                  weight: 100%;
                  color: #000000;
                  text-align: center;
+  }
+  .text{
+        line-height: 35px;
+        font-size: 15px;
+        color:black;
+        text-align: left;
 </style>
 <div class="banner">(!) This page is under construction</div>
 <div style="height: 30px"></div>
 <hr>
 <p style="font-size:15px;color:black;text-align:left;height: 15px;line-height: 15px">Augest 29, 2020</p>
 <h1 id="left">To all who love TheoTown,</h1>
-<p id="left">Today, Augest 29, is our anniversary. In the past year, we did many things that surprised all TheoTown community. Untill now, we've released over 38 plugins. They're all looks pretty and useful, we are glad of it. Beside it, we've prepared a lot of suprised for you, check it out.</p>
+<p id="text">Today, Augest 29, is our anniversary. In the past year, we did many things that surprised all TheoTown community. Untill now, we've released over 38 plugins. They're all looks pretty and useful, we are glad of it. Beside it, we've prepared a lot of suprised for you, check it out.</p>
 <br>
-<img src="/image/blank_img.png/" style="width:100%">
+<img src="/images/blank_img.png/" style="width:100%">
 <h3 id="left">About us</h3>
-We're tcps, we founded on April, 2019. Our full name is TheoTown Chinese Studio. We create plugins for the TheoTown community. We have senven original members: Anssss, mic, Mayor of Bielin, DongWu, Rik, MengTao, and QiAnKons. Beside it, we have a subsidiary department, Oriental Department, specializing in the production of East Asian style (China, Japan, South Korea, Southeast Asia) architectural plugins.
+<p id="text">We're tcps, we founded on April, 2019. Our full name is TheoTown Chinese Studio. We create plugins for the TheoTown community. We have senven original members: Anssss, mic, Mayor of Bielin, DongWu, Rik, MengTao, and QiAnKons. Beside it, we have a subsidiary department, Oriental Department, specializing in the production of East Asian style (China, Japan, South Korea, Southeast Asia) architectural plugins.</p>
 <br>
 <h3 id="left>Under the pandemic</h3>
-        <p id="left">Early 2020, COVID-19 outbreak. Under the COVID-19 pandemic, we need to stay home to fight the virus, we take this opportunity, try hard to make more plugins for TheoTown Community. In this period, we produced over 20 plugins, it's amazing and unbelievable. From may, we paused our process of producing plugin, we need to take care of some stuff of our life. But on end of July, we restarted for producing plugin. We've produced 8 plugin, only few weeks.</p>
+<p id="text">Early 2020, COVID-19 outbreak. Under the COVID-19 pandemic, we need to stay home to fight the virus, we take this opportunity, try hard to make more plugins for TheoTown Community. In this period, we produced over 20 plugins, it's amazing and unbelievable. From may, we paused our process of producing plugin, we need to take care of some stuff of our life. But on end of July, we restarted for producing plugin. We've produced 8 plugin, only few weeks.</p>
 <p id="left">tcps members</p>
 <hr>
 <h4><a href="/plugins/download">Plugins Download</a>&emsp;<a href="/news">News</a>&emsp;<a href="/leadership">Leadership</a>&emsp;<a href="/contact">Contact us</a></h4>
