@@ -26,7 +26,7 @@ p {text-align: center;}
         font-size:12.5px;
         text-align:right;
   }
-  #banner_support{
+  .banner{
                  font-size:12.5px;
                  line-height: 40px;
                  background-color: #f0f0f0;
@@ -60,7 +60,9 @@ window.onload=myFunction
 	      document.getElementById("kk100-2").style.width="50%";
          }
      </script>
-<div id="banner_support">Support tcps, download plugins from <a href="/jump/plugin-store/">plugin store</a>.</div>
+<div class="banner">Support tcps, download plugins from <a href="/jump/plugin-store/">plugin store</a>.</div>
+<div style="height: 20px"></div>
+<div class="banner">Some old plugins only available from <a href="/jump/plugin-store/">plugin store</a>.</div>
 <div style="height: 30px"></div>
 <h1><div id="left">Plugin Download</div></h1>
 <hr>
