@@ -37,10 +37,14 @@ p {text-align: center;}
 <br>
 <img src="/images/blank_img.png" style="width:100%">
 <h3 id="left">About us</h3>
-<p id="text">We're tcps, we founded on April, 2019. Our full name is TheoTown Chinese Studio. We create plugins for the TheoTown community. We have senven original members: Anssss, mic, Mayor of Bielin, DongWu, Rik, MengTao, and QiAnKons. Beside it, we have a subsidiary department, Oriental Department, specializing in the production of East Asian style architectural plugins.</p>
+<p id="text">We're tcps, we founded on April, 2019. Our full name is TheoTown Chinese Plugins Studio. We create plugins for the TheoTown community. We have senven original members: Anssss, mic, Mayor of Bielin, DongWu, Rik, MengTao, and QiAnKons. Beside it, we have a subsidiary department, Oriental Department, specializing in the production of East Asian style architectural plugins.</p>
 <br>
 <h3 id="left">Under the pandemic</h3>
 <p id="text">Early 2020, COVID-19 outbreak. Under the COVID-19 pandemic, we need to stay home to fight the virus, we take this opportunity, try hard to make more plugins for TheoTown Community. In this period, we produced over 20 plugins, it's amazing and unbelievable. From may, we paused our process of producing plugin, we need to take care of some stuff of our life. But on end of July, we restarted for producing plugin. We've produced 8 plugin, only few weeks.</p>
+<br>
+<h3 id="left">After restart</h3>
+<p id="text>After restart we did so many things, we create so many plugins, and a whole new webiste. Information Department have work for them for so many days and night. The website include useful information, such as news about tcps. Plugins are also brilliant, the one of them, China Modern Office Building was ranked as featured plugin. It's best to be your city's lankmark. All of our plugin will upload to our website, but we still want you to download them from plugin store, it's easier and cover bigger.</p>
+<h3 id="left">Road ahead</h3>
 <p id="text">tcps members</p>
 <hr>
 <h4><a href="/plugins/download">Plugins Download</a>&emsp;<a href="/news">News</a>&emsp;<a href="/leadership">Leadership</a>&emsp;<a href="/contact">Contact us</a></h4>
