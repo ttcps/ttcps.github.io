@@ -18,6 +18,9 @@ p {text-align: center;}
                  weight: 100%;
                  color: #000000;
                  text-align: center;
+  }
+  hr{
+     margin: 20px auto
 </style>
 <div style="border:2px #000000 solid;border-radius:100px;height:30px;width: 90px;text-align: center;line-height:30px;margin: 0 auto;color: black">Preview</div>
 <div style="height: 30px"></div>
@@ -47,6 +50,12 @@ Since founded, we never stop our steps on creating plugins, dedicated to creatin
 <h3>Download plugins</h3>
 
 <a href="/plugins/download">Check out</a>
+
+<hr>
+
+<img src="/images/tcps_join.png" style="width: 100%">
+
+<p style="width: 100%: height: 25px; line-height: 25px;background-color: #000000"><a href="/join">Learn more</a></p>
 
 <hr>
 
