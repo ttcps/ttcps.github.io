@@ -25,8 +25,8 @@ p {text-align: center;}
 <div class="banner">(!) This page is under construction</div>
 <div style="height: 30px"></div>
 <hr>
-<p style="font-size:20px;color:black;text-align:left">April 29, 2020</p>
-<h1 id="left">To all who loves TheoTown</h1>
+<p style="font-size:15px;color:black;text-align:left;height: 15px;line-height: 15px">April 29, 2020</p>
+<h1 id="left">To all who love TheoTown</h1>
 <hr>
 <h4><a href="/plugins/download">Plugins Download</a>&emsp;<a href="/news">News</a>&emsp;<a href="/leadership">Leadership</a>&emsp;<a href="/contact">Contact us</a></h4>
 Copyright © 2020 tcps all right reserved.
