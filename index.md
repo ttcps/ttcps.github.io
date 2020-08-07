@@ -53,10 +53,10 @@ Since founded, we never stop our steps on creating plugins, dedicated to creatin
 
 <hr>
 
-<img src="/images/tcps_join.png" style="width: 100%">
-
-<p style="width: 100%: height: 25px; line-height: 25px;background-color: #000000"><a href="/join">Learn more</a></p>
-
+<div style="background-color:#000000">
+    <img src="/images/tcps_join_.png" style="width: 100%">
+<p style="width: 100%: height: 200px; line-height: 200px;background-color: #000000"><a href="/join" class="one-pan-link-mark">Learn more</a></p>
+    </div>
 <hr>
 
 <h4><a href="/plugins/download">Plugins Download</a>&emsp;<a href="/news">News</a>&emsp;<a href="/leadership">Leadership</a>&emsp;<a href="/contact">Contact us</a></h4>
