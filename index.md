@@ -55,7 +55,7 @@ Since founded, we never stop our steps on creating plugins, dedicated to creatin
 
 <div style="background-color:#000000">
     <img src="/images/tcps_join_.png" style="width: 100%">
-<p style="width: 100%: height: 200px; line-height: 200px;background-color: #000000"><a href="/join" class="one-pan-link-mark">Learn more</a></p>
+<p style="width: 100%: height: 200px; line-height: 200px;background-color: #000000;font-weight: bold;"><a href="/join" class="one-pan-link-mark">Learn more</a></p>
     </div>
 <hr>
 
