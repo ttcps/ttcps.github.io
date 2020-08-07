@@ -28,6 +28,8 @@ p {text-align: center;}
 <p style="font-size:15px;color:black;text-align:left;height: 15px;line-height: 15px">April 29, 2020</p>
 <h1 id="left">To all who love TheoTown,</h1>
 <p id="left">Today, April 29, is our anniversary. In the past year, we did many things that surprised all TheoTown community. Untill now, we've released over 38 plugins.</p>
+<br>
+<p id="left">tcps members</p>
 <hr>
 <h4><a href="/plugins/download">Plugins Download</a>&emsp;<a href="/news">News</a>&emsp;<a href="/leadership">Leadership</a>&emsp;<a href="/contact">Contact us</a></h4>
 Copyright © 2020 tcps all right reserved.
