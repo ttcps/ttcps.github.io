@@ -25,9 +25,9 @@ p {text-align: center;}
 <div class="banner">(!) This page is under construction</div>
 <div style="height: 30px"></div>
 <hr>
-<p style="font-size:15px;color:black;text-align:left;height: 15px;line-height: 15px">April 29, 2020</p>
+<p style="font-size:15px;color:black;text-align:left;height: 15px;line-height: 15px">Augest 29, 2020</p>
 <h1 id="left">To all who love TheoTown,</h1>
-<p id="left">Today, April 29, is our anniversary. In the past year, we did many things that surprised all TheoTown community. Untill now, we've released over 38 plugins.</p>
+<p id="left">Today, Augest 29, is our anniversary. In the past year, we did many things that surprised all TheoTown community. Untill now, we've released over 38 plugins. They're all looks pretty and useful, we are glad of it.</p>
 <br>
 <p id="left">tcps members</p>
 <hr>
