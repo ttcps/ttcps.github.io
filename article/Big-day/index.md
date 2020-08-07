@@ -22,7 +22,7 @@ p {text-align: center;}
                  color: #000000;
                  text-align: center;
   }
-  .text{
+  #text{
         line-height: 35px;
         font-size: 15px;
         color:black;
@@ -39,7 +39,7 @@ p {text-align: center;}
 <h3 id="left">About us</h3>
 <p id="text">We're tcps, we founded on April, 2019. Our full name is TheoTown Chinese Studio. We create plugins for the TheoTown community. We have senven original members: Anssss, mic, Mayor of Bielin, DongWu, Rik, MengTao, and QiAnKons. Beside it, we have a subsidiary department, Oriental Department, specializing in the production of East Asian style (China, Japan, South Korea, Southeast Asia) architectural plugins.</p>
 <br>
-<h3 id="left>Under the pandemic</h3>
+<h3 id="left">Under the pandemic</h3>
 <p id="text">Early 2020, COVID-19 outbreak. Under the COVID-19 pandemic, we need to stay home to fight the virus, we take this opportunity, try hard to make more plugins for TheoTown Community. In this period, we produced over 20 plugins, it's amazing and unbelievable. From may, we paused our process of producing plugin, we need to take care of some stuff of our life. But on end of July, we restarted for producing plugin. We've produced 8 plugin, only few weeks.</p>
 <p id="left">tcps members</p>
 <hr>
