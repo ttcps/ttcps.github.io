@@ -35,7 +35,7 @@ p {text-align: center;}
 <h1 id="left">To all who love TheoTown,</h1>
 <p id="text">Today, Augest 29, is our anniversary. In the past year, we did many things that surprised all TheoTown community. Untill now, we've released over 38 plugins. They're all looks pretty and useful, we are glad of it. Beside it, we've prepared a lot of suprised for you, check it out.</p>
 <br>
-<img src="/images/blank_img.png/" style="width:100%">
+<img src="/images/blank_img.png" style="width:100%">
 <h3 id="left">About us</h3>
 <p id="text">We're tcps, we founded on April, 2019. Our full name is TheoTown Chinese Studio. We create plugins for the TheoTown community. We have senven original members: Anssss, mic, Mayor of Bielin, DongWu, Rik, MengTao, and QiAnKons. Beside it, we have a subsidiary department, Oriental Department, specializing in the production of East Asian style (China, Japan, South Korea, Southeast Asia) architectural plugins.</p>
 <br>
