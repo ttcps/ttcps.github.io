@@ -28,6 +28,8 @@ p {text-align: center;}
 <h2 id="left">Be a part of us</h2>
 <p id="left">You can be a part of us. As part of tcps, you will have free diamond offer every month<sup>1</sup>. Beside it, you can learn a lot of things with us, nothing is better than joining us.</p>
 <hr>
+<h1>Work for tcps, now up.<br>Send your email to<br>tcps0team@gmail.com</h1><a href="/contact/" style="font-size: 15px">Or with another ways</a>
+<hr>
 <p id="left" style="font-size: 10px"><sup>1</sup> Offers effected by preformance, tcps reserves the right of final interpretation.</p>
 <hr>
 <h4><a href="/plugins/download">Plugins Download</a>&emsp;<a href="/news">News</a>&emsp;<a href="/leadership">Leadership</a>&emsp;<a href="/contact">Contact us</a></h4>
