@@ -61,7 +61,7 @@ window.onload=myFunction
          }
      </script>
 <div class="banner">Support tcps, download plugins from <a href="/jump/plugin-store/">plugin store</a>.</div>
-<div style="height: 20px"></div>
+<div style="height: 15px"></div>
 <div class="banner">Some old plugins only available from <a href="/jump/plugin-store/">plugin store</a>.</div>
 <div style="height: 30px"></div>
 <h1><div id="left">Plugin Download</div></h1>
