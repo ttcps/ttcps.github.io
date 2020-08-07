@@ -90,7 +90,7 @@ window.onload=myFunction
 <h2>View by categories</h2>
 <div id="a_left"><a href="airplane/">Airplane(1)</a></div>
 <div id="a_left"><a href="award/">Award(2)</a></div>
-<div id="a_left"><a href="commercial/">Comercial(16)</a></div>
+<div id="a_left"><a href="commercial/">Comercial(17)</a></div>
 <div id="a_left"><a href="decoration/">Decoration(5)</a></div>
 <div id="a_left"><a href="landmark/">Landmark(3)</a></div>
 <div id="a_left"><a href="pack/">Pack(8)</a></div>
@@ -99,7 +99,7 @@ window.onload=myFunction
 <div id="a_left"><a href="sport/">Sport(1)</a></div>
 <div id="a_left"><a href="tree/">Tree(1)</a></div>
 <hr>
-<a href="https://ttcps.github.io/plugins/tcps_all-plugins_20200806.zip" style="text-align: center;">Download all our plugins</a>
+<a href="https://ttcps.github.io/plugins/tcps_all-plugins_20200806.zip" style="text-align: center;">Download all our plugins (34)</a>
 <hr>
 <h4><a href="/plugins/download">Plugins Download</a>&emsp;<a href="/news">News</a>&emsp;<a href="/leadership">Leadership</a>&emsp;<a href="/contact">Contact us</a></h4>
 Copyright © 2020 tcps all right reserved.
