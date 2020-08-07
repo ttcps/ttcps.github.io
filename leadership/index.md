@@ -15,7 +15,6 @@ p {text-align: center;}
   #title{
         font-size:20px;
         text-align:left;
-        font-weight:600;
   }
   #big-title{
         font-size:25px;
@@ -119,6 +118,7 @@ p {text-align: center;}
 <div class="leadership_0">
 
 <div id="big-title" style="color:black;">Oriental Department</div>
+<p id="des"><a href="/jump/oriental-website/">Visit Oriental Department Offical Website</a></p>
 
 <div class="leadership_">
 <div id="title" style="color:#636363;">Ripple</div>
