@@ -23,7 +23,7 @@ There's a exiciting news to announce to you at here, after the hard-working, our
 tcps Info. Dep. update our offfical website, everythings new. Brand new visual experience, and new functions. We hope that you enjoy our new website, <a href="/website-tour/">take a tour</a>.
 </p>
 <hr>
-<p id="left">Posted on April, 2020<br>Author: mic, Director of Info. Dep.</p>
+<p id="left">Posted on Augest 29, 2020<br>Author: mic, Director of Info. Dep.</p>
 <hr>
 <h4><a href="/plugins/download">Plugins Download</a>&emsp;<a href="/news">News</a>&emsp;<a href="/leadership">Leadership</a>&emsp;<a href="/contact">Contact us</a></h4>
 Copyright © 2020 tcps all right reserved.
