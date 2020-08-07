@@ -19,7 +19,7 @@ p {text-align: center;}
 <img src="/images/tcps_1st_anniversary_.png" style="width: 100%">
 <p id="left" style="line-height: 35px;font-size: 15px;color:black">Hi, this is tcps.<br><br>On this day last year, we were founded. We have brought many unprecedented plugins in this year. No matter how many ups and downs we have encountered in this year, we still update the plugin without change.<br><br>Last year, our best plugin was Water Cube, which was excellent in practicality and beauty. This year, we will bring more excellent plugins, please wait and see.</p>
 <hr>
-<p id="left">Posted on April, 2020<br>Author: Anrurens, Vice Director of Info. Dep.</p>
+<p id="left">Posted on Augest, 2020<br>Author: Anrurens, Vice Director of Info. Dep.</p>
 <hr>
 <h4><a href="/plugins/download">Plugins Download</a>&emsp;<a href="/news">News</a>&emsp;<a href="/leadership">Leadership</a>&emsp;<a href="/contact">Contact us</a></h4>
 Copyright © 2020 tcps all right reserved.
