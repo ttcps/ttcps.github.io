@@ -44,6 +44,7 @@ p {text-align: center;}
 <br>
 <h3 id="left">After restart</h3>
 <p id="text">After restart we did so many things, we create so many plugins, and a whole new webiste. Information Department have work for them for so many days and night. The website include useful information, such as news about tcps. Plugins are also brilliant, the one of them, China Modern Office Building was ranked as featured plugin. It's best to be your city's lankmark. All of our plugin will upload to our website, but we still want you to download them from plugin store, it's easier and cover bigger.</p>
+<br>
 <h3 id="left">Road ahead</h3>
 <p id="text">The next year of tcps, will be full of surprises. Beside it, we hope the pandemic of COVID-19 can ran out. As U.S President Lincoln said "The occasion is piled high with difficulty, and we must rise with the occasion. As our case is new, so we must think anew, and act anew."<br><br>We will keep fight the virus with the lives on the planet, and contribute to the TheoTown community.</p>
 <br>
