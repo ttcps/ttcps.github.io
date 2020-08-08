@@ -22,7 +22,7 @@ p {text-align: center;}
   hr{
      margin: 20px auto
 </style>
-<h1 id="left">Jobs which love</h1>
+<h1 id="left">Work for tcps</h1>
 <hr>
 <img src="/images/blank_img.png" style="width: 100%">
 <h2 id="left">Be a part of us</h2>
