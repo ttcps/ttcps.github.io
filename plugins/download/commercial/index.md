@@ -31,7 +31,7 @@ a:visited { text-decoration: none;}
 <div>&nbsp;</div>
 <hr>
 <div style="height: 50px">
-<div id="title"><a href="/plugins/Al Tijaria Tower by TCPS Team.zip" style="color:black;">Al Tijaria Tower</a></div>
+<div id="title"><a href="/plugins/Al Tijaria Tower by TCPS Team_20200809.zip" style="color:black;">Al Tijaria Tower</a></div>
 </div>
 <hr>
 <div style="height: 50px">
@@ -59,7 +59,7 @@ a:visited { text-decoration: none;}
 </div>
 <hr>
 <div style="height: 50px">
-<div id="title"><a href="/plugins/KK100.zip" style="color:black;">KK100 Tower</a></div>
+<div id="title"><a href="/plugins/KK 100 Tower by TCPS Team.zip" style="color:black;">KK100 Tower</a></div>
 </div>
 <hr>
 <div style="height: 50px">
