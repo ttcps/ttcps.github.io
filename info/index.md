@@ -34,6 +34,7 @@ p {text-align: center;}
 <hr>
 <p>Due to the large amount of content, we can't record all, if copyright infringes, please contact us.</p>
 <hr>
+<p id="text">----------</p>
 <p id="text">网站版本：内测，预览，0.89<br>Copyright © 2020 tcps/资讯部 保留所有权利。<br>由 GitHub Pages 提供技术支持<br>使用html编写<br>
 <h1 id="left">版权资讯</h1>
 <p id="text">Bigday, bignews.(一周年纪念文章) 图一, 由夜雨行（Maximum）授权提供</p>
