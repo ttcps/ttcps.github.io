@@ -71,10 +71,11 @@ window.onload=myFunction
 <hr>
 <h2>New release</h2>
 
-
-<a href="/plugins/KK100.zip"><img src="//ttcps.github.io/images/tcps_kk100-day_.png" style="width:50%;" id="kk100-1"></a><a href="/plugins/KK100.zip"><img src="//ttcps.github.io/images/tcps_kk100-night_.png" style="width:50%;" id="kk100-2"></a>
+<a href="/plugins/Al Tijaria Tower by TCPS Team_20200809.zip"><img src="//ttcps.github.io/images/blank_img.png" style="width:100%;"></a>
+<h3><a href="/plugins/Al Tijaria Tower by TCPS Team_20200809.zip" style="color:black;">Al Tijaria Tower</a></h3>
+<a href="/plugins/KK 100 Tower by TCPS Team.zip"><img src="//ttcps.github.io/images/tcps_kk100-day_.png" style="width:50%;" id="kk100-1"></a><a href="/plugins/KK 100 Tower by TCPS Team.zip"><img src="//ttcps.github.io/images/tcps_kk100-night_.png" style="width:50%;" id="kk100-2"></a>
 <a href="javascript:kk100();">Full size image</a>&emsp;<a href="javascript:kk100re();">Original size image</a>
-<h3><a href="/plugins/KK100.zip" style="color:black;">KK100 Tower</a></h3>
+<h3><a href="/plugins/KK 100 Tower by TCPS Team.zip" style="color:black;">KK100 Tower</a></h3>
 <h2>Recommenced</h2>
 <div style="height: 75px">
 <div id="title"><a href="/plugins/China National Aquatics Center by TCPS Team.zip" style="color:black;">China National Aquatics Center</a></div>
