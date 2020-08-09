@@ -28,7 +28,6 @@ p {text-align: center;}
         color:black;
         text-align: left;
 </style>
-<div class="banner">(!) This page is under construction</div>
 <div style="height: 30px"></div>
 <hr>
 <p style="font-size:15px;color:black;text-align:left;height: 15px;line-height: 15px">Augest 29, 2020</p>
