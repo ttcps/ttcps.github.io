@@ -16,7 +16,7 @@ p {text-align: center;}
   }
 </style>
 <h1>tcps Whole New Website</h1>
-<img src="/images/blank_img.png" style="width: 100%">
+<img src="/images/tcps_website_Applei8plus.png" style="width: 100%">
 <p id="left" style="line-height: 35px;font-size: 15px;color:black">
 Hi, here's tcps Information Department.<br><br>
 There's exciting news to announce to you here, after the hard-working, our new website show up finally.<br><br>
