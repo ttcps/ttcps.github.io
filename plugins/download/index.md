@@ -101,7 +101,7 @@ window.onload=myFunction
 <div id="a_left"><a href="sport/">Sport(1)</a></div>
 <div id="a_left"><a href="tree/">Tree(1)</a></div>
 <hr>
-<a href="https://ttcps.github.io/plugins/tcps_all-plugins_20200806.zip" style="text-align: center;">Download all our plugins (34)</a>
+<a href="https://ttcps.github.io/plugins/tcps_all-plugins_20200809.zip" style="text-align: center;">Download all our plugins (34)</a>
 <hr>
 <h4><a href="/plugins/download">Plugins Download</a>&emsp;<a href="/news">News</a>&emsp;<a href="/leadership">Leadership</a>&emsp;<a href="/contact">Contact us</a></h4>
 Copyright © 2020 tcps all right reserved.
