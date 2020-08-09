@@ -118,7 +118,7 @@ p {text-align: center;}
 <div class="leadership_0">
 
 <div id="big-title" style="color:black;">Oriental Department</div>
-<p style="font-size: 12.5px;text-align:left"><a href="/jump/oriental-website/">Visit Oriental Department Offical Website</a></p>
+<p style="font-size: 12.5px;text-align:left"><a href="/jump/oriental-website/">Visit Oriental Department Official Website</a></p>
 
 <div class="leadership_">
 <div id="title" style="color:#636363;">Ripple</div>
