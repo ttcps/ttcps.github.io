@@ -19,8 +19,8 @@ p {text-align: center;}
 <img src="/images/blank_img.png" style="width: 100%">
 <p id="left" style="line-height: 35px;font-size: 15px;color:black">
 Hi, here's tcps Information Department.<br><br>
-There's a exiciting news to announce to you at here, after the hard-working, our new website show up finally.<br><br>
-tcps Info. Dep. update our offfical website, everythings new. Brand new visual experience, and new functions. We hope that you enjoy our new website, <a href="/website-tour/">take a tour</a>.
+There's exciting news to announce to you here, after the hard-working, our new website show up finally.<br><br>
+tcps Info. Dep. update our offfical website, everythings new. Brand new visual experience, and new functions. We hope that you enjoy our new website, <a href="https://ttcps.github.io/">take a tour</a>.
 </p>
 <hr>
 <p id="left">Posted on Augest 29, 2020<br>Author: mic, Director of Info. Dep.</p>
