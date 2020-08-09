@@ -30,7 +30,7 @@ p {text-align: center;}
 </style>
 <h1 id="left">Work for tcps</h1>
 <hr>
-<img src="/images/blank_img.png" style="width: 100%">
+<img src="/images/tcps_join_style.png" style="width: 100%">
 <h2 id="left">Be a part of us</h2>
 <p id="text">You can be a part of us. As part of tcps, you will have free diamond offer every month<sup>1</sup>. Beside it, you can learn a lot of things with us, nothing is better than joining us.</p>
 <hr>
