@@ -84,7 +84,7 @@ window.onload=detectmob
 <div>
   <a href="02/">
     <div style="width: 100%; ling-height: 125px;">
-    <img src="/images/blank_img.png" style="width: 25%">
+    <img src="/images/tcps_website_Applei8plus.png" style="width: 25%">
       <div class="blank"></div>
     <div style="vertical-align:top;display: inline-block">  
     <div class="block" style="height:20px"><p id="des" style="color:#727272;">Augest 29, 2020</p></div>
