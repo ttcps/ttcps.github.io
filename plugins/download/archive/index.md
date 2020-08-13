@@ -61,6 +61,8 @@ window.onload=myFunction
 	      document.getElementById("kk100-2").style.width="50%";
          }
      </script>
+<div style="border:2px #000000 solid;border-radius:100px;height:30px;width: 90px;text-align: center;line-height:30px;margin: 0 auto;color: black">Archive</div>
+<div style="height: 30px"></div>
 <div class="banner">Support tcps, download plugins from <a href="/jump/plugin-store/">plugin store</a>.</div>
 <div style="height: 15px"></div>
 <div class="banner">Some old plugins only available from <a href="/jump/plugin-store/">plugin store</a>.</div>
