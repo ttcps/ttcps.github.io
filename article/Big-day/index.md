@@ -51,6 +51,3 @@ p {text-align: center;}
 <br>
 <p id="text">Best Regards,</p>
 <p id="text">tcps members</p>
-<hr>
-<h4><a href="/plugins/download">Plugins Download</a>&emsp;<a href="/news">News</a>&emsp;<a href="/leadership">Leadership</a>&emsp;<a href="/contact">Contact us</a></h4>
-Copyright © 2020 tcps all right reserved.
