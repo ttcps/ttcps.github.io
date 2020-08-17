@@ -58,9 +58,6 @@ Since founded, we never stop our steps on creating plugins, dedicated to creatin
 <div><p style="background-color:#000000;width:100%;height: 100px;font-weight:bold;"><a href="/join/" style="color: #4492e8;"><br><br>Learn more</a></p></div>
 </div>
 <hr>
-
-<h4><a href="/plugins/download">Plugins Download</a>&emsp;<a href="/news">News</a>&emsp;<a href="/leadership">Leadership</a>&emsp;<a href="/contact">Contact us</a></h4>
-Copyright © 2020 tcps all right reserved.
-
 <b style="font-size: 10px">For Internal Staff</b><br>
 <a href="dev/" style="font-size: 10px">Dev Page</a>&emsp;<a href="int/" style="font-size: 10px">Internal Network</a>
+<hr>
