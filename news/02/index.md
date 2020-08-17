@@ -24,6 +24,3 @@ tcps Info. Dep. update our official website, everything new. Brand new visual ex
 </p>
 <hr>
 <p id="left">Posted on Augest 29, 2020<br>Author: mic, Director of Info. Dep.</p>
-<hr>
-<h4><a href="/plugins/download">Plugins Download</a>&emsp;<a href="/news">News</a>&emsp;<a href="/leadership">Leadership</a>&emsp;<a href="/contact">Contact us</a></h4>
-Copyright © 2020 tcps all right reserved.
