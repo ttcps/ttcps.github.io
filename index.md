@@ -60,4 +60,3 @@ Since founded, we never stop our steps on creating plugins, dedicated to creatin
 <hr>
 <b style="font-size: 10px">For Internal Staff</b><br>
 <a href="dev/" style="font-size: 10px">Dev Page</a>&emsp;<a href="int/" style="font-size: 10px">Internal Network</a>
-<hr>
