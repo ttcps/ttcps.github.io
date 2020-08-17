@@ -27,6 +27,3 @@ p {text-align: center;}
 <div id="left">Tencent QQ Group: 705994440</div>
 <br>
 <div id="left"><b>Besides it, we will not provide any contact information, including telephone.</b></div>
-<hr>
-<h4><a href="/plugins/download">Plugins Download</a>&emsp;<a href="/news">News</a>&emsp;<a href="/leadership">Leadership</a>&emsp;<a href="/contact">Contact us</a></h4>
-<div id="center">Copyright © 2020 tcps all right reserved.</div>
