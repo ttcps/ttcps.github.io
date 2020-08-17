@@ -37,6 +37,3 @@ p {text-align: center;}
 <h3>Send your email to tcps0team@gmail.com</h3>
 <hr>
 <p id="left" style="font-size: 10px"><sup>1</sup> Offers effected by preformance, tcps reserves the right of final interpretation.</p>
-<hr>
-<h4><a href="/plugins/download">Plugins Download</a>&emsp;<a href="/news">News</a>&emsp;<a href="/leadership">Leadership</a>&emsp;<a href="/contact">Contact us</a></h4>
-Copyright © 2020 tcps all right reserved.
