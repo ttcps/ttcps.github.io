@@ -1,3 +1,6 @@
+---
+title: 新冠肺炎
+---
 <style>
 h1 {text-align: center;}
 h4 {text-align: center;}
