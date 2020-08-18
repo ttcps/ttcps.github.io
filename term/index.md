@@ -1,5 +1,5 @@
 ---
-title: Big News
+title: Term of Use
 ---
 <style>
 h1 {text-align: center;}
