@@ -1,5 +1,5 @@
 ---
-title: Stop Spported
+title: Stop Supported
 ---
 <style>
 h1 {text-align: center;}
