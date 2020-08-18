@@ -1,5 +1,5 @@
 ---
-title: tcps 1<sup>st</sup> Anniversarry
+title: tcps 1st Anniversarry
 ---
 <style>
 h1 {text-align: center;}
