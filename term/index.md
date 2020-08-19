@@ -42,6 +42,6 @@ p {text-align: center;}
 <h3 id="left">Links to Other Sites and to the tcps Site</h3>
 <p id="text">This site may contain links to other independent third-party Web sites ("Linked Sites"). These Linked Sites are provided solely as a convenience to visitors. Link Sites are not controlled by tcps. tcps is not responsible for and does not endorse the content of such Link Sites. You may need to determine by yourself when visiting with Link Sites.</p>
 <h3 id="left">Disclaimer of Cookies</h3>
-<p id="text">Till now, tcps has NEVER active set Cookies to you, site provider (GitHub Pages) may set Cookies to you without any notice, tcps may not be responsible for that. You can take rejection solely. Contact with your browser provider, learn how to reject these Cookies.</p>
+<p id="text">Till now, tcps has NEVER active set Cookies to you, site provider (GitHub Pages), and data analytics service provider (Google Analytics) may set Cookies to you without any notice, tcps may not be responsible for that. You can take rejection solely. Contact with your browser provider, learn how to reject these Cookies.</p>
 <h3 id="left">Information</h3>
-<p id="text"><i>The Information contained in this site will change without any notice.<br><br>Copyright © 2020 tcps All rights reserved.</i><br><br>Updated by tcps on Aug. 2020</p>
+<p id="text"><i>The Information contained in this site will change without any notice.<br>Copyright © 2020 tcps All rights reserved.</i><br><br>Updated by tcps on Aug. 2020</p>
