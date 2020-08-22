@@ -32,6 +32,7 @@ p {text-align: center;}
         text-align: left;
 </style>
 <h1>tcps 网站使用条例</h1>
+<p id="right"><a href="/term/">English Version</a></p>
 <hr>
 <h3 id="left">网站拥有权；对条例的同意</h3>
 <p id="text">本使用条款 ("条款") 适用于位于 <a href="/">ttcps.github.io</a>。 本网站为 tcps 的财产, 包括但不限于在 tcps 官方网站（网站）上的：图片、档案、内容等 ("网站内容")。<b>使用本网站，即表示您同意本使用条款；如果您不同意，请勿使用本网站。</b><br><br>tcps 有权随时自行决定对本条例的修改、添加或移除。您有责任随时查看本条例的修改。若您在修改后继续使用本网站，即代表您同意修改。只要你遵守本使用条款，tcps 即授予你个人、非排他性、不可转让、有限的权利进入和使用本网站。</p>
