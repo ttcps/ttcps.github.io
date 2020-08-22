@@ -44,6 +44,6 @@ p {text-align: center;}
 <h3 id="left">Disclaimer of Cookies</h3>
 <p id="text">Till now, tcps has NEVER active set Cookies to you, site provider (GitHub Pages), and data analytics service provider (Google Analytics) may set Cookies to you without any notice, tcps may not be responsible for that. You can take rejection solely. Contact with your browser provider, learn how to reject these Cookies.</p>
 <h3 id="left">Copyright</h3>
-<p id="text">Till the written consent from tcps and related rights holders, you may not may not use the site content in any way (including but not limited to: copy, edit, upload, use for commercial etc.) without authorization. Otherwise, tcps will pursue legal liabilities according to law.</p>
+<p id="text">Till the written consent from tcps and related rights holders, you may not may not use the site content in any way (including but not limited to: copy, edit, upload, use for commercial etc.) without authorization. Otherwise, tcps will pursue legal liabilities according to law.<br><br>This term is also apply at tcps's works (including but not limited to plugins, plugins pack etc.)</p>
 <h3 id="left">Information</h3>
 <p id="text"><i>The Information contained in this site will change without any notice.<br>Copyright © 2020 tcps All rights reserved.</i><br><br>Updated by tcps on Aug. 2020</p>
