@@ -32,7 +32,7 @@ p {text-align: center;}
         text-align: left;
 </style>
 <h1>tcps Website Term of Use</h1>
-<p id="right">中文版</p>
+<p id="right"><a href="cn/">中文版</a></p>
 <hr>
 <h3 id="left">Ownership of site; Agreement to Term of Use</h3>
 <p id="text">This term ("Term of Use") apply to the site located at <a href="/">ttcps.github.io</a>. This Site is the property of tcps, including but no limited to: the image, content, files, and more ("site content"), in tcps Official website("Site"). BY USING THIS WEBSITE, YOU AGREE TO THIS TERM OF USE. IF NOT, PLEASE STOP BROWSING AND USING THIS SITE.<br><br>tcps reserved the right to at its sole discretion to edit, add, or remove the content of this Term of Use anytime. You have the responsibility to check the changes of this Term of Use. If you still browse and use the site after changes, It means you agree with the change. As long as you comply with these Terms of Use, tcps grants you a personal, non-exclusive, non-transferable, limited privilege to enter and use the Site.</p>
