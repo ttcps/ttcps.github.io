@@ -1,5 +1,5 @@
 ---
-title:使用条例
+title: 使用条例
 ---
 <style>
 h1 {text-align: center;}
