@@ -2,12 +2,17 @@
 layout: default
 ---
 
+<style type="text/css">
 p{
   line-height: 35px;
   font-size: 15px;
   color:black;
   text-align: left;
 }
+hr{
+  margin: 20px auto
+}
+</style>
 
 <h1>{{ page.title }}</h1>
 
@@ -17,5 +22,5 @@ p{
 
 <hr>
 Posted on {{ page.date | date: "%-d %B %Y" }}
-
+<br>
 Author: {{ page.author}}
