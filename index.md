@@ -1,6 +1,4 @@
----
-layout: home
----
+<title>tcps</title>
 <style>
 h1 {text-align: center;}
 h4 {text-align: center;}
