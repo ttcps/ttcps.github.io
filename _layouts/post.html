@@ -22,4 +22,5 @@ hr{
 <hr>
 Posted on {{ page.date | date: "%-d %B %Y" }}
 <br>
+{% assign author = site.data.authors[page.author] %}
 Author: {{page.author}}
