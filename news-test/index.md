@@ -50,6 +50,10 @@ a:visited { text-decoration: none;}
   li{
      list-style-type:none
   }
+  ul{
+     margin:0;
+     padding:0
+  }
 </style>
 <script>
 function detectmob() { 
