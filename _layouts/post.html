@@ -2,8 +2,18 @@
 layout: default
 ---
 
+<script type="text/javascript">
+function copyUrl2()
+{
+var Url2={{page.url}}
+Url2.select();
+document.execCommand("Copy");
+alert("Done");
+}
+</script>
+
 <style type="text/css">
-p{
+.text{
   line-height: 35px;
   font-size: 15px;
   color:black;
@@ -18,7 +28,7 @@ hr{
 </style>
 
 <h1>{{ page.title }}</h1>
-<a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url }}"><img src="/images/facebook.svg" style="width:10px;height:10px;"></a>
+<small>Share to: <a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url }}">Facebook</a><a href="https://twitter.com/home?status={{ page.url }}">Twitter</a><a href="javascript:copyUrl2()">Copy to clipboard</a></small>
 
 <img src="{{ page.rimg }}" style="width: 100%">
 <div style="height: 20px"></div>
@@ -29,4 +39,3 @@ hr{
 Posted on {{ page.date | date: "%-d %B %Y" }}
 <br>
 Author: {{ page.author }}
-0
