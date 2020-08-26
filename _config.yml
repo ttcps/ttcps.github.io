@@ -2,11 +2,3 @@ theme: jekyll-theme-minimal
 title: tcps
 # Google Analytics
 google_analytics: UA-147400618-4
-github:
-  username: ttcps
-gitalk:
-    repo: ttcps/ttcps.github.io 
-    client_id: 693021bc08a7d87129a1
-    client_secret: d3e0ec5ed127954b7cfadff2ed4e60a5a78c0892
-liquid:
-    capitalize： false
