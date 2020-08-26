@@ -70,7 +70,7 @@ a:visited { text-decoration: none;}
     <div style="width: 100%;">
     <img src="{{ post.rimg }}" style="width: 100%">
       <div class="blank"></div>
-    <div style="vertical-align:top;display: inline-block">  
+    <div style="vertical-align:top;display: inline-block;width: 100%>  
     <div class="block" style="height:20px"><p id="des" style="color:#727272;">{{ post.date | date: "%-d %B %Y" }}</p></div>
     <br>
       <div class="block" style="height:20px;color: black"><p id="title">{{ post.title }}</p></div>
