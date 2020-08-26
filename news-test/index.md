@@ -74,7 +74,7 @@ window.onload=detectmob
       <div>
   <a href="{{ post.url }}">
     <div style="width: 100%; ling-height: 125px;">
-    <img src="{{ post.rimage }}" style="width: 25%">
+    <img src="{{ post.rimg }}" style="width: 25%">
       <div class="blank"></div>
     <div style="vertical-align:top;display: inline-block">  
     <div class="block" style="height:20px"><p id="des" style="color:#727272;">{{ post.date }}</p></div>
