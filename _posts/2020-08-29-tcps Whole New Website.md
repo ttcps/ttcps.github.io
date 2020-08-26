@@ -1,7 +1,7 @@
 ---
 author: mic
 des: Check out and explore our new website with us.
-rimg: /images/images/tcps_website_Applei8plus.png/
+rimg: /images/images/tcps_website_Applei8plus.png
 ---
 <p>Hi, here's tcps Information Department.<br><br>
 There's exciting news to announce to you here, after the hard-working, our new website show up finally.<br><br>
