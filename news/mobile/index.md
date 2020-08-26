@@ -21,12 +21,15 @@ a:visited { text-decoration: none;}
   }
   #title{
         font-size:20px;
-        text-align:left;
+        text-align:center;
         font-weight:bold;
   }
   #des{
         font-size:12.5px;
         text-align:left;
+  }
+  #center{
+          text-align: center;
   }
   .block{
          display: inline-block
@@ -72,7 +75,7 @@ a:visited { text-decoration: none;}
     <br>
       <div class="block" style="height:20px;color: black"><p id="title">{{ post.title }}</p></div>
     <br>
-      <p style="color:#727272;" id="left">{{ post.des }}</p>
+      <p style="color:#727272;" id="center">{{ post.des }}</p>
     </div>
     </div>
   </a>
