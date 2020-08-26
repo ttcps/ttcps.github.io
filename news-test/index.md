@@ -81,7 +81,7 @@ window.onload=detectmob
     <li>
       <div>
   <a href="{{ post.url }}">
-    <div style="width: 100%; ling-height: 125px;">
+    <div style="width: 100%;">
     <img src="{{ post.rimg }}" style="width: 25%">
       <div class="blank"></div>
     <div style="vertical-align:top;display: inline-block">  
