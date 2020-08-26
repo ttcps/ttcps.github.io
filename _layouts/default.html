@@ -6,9 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="Description" content="tcps &mdash; TheoTown Chinese Plugins Studio. Check out our plugins, and latest news.">
     <meta property="og:type" content="website" />  
-    <meta property="og:title" content="tcps" />
-    <meta property="og:description" content="tcps &mdash; TheoTown Chinese Plugins Studio. Check out our plugins, and latest news." />
-    <meta property="og:image" content="https://ttcps.github.io/images/tcps_og-image.png" />
+    <meta property="og:title" content="{{ page.title }} - tcps" />
+    <meta property="og:description" content="{{ page.des | default: "tcps &mdash; TheoTown Chinese Plugins Studio. Check out our plugins, and latest news." }}" />
+    <meta property="og:image" content="{{ page.rimg | default: https://ttcps.github.io/images/tcps_og-image.png }}" />
     <meta property="og:url" content="https://ttcps.github.io" />
     <meta property="og:site_name" content="tcps" />
     <title>{{page.title}} - tcps</title>
