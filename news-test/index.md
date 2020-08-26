@@ -79,7 +79,7 @@ window.onload=detectmob
     <div style="vertical-align:top;display: inline-block">  
     <div class="block" style="height:20px"><p id="des" style="color:#727272;">{{ post.date }}</p></div>
     <br>
-      <div class="block" style="height:20px;color: black"><p id="title">{{ post.title }}y</p></div>
+      <div class="block" style="height:20px;color: black"><p id="title">{{ post.title }}</p></div>
     <br>
       <p style="color:#727272;" id="left">{{ post.des }}</p>
     </div>
