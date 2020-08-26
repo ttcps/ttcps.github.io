@@ -1,14 +1,6 @@
 ---
 layout: default
 ---
-<script language="javascript">
-function copyUrl()
-{
-var clipBoardContent=this.location.href;
-window.clipboardData.setData("Text",clipBoardContent);
-alert("Done");
-}
-</script>
 
 <style type="text/css">
 .text{
@@ -37,3 +29,8 @@ hr{
 Posted on {{ page.date | date: "%-d %B %Y" }}
 <br>
 Author: {{ page.author }}
+<hr>
+<img src="favicon.ico" style="width:25%"> News
+<p class="text">Learn more news and latest events from tcps</p>
+<p class="text"><a href="/news">Read more ></p>
+<hr>
