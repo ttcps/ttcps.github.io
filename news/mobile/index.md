@@ -64,7 +64,7 @@ a:visited { text-decoration: none;}
 <hr>
 <ul>
   {% for post in site.posts %}
-    <li>
+    <li style="text-align: center">
       <div>
   <a href="{{ post.url }}">
     <div style="width: 100%;">
