@@ -26,7 +26,7 @@ a:visited { text-decoration: none;}
   }
   #des{
         font-size:12.5px;
-        text-align:left;
+        text-align:center;
   }
   #center{
           text-align: center;
