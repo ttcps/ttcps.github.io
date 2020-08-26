@@ -65,7 +65,7 @@ a:visited { text-decoration: none;}
       <div>
   <a href="{{ post.url }}">
     <div style="width: 100%;">
-    <img src="{{ post.rimg }}" style="width: 25%">
+    <img src="{{ post.rimg }}" style="width: 100%">
       <div class="blank"></div>
     <div style="vertical-align:top;display: inline-block">  
     <div class="block" style="height:20px"><p id="des" style="color:#727272;">{{ post.date | date: "%-d %B %Y" }}</p></div>
