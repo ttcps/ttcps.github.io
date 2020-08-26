@@ -46,6 +46,10 @@ a:visited { text-decoration: none;}
                  weight: 100%;
                  color: #000000;
                  text-align: center;
+  }
+  li{
+     list-style-type:none
+  }
 </style>
 <script>
 function detectmob() { 
