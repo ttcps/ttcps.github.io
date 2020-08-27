@@ -1,6 +1,7 @@
 ---
 title: Information / 网站资讯
 version: Insider Beta (Preview)
+version-ch: 內部测试（预览）
 version-num: 0.90
 ---
 
@@ -34,10 +35,6 @@ p {text-align: center;}
         color:black;
         text-align: left;
 </style>
-{% if page.version ==  "Insider Beta (Preview)" %}
-  {% assign version-ch = "內部测试（预览）" %}
-{% endif %}
-
 
 <p id="text">Website version: {{ page.version }}, {{ page.version-num }}-{{ site.github.build_revision | truncate: 6, "" }}<br>Copyright © 2020 tcps/Information Department all right reserved.<br>Powered by GitHub Pages<br>Written by html<br>
 <h1 id="left">Copyright Info</h1>
