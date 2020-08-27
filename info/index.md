@@ -52,4 +52,4 @@ p {text-align: center;}
 <p id="text">Bigday, bignews.(一周年纪念文章) 图一, 由夜雨行（Maximum）授权提供</p>
 <hr>
 <p>因内容众多，未能尽录，如侵犯版权，请版权方与我们联络。</p>
-{{ site.github.version.github_pages }}
+{{ site.github.build_revision }}
