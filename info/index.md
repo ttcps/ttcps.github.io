@@ -35,7 +35,7 @@ p {text-align: center;}
         text-align: left;
 </style>
 {% if page.version ==  "Insider Beta (Preview)" %}
-  {% assign page.version-ch = "內部测试（预览）" %}
+  {% assign version-ch = "內部测试（预览）" %}
 {% endif %}
 
 
