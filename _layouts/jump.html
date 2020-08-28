@@ -1,0 +1,5 @@
+{% if page.jump-link %}
+      <link rel="canonical" href="{{ page.jump-link }}">
+      <meta http-equiv="refresh" content="0; url="{{ page.jump-link }}">
+      <script>location="{{ page.jump-link }}"</script>
+{% endif %}
