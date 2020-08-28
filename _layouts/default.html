@@ -12,6 +12,10 @@
     <meta property="og:url" content="{{ page.url }}" />
     <meta property="og:site_name" content="tcps" />
     <title>{{page.title}} - tcps</title>
+    {% if page.jump-link %}
+      <link rel="canonical" href="{{ page.jump-link }}">
+      <meta http-equiv="refresh" content="0; url="{{ page.jump-link }}">
+      <script>location="{{ page.jump-link }}"</script>
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
