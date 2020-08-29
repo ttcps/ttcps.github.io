@@ -29,4 +29,3 @@ They're</p>
 <p class="text">We hope you can enjoy our surprises, we're look forward to see you at the next anniversary of tcps.</p>
 <hr>
 <p><sup>1</sup>Till 5th Sep, 2020.(6:00, UTC-7, Pacific Standard)<br><sup>2</sup>From 5th Sep up, every month's first Saturday (6:00, UTC-7, Pacific Standard)</p>
-<hr>
