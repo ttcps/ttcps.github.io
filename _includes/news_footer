@@ -1,0 +1,13 @@
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="/page{{ paginator.previous_page }}"><</a>
+  {% else %}
+    <span style="color: #808080"><</span>
+  {% endif %}
+  <span class="page_number ">{{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a href="/page{{ paginator.previous_page }}">></a>
+  {% else %}
+    <span style="color: #808080">></span>
+  {% endif %}
+</div>
