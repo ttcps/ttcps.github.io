@@ -36,7 +36,7 @@ p {text-align: center;}
         text-align: left;
 </style>
 
-<p id="text">Website version: {{ page.version }}, {{ page.version-num }}-{{ site.github.build_revision | truncate: 7, "" }}<br>Last update: {{ site.time | %B %d %y }}<br>Copyright © 2020 tcps/Information Department all right reserved.<br>Powered by GitHub Pages<br>
+<p id="text">Website version: {{ page.version }}, {{ page.version-num }}-{{ site.github.build_revision | truncate: 7, "" }}<br>Copyright © 2020 tcps/Information Department all right reserved.<br>Powered by GitHub Pages, theme by orderedlist.<br>
 <h1 id="left">Copyright Info</h1>
 <p id="text">Bigday, bignews.(Aritcle of 1st anniversary) image 1, credit to Maximum(Yeyuxing)</p>
 <hr>
@@ -44,8 +44,6 @@ p {text-align: center;}
 <hr>
 <p id="text">----------</p>
 <p id="text">网站版本：{{ page.version-ch }}，{{ page.version-num }}-{{ site.github.build_revision | truncate: 7, "" }}
-<br>
-  最后更新： {{ site.time | %B %d %y }}
 <br>
   Copyright © 2020 tcps/资讯部 保留所有权利。<br>由 GitHub Pages 提供技术支持<br>
 <h1 id="left">版权资讯</h1>
