@@ -20,7 +20,7 @@ They're</p>
 <img src="https://store.theotown.com/get_file?name=afFLO4moTOuVMOL7l4BWWw" style="width: 100%">
 <img src="/images/th.png" style="width: 100%">
 <p class="text">Those plugins are now available on forum, <a href="/jump/surprising-triple/free-plugins/">click here to download all of them</a></p>
-<h1>Free plugins every month></h1>
+<h1>Free plugins every month</h1>
 <p class="text">We're proud to annouce, from now on<sup>2</sup>, we will have one plugin free every month. Come back to our website, or check our post on the fourm, learn about what've free that month.</p>
 <h1>Whole new website</h1>
 <p class="text">As you see, we update our website. It's pretty cool, and informationtive. You can check out our plugins, learn our latest news, join to our events, and much more.</p>
