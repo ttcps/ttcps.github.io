@@ -1,6 +1,6 @@
 ---
 author: tcps
-des: Surprising all're coming, check out what have we prepare for you.
+des: Surprising all're coming,<br>check out what have we prepare for you.
 rimg: /images/surprising_triple.png
 ---
 To celebrate tcps anniversary, tcps prepare a lot of surprise to TheoTown Community, check it out.
