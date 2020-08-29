@@ -77,7 +77,7 @@ window.onload=detectmob
 <h1><div id="left">News</div></h1>
 <hr>
 <ul>
-  {% for post in site.posts %}
+  {% for post in site.posts reverse %}
     <li>
       <div>
   <a href="{{ post.url }}">
