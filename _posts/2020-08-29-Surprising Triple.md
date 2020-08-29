@@ -3,7 +3,7 @@ author: tcps
 des: Surprising all're coming,<br>check out what have we prepare for you.
 rimg: /images/surprising_triple.png
 ---
-To celebrate tcps anniversary, tcps prepare a lot of surprise to TheoTown Community, check it out.
+To celebrate tcps anniversary, tcps prepare a lot of surprises to TheoTown Community, check it out.
 
 <h1>Four plugins free<sup>1</sup></h1>
 <p class="text">To celebrate our works results over the years, we featured four plugins to free download by yours, in this one week.<br>
@@ -20,7 +20,12 @@ They're</p>
 <img src="https://store.theotown.com/get_file?name=afFLO4moTOuVMOL7l4BWWw" style="width: 100%">
 <img src="/images/th.png" style="width: 100%">
 <p class="text">Those plugins are now available on forum, <a href="/jump/surprising-triple/free-plugins/">click here to download all of them</a></p>
-<h1>All plugins are on sale<sup>1</sup></h1>
-<p class="text">We're proud to annouce, all of our plugins on TheoTown In-Game Plugin Store, NOW ON SALE!<br>It's the time to supplement your plugins libary, visit tcps on plugins store, choose your favourite one, get it by few diamonds, or get it by watching ads.<br>And a exciting point... discounts up to 90% off!</p>
-<h3>From now on, you can enjoy those above two, till 5th Sep, 2020.(6:00, UTC-7, Pacific Standard)</h3>
+<h1>Free plugins every month></h1>
+<p class="text">We're proud to annouce, from now on<sup>2</sup>, we will have one plugin free every month. Come back to our website, or check our post on the fourm, learn about what've free that month.</p>
 <h1>Whole new website</h1>
+<p class="text">As you see, we update our website. It's pretty cool, and informationtive. You can check out our plugins, learn our latest news, join to our events, and much more.</p>
+<h1>Epilogue</h1>
+<p class="text">We hope you can enjoy our surprises, we're look forward to see you at the next anniversary of tcps.</p>
+<hr>
+<p><sup>1</sup>Till 5th Sep, 2020.(6:00, UTC-7, Pacific Standard)<br><sup>2</sup>From 5th Sep up, every month's first Saturday (6:00, UTC-7, Pacific Standard)</p>
+<hr>
