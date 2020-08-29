@@ -31,8 +31,6 @@ p {text-align: center;}
         color:black;
         text-align: left;
 </style>
-<div style="height: 30px"></div>
-<hr>
 <p style="font-size:15px;color:black;text-align:left;height: 15px;line-height: 15px">Augest 29, 2020</p>
 <h1 id="left">To all who love TheoTown,</h1>
 <p id="text">Today, August 29, is our anniversary. In the past year, we did many things that surprised all TheoTown community. Until now, we've released over 38 plugins. Beside it, we've prepared a lot of surprised for you, check it out.</p>
