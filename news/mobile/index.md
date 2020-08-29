@@ -63,7 +63,7 @@ a:visited { text-decoration: none;}
 <h1><div id="left">News</div></h1>
 <hr>
 <ul>
-  {% for post in site.posts %}
+  {% for post in site.posts reversed %}
     <li style="text-align: center">
       <div>
   <a href="{{ post.url }}">
