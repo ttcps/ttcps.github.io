@@ -24,6 +24,7 @@ They're</p>
 <p class="text">We're proud to annouce, from now on<sup>2</sup>, we will have one plugin free every month. Come back to our website, or check our post on the fourm, learn about what've free that month.</p>
 <h1>Whole new website</h1>
 <p class="text">As you see, we update our website. It's pretty cool, and informationtive. You can check out our plugins, learn our latest news, join to our events, and much more.</p>
+<img src="/images/tcps_site_Applei8.png" style="width: 100%">
 <h1>Epilogue</h1>
 <p class="text">We hope you can enjoy our surprises, we're look forward to see you at the next anniversary of tcps.</p>
 <hr>
