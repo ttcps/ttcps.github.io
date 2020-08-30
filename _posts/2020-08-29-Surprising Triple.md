@@ -8,14 +8,12 @@ rimg: /images/surprising_triple.png
 <h1>Four plugins free<sup>1</sup></h1>
 <p class="text">To celebrate our works results over the years, we featured four plugins to free download by yours, in this one week.<br>
 They're</p>
-<p class="text">
 <ul>
-<li>China Modern Office Building</li>
-<li>FAST Spherical Telescope</li>
-<li>Hong Kong Shunk Tak Centre</li>
-<li>Tropical Hotel</li>
+<li><p class="text">China Modern Office Building</p></li>
+<li><p class="text">FAST Spherical Telescope</p></li>
+<li><p class="text">Hong Kong Shunk Tak Centre</p></li>
+<li><p class="text">Tropical Hotel</p></li>
 </ul>
-</p>
 <p class="text">Those plugins are pretty cool, and be ready to install on your device, and put it into your favorite city.<br> The one of them &mdash; China Modern Office Building, has benn featured  by the official of TheoTown.</p>
 <img src="/images/02c1a2618a1b3afc29a88dda0801d48.jpg" style="width: 100%">
 <img src="https://store.theotown.com/get_file?name=2SqMOY3Obb8tPtQaMnDJ7Q" style="width: 100%">
