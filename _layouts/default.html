@@ -15,7 +15,12 @@
     <meta property="og:image" content="{{ page.rimg | default: "https://ttcps.github.io/images/tcps_og-image.png" }}" />
     <meta property="og:url" content="{{ page.url }}" />
     <meta property="og:site_name" content="tcps" />
+    {% if page.title %}
     <title>{{page.title}} - tcps</title>
+    {% else %}
+    <title>tcps</title>
+    {% endif %}
+    
     {% if page.jump-link %}
       <link rel="canonical" href="{{ page.jump-link }}">
       <meta http-equiv="refresh" content="0; url="{{ page.jump-link }}">
