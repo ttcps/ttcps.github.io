@@ -6,7 +6,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="Description" content="{{ page.des | default: "tcps &mdash; TheoTown Chinese Plugins Studio. Check out our plugins, and latest news." }}">
     <meta property="og:type" content="website" />  
+    {% if page.title %}
     <meta property="og:title" content="{{ page.title }} - tcps" />
+    {% else %}
+    <meta property="og:title" content="tcps" />'
+    {% endif %}
     <meta property="og:description" content="{{ page.des | default: "tcps &mdash; TheoTown Chinese Plugins Studio. Check out our plugins, and latest news." }}" />
     <meta property="og:image" content="{{ page.rimg | default: "https://ttcps.github.io/images/tcps_og-image.png" }}" />
     <meta property="og:url" content="{{ page.url }}" />
