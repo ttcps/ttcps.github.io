@@ -11,6 +11,9 @@ title: Update Log
 hr{
   margin: 20px auto
 }
+h1{
+  text-align: center
+}
 </style>
 <h1 style="text-align: left">Update Log</h1>
 <hr>
