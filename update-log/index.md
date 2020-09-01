@@ -22,7 +22,7 @@ hr{
 </ul>
 {% endfor %}
 </details>
-{% for version in site.data.versions %}
+{% for version in site.data.versions reversed %}
 <hr>
 <h1 style="text-align: left" id="{{ version.code }}">{{ version.num }}</h1>
 <p class="text">{{ version.content }}</p>
