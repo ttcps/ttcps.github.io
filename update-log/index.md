@@ -18,7 +18,7 @@ hr{
 <summary>Versions</summary>
 <ul>
 {% for version in site.data.versions %}
-<li><p class="text"><a href="/update-log/#{{ version.code }}"></p></li>
+  <li><p class="text"><a href="/update-log/#{{ version.code }}">{{ version.num }}</a></p></li>
 </ul>
 </detail>
 <hr>
