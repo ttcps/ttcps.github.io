@@ -26,4 +26,4 @@ hr{
 <hr>
 <h1 style="text-align: left" id="{{ version.code }}">{{ version.num }}</h1>
 <p class="text">{{ version.content }}</p>
-
+{% endfor %}
