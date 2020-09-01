@@ -14,13 +14,13 @@ hr{
 </style>
 <h1 style="text-align: left">Update Log</h1>
 <hr>
-<detail>
+{% for version in site.data.versions %}
+<details>
 <summary>Versions</summary>
 <ul>
-{% for version in site.data.versions %}
   <li><p class="text"><a href="/update-log/#{{ version.code }}">{{ version.num }}</a></p></li>
 </ul>
-</detail>
+</details>
 <hr>
 <h1 style="text-align: left" id="{{ version.code }}">{{ version.num }}</h1>
 <p class="text">{{ version.content }}</p>
