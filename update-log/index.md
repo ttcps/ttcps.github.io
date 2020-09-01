@@ -19,10 +19,8 @@ hr{
 <ul>
 {% for version in site.data.versions %}
 <li><p class="text"><a href="/update-log/#{{ version.code }}"></p></li>
-{% endfor %}
 </ul>
 </detail>
-{% for version in site.data.versions %}
 <hr>
 <h1 style="text-align: left" id="{{ version.code }}">{{ version.num }}</h1>
 <p class="text">{{ version.content }}</p>
