@@ -8,6 +8,12 @@ title: Update Log
   color:black;
   text-align: left;
 }
+.atext{
+  line-height: 35px;
+  font-size: 15px;
+  color:black;
+  text-align: left;
+}
 hr{
   margin: 20px auto
 }
@@ -21,7 +27,7 @@ h1{
   <summary><span class="text">Versions</span></summary>
 {% for version in site.data.versions %}
 <ul>
-  <li><p class="text"><a href="/update-log/#{{ version.code }}">{{ version.num }}</a></p></li>
+  <li><<a href="/update-log/#{{ version.code }}" class="atext">{{ version.num }}</a></li>
 </ul>
 {% endfor %}
 </details>
