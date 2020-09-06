@@ -1,3 +1,6 @@
 - num: 1.01
   code: 1-01
   content: 'Add "Update Log" page'
+- num: 1.02
+  code: 1-02
+  content: 'Fix display bugs on News Page'
