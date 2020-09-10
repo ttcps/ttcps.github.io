@@ -7,8 +7,10 @@ paginate_path:
 - "news/page:num"
 - "news/mobile/page:num/"
 
-{% if page.author %}
-  permalink: /news/:year/:month/:day/:title/
-{% else %}
-  
-{% endif %}
+defaults:
+  -
+    scope:
+      path: "/news/" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      permalink: /news/:year/:month/:day/:title/
