@@ -29,3 +29,4 @@ p {text-align: center;}
 <p id="left"><a href="/int">Internal Network(Chinese)</a></p>
 <hr>
 <p id="left"><a href="/404">404 Test Page</a></p>
+{{ page.url }}
