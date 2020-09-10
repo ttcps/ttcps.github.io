@@ -4,3 +4,6 @@
 - num: 1.02
   code: 1-02
   content: 'Fix display bugs on News Page'
+- num: 1.03
+  code: 1-03
+  content: 'Permalink of News Page changed'
