@@ -6,7 +6,7 @@ paginate: 10
 paginate_path:
 - "news/page:num"
 - "news/mobile/page:num/"
-{% if page.layout == post %}
+{% if page.layout == "post" %}
   permalink: /news/:year/:month/:day/:title/
 {% else %}
   
