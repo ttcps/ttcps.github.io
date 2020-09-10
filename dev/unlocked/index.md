@@ -30,4 +30,5 @@ p {text-align: center;}
 <hr>
 <p id="left"><a href="/404">404 Test Page</a></p>
 {{ page.url }}
+
 {{ page.path }}
