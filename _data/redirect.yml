@@ -1,0 +1,3 @@
+urls:
+- /test/
+  redirect: /dev/unlocked/
