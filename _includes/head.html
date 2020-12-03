@@ -3,8 +3,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <title>
-    {% if page.title == "Home" %}
-      {{ site.title }}{% if site.tagline %} - {{ site.tagline }}{% endif %}
+    {% if page.layout == "home" %}
+      tcps
     {% else %}
       {{ page.title }} - {{ site.title }}
     {% endif %}
