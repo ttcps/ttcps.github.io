@@ -1,8 +1,41 @@
-theme: jekyll-theme-minimal
+# Setup
 title: tcps
-# Google Analytics
-google_analytics: UA-147400618-4
-paginate: 10
-paginate_path:
-- "news/page:num"
-- "news/mobile/page:num/"
+tagline: 
+url: https://ttcps.github.io/insider/
+baseurl: ""
+permalink: /:title/
+timezone: Asia/Shanghai
+
+# Gems
+plugins:
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-seo-tag
+
+# Optimize Jekyll
+exclude:
+  - .editorconfig
+  - .git
+  - .jekyll-cache
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.md
+  - README.md
+
+sass:
+  sass_dir: _sass
+  style: :compressed
+
+# Options
+
+# Replace this value and uncomment to enable Google Analytics tracking
+ga_analytics: 
+
+# Specify the author for blog posts
+author:
+  name: tcps
+  url: https://ttcps.github.io/
+  email: tcps0team@gmail.com
+
+# Custom vars
+version: 3.0.0

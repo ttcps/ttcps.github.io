@@ -1,0 +1,34 @@
+---
+layout: default
+title: 主页
+---
+
+欢迎来到我的博客。
+<hr>
+{% if site.posts <= 0 %}
+<p>这里没有博客...</p>
+{% else %}
+<ul style="list-style-type:none;margin:0;padding:0">
+  {% for post in site.posts limit: 5 %}
+    <li>
+      <a href="{{ post.url }}" style="text-decoration: none">
+        <div style="width: 100%">
+          <h3>{{ post.title }}</h3>
+          <span style="color: #495057">{{ post.des | default: "这篇文章没有描述" }}</span>
+          <br>
+          <small style="color: #495057">{{ post.date | date: "%Y年%-m月%-d日" }}</small>
+        </div>
+      </a>
+    </li>
+  {% endfor %}
+</ul>
+{% endif %}
+{% if site.posts.size > 5 %}
+<hr>
+<a href="/archive" class="one-pan-link-mark" style="text-decoration: none">
+<div style="width: 100%; height: 100%">
+<p style="text-align:center; color: #000000; margin: 0px">查看所有博客</p>
+</div>
+</a>
+<hr>
+{% endif %}

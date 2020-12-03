@@ -1,35 +1,27 @@
 ---
 layout: default
-permalink: pretty
 ---
 
-<style type="text/css">
-.text{
-  line-height: 35px;
-  font-size: 15px;
-  color:black;
-  text-align: left;
-}
-h1{
-  text-align:center
-  }
-hr{
-  margin: 20px auto
-}
-</style>
+{% include post_style.html %}
 
-<h1 style="text-align:left">{{ page.title }}</h1>
+<article class="post">
+  <h1 class="post-title">{{ page.title }}</h1>
+  <time datetime="{{ page.date |  date: "%Y年%-m月%-d日" }}" class="post-date">{{ page.date | date: "%Y年%-m月%-d日" }}</time>
+  {{ content }}
+</article>
 
-<img src="{{ page.rimg }}" style="width: 100%">
-<div style="height: 20px"></div>
-
-{{content}}
-
-<hr>
-Posted on {{ page.date | date: "%-d %B %Y" }}
-<br>
-Author: {{ page.author }}
-    <div style="height:20px"></div>
-<a href="/news">
-    <img src="/images/T-News-banner0.svg" style="width:100%">
-    </a>
+{% if site.related_posts != empty %}
+<aside class="related">
+  <h3>相关文章</h3>
+  <ul class="related-posts">
+    {% for post in site.related_posts limit:3 %}
+      <li>
+        <a href="{{ site.baseurl }}{{ post.url }}">
+          {{ post.title }}
+          <small><time datetime="{{ post.date | date: "%Y年%-m月%-d日" }}">{{ post.date | date: "%Y年%-m月%-d日" }}</time></small>
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+</aside>
+{% endif %}
