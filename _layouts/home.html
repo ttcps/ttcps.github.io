@@ -7,11 +7,6 @@
     <h1 style="font-size:15px;line-height: 40px;background-color: #1d1d1d;text-align: center; margin: 0px;"><a href="/" style="color: #ffffff;text-decoration: none;">tcps.</a></h1>
     {% include banner.html background-color="var(--link-color)" text="<a href='/covid' style='color: #ffffff; text-decoration: none;'>Stay home, stay safe. Learn more about COVID-19.</a>" %}
     {% include banner.html text="This site is under construction..." %}
-    <div class="container content" style="calc(100vh - 220px)">
-      <main>
-        {{ content }}
-      </main>
-   <div style="padding-top: 10px;padding-bottom: 50px;padding-left: var(--spacer-2);padding-right: var(--spacer-2);margin-left: auto;margin-right: auto;background-color: #f0f0f0;position:absolute;width: 100%;height: 100px;">
     <footer class="footer" style="margin: 0px">
         <small>
           Copyright © <time datetime="2020-12-03T23:11:46+08:00">2020</time> tcps all right reserved.
@@ -21,6 +16,21 @@
         </small>
       </footer>
    </div>
+    <div class="container content" style="min-height: calc(100vh - 220px)">
+      <main>
+        {{ content }}
+      </main>
+    </div>
+    <div style="padding-top: 10px;padding-bottom: 50px;padding-left: var(--spacer-2);padding-right: var(--spacer-2);margin-left: auto;margin-right: auto;background-color: #f0f0f0;position:absolute;width: 100%;height: 100px;">
+    <footer class="footer" style="margin: 0px">
+        <small>
+          Copyright © <time datetime="2020-12-03T23:11:46+08:00">2020</time> tcps all right reserved.
+        </small>
+        <small>
+          <a href="javascript:location.reload();" style="text-decoration: none; color: #495057">b164162</a><a href="/info" style="text-decoration: none; color: #495057">...</a>
+        </small>
+      </footer>
+    </div>
 
     {% if site.ga_analytics %}
      <script>
