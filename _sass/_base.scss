@@ -32,7 +32,8 @@ a {
   &:focus {
     color: var(--link-hover-color);
   }
-  &:active{
+  &:active,
+  &:hover {
   text-decoration: underline; 
   }
   strong {
