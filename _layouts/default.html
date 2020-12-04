@@ -11,9 +11,10 @@
         {{ content }}
       </main>
 
-      <footer class="footer">
+    <div style="padding-top: 10px;padding-bottom: 50px;padding-left: var(--spacer-2);padding-right: var(--spacer-2);margin-left: auto;margin-right: auto;background-color: #f0f0f0;position:absolute;width: 100%;height: 100px;">
+    <footer class="footer" style="margin: 0px">
         <small>
-          Copyright &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time> tcps all right reserved.
+          Copyright © <time datetime="2020-12-03T23:11:46+08:00">2020</time> tcps all right reserved.
         </small>
         <small>
           <a href="javascript:location.reload();" style="text-decoration: none; color: #495057">{{ site.github.build_revision | truncate: 7, "" }}</a><a href="/info" style="text-decoration: none; color: #495057">...</a>
