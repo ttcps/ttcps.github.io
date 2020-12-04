@@ -1,7 +1,7 @@
 # Setup
 title: tcps
 tagline: 
-url: https://ttcps.github.io/insider/
+url: https://ttcps.github.io/
 baseurl: ""
 permalink: /:title/
 timezone: Asia/Shanghai
