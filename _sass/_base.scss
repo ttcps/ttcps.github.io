@@ -26,19 +26,18 @@ a {
   &:focus {
     color: var(--link-hover-color);
   }
-
+  &:link,
+  &:visited{
+    text-decoration: none;
+  }
   strong {
     color: inherit;
   }
-}
-a:link, a:visited{
-  text-decoration: none;
 }
 img {
   display: block;
   max-width: 100%;
   margin-bottom: var(--spacer);
-  border-radius: var(--border-radius);
 }
 
 table {
