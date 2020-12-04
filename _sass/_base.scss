@@ -31,7 +31,9 @@ a {
     color: inherit;
   }
 }
-
+a:link, a:visited{
+  text-decoration: none;
+}
 img {
   display: block;
   max-width: 100%;
