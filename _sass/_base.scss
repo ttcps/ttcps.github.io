@@ -30,6 +30,10 @@ a {
   &:visited{
     text-decoration: none;
   }
+  &:hover,
+  &:active {
+    text-decoration: underline;
+  }
   strong {
     color: inherit;
   }
