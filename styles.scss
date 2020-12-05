@@ -46,7 +46,9 @@
   }
 }
 
-main :first-child{
-  margin-top: 0px;
-  padding-top: 20px;
+main {
+  *.first {
+    margin-top: 0px;
+    padding-top: 20px;
+  }
 }
