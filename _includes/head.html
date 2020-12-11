@@ -9,6 +9,13 @@
       {{ page.title }} - {{ site.title }}
     {% endif %}
   </title>
+  <style type="text/css">
+    @import url('https://rsms.me/inter/inter.css');
+    html { font-family: 'Inter', sans-serif; }
+    @supports (font-variation-settings: normal) {
+    html { font-family: 'Inter var', sans-serif; }
+    }
+  </style>
 
   <link rel="stylesheet" href="{{ 'styles.css' | relative_url }}">
   <link rel="shortcut icon" href="{{ '/assets/favicon.ico' | relative_url }}">
