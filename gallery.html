@@ -4,7 +4,10 @@ title: Gallery
 ---
 <h1 style="text-align: center; margin-bottom: 0.67em; margin-top: 0px; padding-top: 0.67em; font-size: 3rem;">Gallery</h1>
 <hr>
-<p style="text-align: center">Nothing available here</p>
+{% for img in site.data.gallery %}
+<img src="{{ img.url }}" style="width: 100%">
+<p style="text-align: center">{{ img.author }}</p>
+{% endfor %}
 <hr>
 <div style="text-align: center;">
   <h3>Contribute this gallery</h3>
