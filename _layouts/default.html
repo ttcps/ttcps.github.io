@@ -5,12 +5,15 @@
 
   <body>
     <script>
-      var header = document.getElementById('header');
-      var headerh = header.offsetHeight;
-      var footer = document.getElementById('footer');
-      var footerh = footer.offsetHeight;
-      var minh = headerh + footerh ;
-      var content = document.getElementById('maincnt');content.style.setProperty('--minh', 'calc(100vh - '+minh+'px)');
+      window.onload = function(){
+    var header = document.getElementById('header');
+    var headerh = header.offsetHeight;
+    var footer = document.getElementById('footer');
+    var footerh = footer.offsetHeight;
+    var minh = headerh + footerh ;
+    var content = document.getElementById('maincnt');content.style.setProperty('--minh', 'calc(100vh - '+minh+'px)');
+    }
+
     </script>
     <div id="header">
     <h1 style="font-size:15px;line-height: 40px;background-color: #1d1d1d;text-align: center; margin: 0px;"><a href="/" style="color: #ffffff;text-decoration: none;">tcps.</a></h1>
