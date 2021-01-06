@@ -5,17 +5,18 @@
 
   <body>
     <script>
-      header = document.getElementById(header);
-      footer = document.getElementById(footer);
-      minh = header+footer
-      style = "min-height: calc" + "( 100vh - " minh "px)";
-      footer = document.getElementByClassName(container content).style=style;
+      var header = document.getElementById('header');
+      var headerh = header.offsetHeight;
+      var footer = document.getElementById('footer');
+      var footerh = footer.offsetHeight;
+      var minh = headerh + footerh ;
+      document.getElementById('content').minh=minh;
     </script>
     <div id="header">
     <h1 style="font-size:15px;line-height: 40px;background-color: #1d1d1d;text-align: center; margin: 0px;"><a href="/" style="color: #ffffff;text-decoration: none;">tcps.</a></h1>
     {% include banner.html text="This site is under construction..." %}
     </div>
-    <div class="container content" style="void">
+    <div class="container content" id="content">
       <main>
         {{ content }}
       </main>
