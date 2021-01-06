@@ -4,17 +4,27 @@
   {% include head.html %}
 
   <body>
+    <script>
+      header = document.getElementById(header);
+      footer = document.getElementById(footer);
+      minh = header+footer
+      style = "min-height: calc" + "( 100vh - " minh "px)";
+      footer = document.getElementByClassName(container content).style=style;
+    </script>
+    <div id="header">
     <h1 style="font-size:15px;line-height: 40px;background-color: #1d1d1d;text-align: center; margin: 0px;"><a href="/" style="color: #ffffff;text-decoration: none;">tcps.</a></h1>
     {% include banner.html text="This site is under construction..." %}
+    </div>
     <div class="container content" style="min-height: calc(100vh - 248px)">
       <main>
         {{ content }}
       </main>
     </div>
-
+    <div id="footer">
     {% include footer.html %}
 
     {% if site.ga_analytics %}
+    </div>
      <script>
        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
