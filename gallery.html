@@ -5,7 +5,7 @@ title: Gallery
 <h1 style="text-align: center; margin-bottom: 0.67em; margin-top: 0px; padding-top: 0.67em; font-size: 3rem;">Gallery</h1>
 <hr>
 {% for img in site.data.gallery %}
-<img src="{{ img.url }}" style="width: 100%">
+<img src="{{ img.url }}" style="width: 100%;user-select: none;">
 <p style="text-align: center">credit: {{ img.author }}</p>
 {% endfor %}
 <hr>
