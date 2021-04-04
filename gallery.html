@@ -2,11 +2,24 @@
 layout: default
 title: Gallery
 ---
+
+<script>
+/*显示隐藏图片
+ * @param   id  div的id
+ * @param   show | hide
+ */
+function showImg()
+{
+    document.getElementByClassName(img).style.visibility = 'visible';
+    document.getElementByClassName(button).style.visibility = 'hidden';
+}
+</script>
 <h1 style="text-align: center; margin-bottom: 0.67em; margin-top: 0px; padding-top: 0.67em; font-size: 3rem;">Gallery</h1>
 <hr>
+<div style="width:200px;height:50px;margin: 25px auto;border-style:solid;border-width:2px;text-align: center;line-height:50px;font-weight:600;color:black;" class="button"><a href="javascript:showImg();" style="text-decoration: none;color: inherit;"><div style="width:200px;height:50px;">Show Images</div></a></div>
 {% for img in site.data.gallery %}
-<img src="{{ img.url }}" style="width: 100%;user-select: none;">
-<p style="text-align: center">credit: {{ img.author }}</p>
+<img src="{{ img.url }}" style="width: 100%;user-select: none;" class="img" visibility: hidden;>
+<p style="text-align: center" class="img" visibility: hidden;>credit: {{ img.author }}</p>
 {% endfor %}
 <hr>
 <div style="text-align: center;">
