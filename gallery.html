@@ -2,25 +2,17 @@
 layout: default
 title: Gallery
 ---
-
-<script>
-function showImg()
-{
-    document.getElementByClassName(img).style.visibility = 'visible';
-    document.getElementByClassName(button).style.visibility = 'hidden';
-}
-</script>
 <h1 style="text-align: center; margin-bottom: 0.67em; margin-top: 0px; padding-top: 0.67em; font-size: 3rem;">Gallery</h1>
 <hr>
-<div style="width:200px;height:50px;margin: 25px auto;border-style:solid;border-width:2px;text-align: center;line-height:50px;font-weight:600;color:black;" class="button"><a href="javascript:showImg();" style="text-decoration: none;color: inherit;"><div style="width:200px;height:50px;">Show Images</div></a></div>
 {% for img in site.data.gallery %}
-<img src="{{ img.url }}" style="width: 100%;user-select: none; visibility:hidden;" class="img">
-<p style="text-align: center;visibility: hidden;" class="img">credit: {{ img.author }}</p>
+<img src="{{ img.url }}" style="width: 100%;user-select: none;">
+<p style="text-align: center">credit: {{ img.author }}</p>
 {% endfor %}
 <hr>
 <div style="text-align: center;">
   <h3>Contribute this gallery</h3>
   <p>Everyone can be creator.<br>Submit your creation, be the one.</p>
+  <a href="">Submit your creation</a>
   <span style="font-weight:600;color: black;">Submit your creation to <a href="mailto:gallery@tcps.ml">gallery@tcps.ml</a> with your TheoTown ID</span>
   <br>
   <small>By sumbmitting you agree with <a href="https://creativecommons.org/licenses/by-nc/3.0/">CC BY-NC 3.0</a></small>
