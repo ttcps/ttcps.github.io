@@ -28,10 +28,12 @@
 @import "pagination";
 @import "message";
 @import "toc";
+
+// Sass for creating the swatches
+
 @import url(https://fonts.googleapis.com/earlyaccess/notosanstc.css);
 @import url(https://fonts.googleapis.com/earlyaccess/notosanssc.css);
 
-// Sass for creating the swatches
 .colors {
   display: grid;
   grid-template-columns: max-content 1fr;
