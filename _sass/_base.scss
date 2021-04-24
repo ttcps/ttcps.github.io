@@ -2,13 +2,16 @@
 //
 // Update the foundational and global aspects of the page.
 
+@import url(//fonts.googleapis.com/earlyaccess/notosanstc.css);
+@import url(//fonts.googleapis.com/earlyaccess/notosanssc.css);
+
 * {
   box-sizing: border-box;
 }
 
 body {
   margin: 0;
-  font-family: Arial, sans-serif;
+  font-family: Arial, 'Noto Sans TC', 'Noto Sans SC', sans-serif;
   font-size: var(--body-font-size);
   line-height: var(--body-line-height);
   color: var(--body-color);
