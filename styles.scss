@@ -52,3 +52,10 @@ main {
     padding-top: 20px;
   }
 }
+
+body {
+  @import url(https://fonts.googleapis.com/earlyaccess/notosanstc.css);
+  @import url(https://fonts.googleapis.com/earlyaccess/notosanssc.css);
+  margin: 0;
+  font-family: Arial, 'Noto Sans TC', 'Noto Sans SC', sans-serif;
+}
