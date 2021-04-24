@@ -6,10 +6,11 @@
 * {
   box-sizing: border-box;
 }
-
-body {
+  
   @import url(https://fonts.googleapis.com/earlyaccess/notosanstc.css);
   @import url(https://fonts.googleapis.com/earlyaccess/notosanssc.css);
+
+body {
   margin: 0;
   font-family: Arial, 'Noto Sans TC', 'Noto Sans SC', sans-serif;
   font-size: var(--body-font-size);
