@@ -1,9 +1,11 @@
 <?xml version="1.0"?>
-<notice>No Workday for June!</notice>
-<WorkDay>
-<formalWorkDay>20210704</formalWorkDay>
-<spareWorkDay>20210724</spareWorkDay>
-<spareWorkDay>20210725</spareWorkDay>
-<spareWorkDay>20210728</spareWorkDay>
-<spareWorkDay>20210731</spareWorkDay>
-</WorkDay>
+<root>
+  <notice>No Workday for June!</notice>
+  <WorkDay>
+    <formalWorkDay>20210704</formalWorkDay>
+    <spareWorkDay>20210724</spareWorkDay>
+    <spareWorkDay>20210725</spareWorkDay>
+    <spareWorkDay>20210728</spareWorkDay>
+    <spareWorkDay>20210731</spareWorkDay>
+  </WorkDay>
+</root>
