@@ -1,6 +1,9 @@
 <?xml version="1.0"?>
 <root>
-  <notice>Attention: No Workday for June!\n</notice>
+  <notice>
+    Attention: No Workday for June!
+    
+  </notice>
   <WorkDay period="202107">
     <formalWorkDay>20210704</formalWorkDay>
     <spareWorkDay>20210724</spareWorkDay>
