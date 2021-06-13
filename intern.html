@@ -4,7 +4,7 @@ var testV = 1;
 var pass1 = prompt('Please Enter Passcode','');
 while (testV < 3) {
 if (!pass1){
-document.cookie="internP=0;";
+document.cookie="internP=10;";
 history.go(-1);
 }
 if (pass1 == "8277dev") {
@@ -16,7 +16,7 @@ var pass1 =
 prompt('Password Wrong');
 }
 if (pass1!="password" & testV ==3){
-document.cookie="internP=0;";
+document.cookie="internP=10;";
 history.go(-1);
 return " ";
 }
