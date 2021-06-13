@@ -10,7 +10,7 @@
     var headerh = header.offsetHeight;
     var footer = document.getElementById('footer');
     var footerh = footer.offsetHeight;
-    var minh = headerh + footerh ;
+    var minh = headerh + footerh + 1;
     var content = document.getElementById('maincnt');content.style.setProperty('--minh', 'calc(100vh - '+minh+'px)');
     }
 
