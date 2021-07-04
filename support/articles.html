@@ -4,17 +4,10 @@ title: Support Articles
 ---
 <h1 style="text-align: center; margin-bottom: 0.67em; margin-top: 0px; padding-top: 0.67em; font-size: 3rem;">Support Articles</h1>
 <hr style="border-top: 2px solid black;">
-<!--{% for qna in site.supportqna %} -->
-
-<!-- {% endfor %} -->
+{% for qna in site.supportqna %}
 <div>
-<h2>How can I install plugins?</h2>
-<p>Put your plugin in these folder above</p>
-<ul>
-  <li>Windows：C:\Users\[username]\TheoTown\plugins</li>
-  <li>Android： /storage/emulated/0/TheoTown/plugins</li>
-  <li>iOS &amp; iPadOS：Files app/My iPhone（iPad）/TheoTown/plugins</li>
-</ul>
-<p>Or install it from in-game plugins store</p>
+<h2>{{ qna.q }}</h2>
+{{ qna.a}}
 <hr>
 </div>
+{% endfor %}
