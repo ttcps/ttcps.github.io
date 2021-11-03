@@ -4,7 +4,7 @@ layout: default
 ---
 <h1 class="first">Site Information</h1>
 
-Commit Version {{ site.github.build_revision | truncate: 7, "" }}
+Commit Version {{ site.github.build_revision | truncate: 7, "" }} ({{site.version}})
 <a href="javascript:alert('It is for Developer to check the site update statement during a short time update.')">What is this?</a>
 <br>
 Last update: {{ site.time | date: "%Y/%-m/%-d" }}
