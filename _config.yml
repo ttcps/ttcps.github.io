@@ -6,6 +6,8 @@ baseurl: ""
 permalink: /:title/
 timezone: Asia/Shanghai
 
+version: "1A1"
+
 # Gems
 plugins:
   - jekyll-gist
@@ -36,6 +38,3 @@ author:
   name: tcps
   url: https://ttcps.github.io/
   email: tcps0team@gmail.com
-
-# Custom vars
-version: 3.0.0
