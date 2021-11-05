@@ -14,6 +14,13 @@
     var content = document.getElementById('maincnt');content.style.setProperty('--minh', 'calc(100vh - '+minh+'px)');
     }
     </script>
+    {% if site.preview=1 %}
+    <script>
+      let urlParams = new URLSearchParams(window.location.search);
+      if(urlParams.get('preview')!='{{ site.previewcode }}')
+        location="under-construction.html"
+    </script>
+    {% endif %}
     <div id="header">
     <h1 style="font-size:15px;line-height: 40px;background-color: #1d1d1d;text-align: center; margin: 0px;position: fixed; width: 100%"><a href="/" style="color: #ffffff;text-decoration: none;">tcps</a></h1>
     <div style="height: 40px;margin: 0px;"></div>
