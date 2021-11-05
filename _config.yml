@@ -8,6 +8,7 @@ timezone: Asia/Shanghai
 
 version: "10A3"
 previewcode: 39390101
+preview: 1
 
 # Gems
 plugins:
