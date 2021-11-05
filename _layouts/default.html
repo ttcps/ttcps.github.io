@@ -15,6 +15,13 @@
     }
 
     </script>
+    {% if site.preview=1 %}
+    <script>
+      let urlParams = new URLSearchParams(window.location.search);
+      if(urlParams.get('preview')!='{{ site.previewcode }}')
+        location="under-construction.html"
+    </script>
+    {% endif %}
     <div id="header">
     <h1 style="font-size:15px;line-height: 40px;background-color: #1d1d1d;text-align: center; margin: 0px;"><a href="/" style="color: #ffffff;text-decoration: none;">tcps</a></h1>
     </div>
