@@ -14,7 +14,7 @@
     var content = document.getElementById('maincnt');content.style.setProperty('--minh', 'calc(100vh - '+minh+'px)');
     }
     </script>
-    {% if site.preview=1 %}
+    {% if site.preview==1 %}
     <script>
       let urlParams = new URLSearchParams(window.location.search);
       if(urlParams.get('preview')!='{{ site.previewcode }}')
