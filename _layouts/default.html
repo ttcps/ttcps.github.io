@@ -15,10 +15,17 @@
     }
 
     </script>
-    {% if site.preview==1 or page.preview == 1 %}
+    {% if site.preview==1 %}
     <script>
       let urlParams = new URLSearchParams(window.location.search);
       if(urlParams.get('preview')!='{{ site.previewcode }}')
+        location="//ttcps.github.io/under-construction.html"
+    </script>
+    {% endif %}
+    {% if page.preview == 1 %}
+    <script>
+      let urlParams = new URLSearchParams(window.location.search);
+      if(urlParams.get('preview')!='{{ page.previewcode }}')
         location="//ttcps.github.io/under-construction.html"
     </script>
     {% endif %}
