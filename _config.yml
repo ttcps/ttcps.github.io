@@ -6,7 +6,7 @@ baseurl: ""
 permalink: /:title/
 timezone: Asia/Shanghai
 
-version: "10A2"
+version: "10A3"
 
 # Gems
 plugins:
