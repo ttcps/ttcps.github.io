@@ -1,5 +1,5 @@
 <script>
   let urlParams = new URLSearchParams(window.location.search);
-  if(urlParams.get('preview')!='1234')
+  if(urlParams.get('preview')!='{{ site.previewcode }}')
     location="under-construction.html"
 </script>
