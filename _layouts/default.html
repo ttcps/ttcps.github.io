@@ -7,14 +7,15 @@
     <script>
       window.onload = function(){
     var ul = document.getElementById('hUL');
-    var screenWidth = document.body.clientWidth;
-    if( ul.offsetWidth > screenWidth*0.6 )
+    var sWi  = document.body.clientWidth*0.6;
+    if( ul.offsetWidth > sWi )
     {
         var li = document.getElementById('headerLI');
         li.style.display= 'none' ;
     }
-    else
+    else{
         li.style.display= 'inline' ;
+    }
     var header = document.getElementById('header');
     var headerh = header.offsetHeight;
     var footer = document.getElementById('footer');
