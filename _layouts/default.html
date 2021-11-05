@@ -7,7 +7,8 @@
     <script>
       window.onload = function(){
     var ul = document.getElementById('hUL');
-    if( ul.offsetWidth > 720)
+    var screenWidth = document.body.clientWidth;
+    if( ul.offsetWidth > screenWidth*0.6 )
     {
         var li = document.getElementById('headerLI');
         li.style.display= 'none' ;
