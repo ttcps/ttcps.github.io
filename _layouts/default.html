@@ -19,14 +19,14 @@
     <script>
       let urlParams = new URLSearchParams(window.location.search);
       if(urlParams.get('preview')!='{{ site.previewcode }}')
-        location="//ttcps.github.io/under-construction.html"
+        location="//ttcps.github.io/under-construction"
     </script>
     {% endif %}
     {% if page.preview == 1 %}
     <script>
       let urlParams = new URLSearchParams(window.location.search);
       if(urlParams.get('preview')!='{{ page.previewcode }}')
-        location="//ttcps.github.io/under-construction.html"
+        location="//ttcps.github.io/nopermission_preview"
     </script>
     {% endif %}
     <div id="header">
