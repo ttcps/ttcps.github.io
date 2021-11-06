@@ -4,10 +4,10 @@
   <META HTTP-EQUIV="EXPIRES" CONTENT="0">
 
   <title>
-    {% if page.layout == "home" %}
-      tcps
-    {% else %}
+    {% if page.title %}
       {{ page.title }} - {{ site.title }}
+    {% else %}
+      tcps
     {% endif %}
   </title>
   <link rel="stylesheet" href="{{ 'styles.css' | relative_url }}">
