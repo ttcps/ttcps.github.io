@@ -6,7 +6,7 @@ baseurl: ""
 permalink: /:title/
 timezone: Asia/Shanghai
 
-version: "12C1"
+version: "12C2"
 previewcode: 39390101
 preview: 0
 
