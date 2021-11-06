@@ -31,6 +31,9 @@
     {% endif %}
     <div id="header">
     <h1 style="font-size:15px;line-height: 40px;background-color: #1d1d1d;text-align: center; margin: 0px;"><a href="/" style="color: #ffffff;text-decoration: none;">tcps</a></h1>
+    {% if site.preview == 1 or page.preview == 1 %}
+    {% include banner.html text="This page is under construction..." %}
+    {% endif %}
     </div>
     <div class="container content" id="maincnt" style="min-height: calc(var(--minh, 0px) - 25px);" >
       <main>
